@@ -1,6 +1,66 @@
 {
   "images": [
     {
+      "slug": "blog-course-hero",
+      "concept": "course creator filming video content at professional home studio setup, ring light, microphone, camera on tripod, modern creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-course-struggle",
+      "concept": "person looking disappointed at laptop showing low sales numbers, empty online course dashboard, dim lighting, stressed entrepreneur",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-course-templates",
+      "concept": "overhead view of course launch planning with laptop showing slides, content calendar, sticky notes, coffee cup, organized creative work",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-course-success",
+      "concept": "course creator celebrating at computer, hands raised in victory, laptop showing successful sales notification, bright happy moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-freelancer-hero",
+      "concept": "freelancer working on laptop in a bright modern home office, plants and natural light, focused creative professional, minimalist desk setup",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-freelancer-struggle",
+      "concept": "person at laptop looking stressed with head in hands, multiple browser tabs open, empty coffee cups, late night freelance work frustration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-freelancer-templates",
+      "concept": "overhead view of content planning with laptop, notebook, and sticky notes organized in columns, editorial calendar layout, bright workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-freelancer-success",
+      "concept": "freelancer smiling while reading laptop screen, celebrating good news, bright home office, successful business moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-coaches-hero",
+      "concept": "a coach in a one-on-one session with a client, modern bright office, two people having an engaged conversation across a table, professional and warm atmosphere",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-coaches-struggle",
+      "concept": "person sitting alone at laptop looking frustrated, head in hands, empty coffee cup, late night work session, moody lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-coaches-templates",
+      "concept": "overhead view of organized planning documents and notebooks on a desk, color-coded sticky notes, structured layout, natural light",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-coaches-success",
+      "concept": "coach and client shaking hands after a successful session, bright modern office, genuine smiles, professional achievement moment",
+      "category": "blog"
+    },
+    {
       "slug": "hero-home",
       "concept": "a writer's hands on a laptop keyboard in a modern minimalist workspace, warm lighting, shallow depth of field, coffee cup nearby",
       "category": "hero"
