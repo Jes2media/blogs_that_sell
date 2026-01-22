@@ -1,6 +1,26 @@
 {
   "images": [
     {
+      "slug": "blog-saas-hero",
+      "concept": "SaaS startup team in modern open office looking at metrics dashboard on large monitor, collaborative tech environment, natural light",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-saas-struggle",
+      "concept": "marketing manager looking frustrated at laptop showing flat growth charts, modern office, analytics dashboard with disappointing numbers",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-saas-templates",
+      "concept": "content strategy planning session with marketing team, whiteboards with content calendars and funnel diagrams, modern tech office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-saas-success",
+      "concept": "SaaS team celebrating around computer showing hockey stick growth chart, high fives, modern startup office, excited team moment",
+      "category": "blog"
+    },
+    {
       "slug": "blog-consultant-hero",
       "concept": "professional consultant in a high-end boardroom meeting with executive clients, glass walls, modern corporate interior, confident business discussion",
       "category": "blog"
