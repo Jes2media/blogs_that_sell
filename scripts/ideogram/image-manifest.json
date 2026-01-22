@@ -1,6 +1,26 @@
 {
   "images": [
     {
+      "slug": "blog-consultant-hero",
+      "concept": "professional consultant in a high-end boardroom meeting with executive clients, glass walls, modern corporate interior, confident business discussion",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-consultant-struggle",
+      "concept": "business professional alone in office looking at laptop with concern, comparing themselves to competitors, late evening, city lights through window",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-consultant-templates",
+      "concept": "strategic planning session with whiteboard full of frameworks, consultant presenting to small executive team, premium office environment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-consultant-success",
+      "concept": "consultant and client shaking hands after signing contract, premium office setting, celebration moment, professional achievement",
+      "category": "blog"
+    },
+    {
       "slug": "blog-course-hero",
       "concept": "course creator filming video content at professional home studio setup, ring light, microphone, camera on tripod, modern creative workspace",
       "category": "blog"
