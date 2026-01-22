@@ -1,6 +1,26 @@
 {
   "images": [
     {
+      "slug": "blog-funnel-hero",
+      "concept": "marketing strategist mapping out customer journey on large whiteboard with funnel diagram, modern office, strategic planning session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-funnel-struggle",
+      "concept": "overwhelmed marketer surrounded by scattered papers and sticky notes, chaotic desk, trying to organize content strategy, stressed",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-funnel-templates",
+      "concept": "clean organized marketing funnel diagram on computer screen with connected content pieces, professional workspace, strategic clarity",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-funnel-success",
+      "concept": "marketer smiling at laptop showing upward trending conversion chart, clean modern desk, success moment, morning light",
+      "category": "blog"
+    },
+    {
       "slug": "blog-saas-hero",
       "concept": "SaaS startup team in modern open office looking at metrics dashboard on large monitor, collaborative tech environment, natural light",
       "category": "blog"
