@@ -1,5 +1,11 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+interface BreadcrumbItem {
+  label: string;
+  href?: string;
+}
 
 interface Props {
   title: string;
@@ -9,6 +15,7 @@ interface Props {
   noindex?: boolean;
   jsonLd?: object;
   prose?: boolean;
+  breadcrumbs?: BreadcrumbItem[];
 }
 
 const {
@@ -19,7 +26,11 @@ const {
   noindex,
   jsonLd,
   prose = true,
+  breadcrumbs,
 } = Astro.props;
+
+// Default breadcrumbs: just the current page title
+const breadcrumbItems = breadcrumbs || [{ label: title }];
 ---
 
 <BaseLayout
@@ -32,6 +43,7 @@ const {
 >
   <article class="py-12 md:py-16 lg:py-20">
     <div class="container-narrow">
+      <Breadcrumbs items={breadcrumbItems} />
       <header class="mb-10 md:mb-12">
         <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 text-balance">
           {title}
