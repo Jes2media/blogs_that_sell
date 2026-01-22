@@ -1,6 +1,26 @@
 {
   "images": [
     {
+      "slug": "blog-direct-response-hero",
+      "concept": "classic direct mail letters and sales copy spread across desk with modern laptop, blending vintage and contemporary marketing, warm study lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-direct-response-struggle",
+      "concept": "split image showing boring generic content on one side versus engaging persuasive copy on the other, contrast in marketing approaches",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-direct-response-templates",
+      "concept": "marketer highlighting key elements of a sales letter with notes and annotations, analytical approach to copywriting, focused work",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-direct-response-success",
+      "concept": "laptop showing email signup notifications and conversion metrics, successful direct response campaign results, bright optimistic workspace",
+      "category": "blog"
+    },
+    {
       "slug": "blog-aida-hero",
       "concept": "professional copywriter at desk studying classic advertising books and frameworks, vintage meets modern aesthetic, focused creative work",
       "category": "blog"
