@@ -1,6 +1,26 @@
 {
   "images": [
     {
+      "slug": "blog-dr-content-hero",
+      "concept": "two streams merging into one powerful river, conceptual image representing content and conversion combining, dramatic landscape lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-dr-content-struggle",
+      "concept": "person drowning in stack of blog posts and content with zero leads or sales results, overwhelmed content creator, dramatic lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-dr-content-templates",
+      "concept": "strategic content funnel diagram on whiteboard with conversion points marked, marketing strategy session, clean modern office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-dr-content-success",
+      "concept": "marketer celebrating as laptop shows both high traffic and high conversion rates together, best of both worlds, bright success moment",
+      "category": "blog"
+    },
+    {
       "slug": "blog-direct-response-hero",
       "concept": "classic direct mail letters and sales copy spread across desk with modern laptop, blending vintage and contemporary marketing, warm study lighting",
       "category": "blog"
