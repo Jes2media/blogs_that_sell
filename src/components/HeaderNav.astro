@@ -39,7 +39,7 @@ const currentPath = Astro.url.pathname;
       <!-- CTA Button -->
       <div class="hidden md:block">
         <a href="/free-training" class="btn-accent text-sm">
-          Free Training
+          Get free training
         </a>
       </div>
 
@@ -63,7 +63,7 @@ const currentPath = Astro.url.pathname;
           <a
             href={link.href}
             class:list={[
-              'px-3 py-2 text-sm font-medium rounded-lg transition-colors',
+              'px-4 py-3 text-base font-medium rounded-lg transition-colors min-h-[48px] flex items-center',
               currentPath === link.href
                 ? 'bg-primary-50 text-primary-700'
                 : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50',
@@ -72,8 +72,8 @@ const currentPath = Astro.url.pathname;
             {link.label}
           </a>
         ))}
-        <a href="/free-training" class="btn-accent text-sm mt-2 text-center">
-          Free Training
+        <a href="/free-training" class="btn-accent text-base mt-2 text-center min-h-[48px] flex items-center justify-center">
+          Get free training
         </a>
       </div>
     </div>

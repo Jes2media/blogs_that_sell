@@ -151,3 +151,16 @@ import PageLayout from '../layouts/PageLayout.astro';
     </div>
   </div>
 </PageLayout>
+
+<script>
+  // Add loading state to form buttons on submit
+  document.querySelectorAll('form').forEach(form => {
+    form.addEventListener('submit', (e) => {
+      const button = form.querySelector('button[type="submit"]');
+      if (button) {
+        button.classList.add('btn-loading');
+        button.setAttribute('disabled', 'disabled');
+      }
+    });
+  });
+</script>

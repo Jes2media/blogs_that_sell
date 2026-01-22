@@ -38,8 +38,8 @@ const gridCols = {
         {card.description}
       </p>
       <div class="mt-4 flex items-center text-primary-600 text-sm font-medium">
-        Learn more
-        <svg class="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <span class="sr-only">Read more about {card.title}</span>
+        <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
         </svg>
       </div>

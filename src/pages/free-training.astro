@@ -34,28 +34,30 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </p>
 
           <!-- Email Form Placeholder -->
-          <form class="space-y-4" action="#" method="POST">
+          <form class="space-y-4" action="#" method="POST" id="training-form">
             <div>
-              <label for="email" class="sr-only">Email address</label>
+              <label for="email" class="block text-sm font-medium text-gray-700 mb-2">
+                Email address <span class="text-red-500">*</span>
+              </label>
               <input
                 type="email"
                 id="email"
                 name="email"
-                placeholder="Enter your email address"
+                placeholder="you@example.com"
                 required
                 class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none transition-colors"
               />
+              <p class="mt-2 text-sm text-gray-500">
+                No spam. Unsubscribe anytime. See our <a href="/privacy" class="underline hover:text-gray-700">privacy policy</a>.
+              </p>
             </div>
             <button
               type="submit"
               class="w-full btn-accent text-lg"
+              id="training-submit"
             >
               Send Me the Free Training
             </button>
-            <p class="text-xs text-gray-500 text-center">
-              No spam. Unsubscribe anytime. By signing up you agree to our
-              <a href="/privacy" class="underline hover:text-gray-700">privacy policy</a>.
-            </p>
           </form>
 
           <!-- Placeholder notice -->
@@ -153,17 +155,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         Stop creating content that gets ignored. Learn the framework that turns blog posts into sales machines.
       </p>
       <div class="max-w-md mx-auto">
-        <form class="flex flex-col sm:flex-row gap-3" action="#" method="POST">
-          <input
-            type="email"
-            name="email"
-            placeholder="Your email address"
-            required
-            class="flex-grow px-4 py-3 rounded-lg text-gray-900 focus:ring-2 focus:ring-accent outline-none"
-          />
-          <button type="submit" class="btn-accent whitespace-nowrap">
-            Get Access
-          </button>
+        <form class="space-y-3" action="#" method="POST" id="training-form-bottom">
+          <div>
+            <label for="email-bottom" class="block text-sm font-medium text-gray-300 mb-2">
+              Email address
+            </label>
+            <div class="flex flex-col sm:flex-row gap-3">
+              <input
+                type="email"
+                id="email-bottom"
+                name="email"
+                placeholder="you@example.com"
+                required
+                class="flex-grow px-4 py-3 rounded-lg text-gray-900 focus:ring-2 focus:ring-accent outline-none"
+              />
+              <button type="submit" class="btn-accent whitespace-nowrap" id="training-submit-bottom">
+                Get instant access
+              </button>
+            </div>
+          </div>
         </form>
         <p class="text-sm text-gray-400 mt-4">
           Free instant access. No credit card required.
@@ -172,3 +182,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  // Add loading state to form buttons on submit
+  document.querySelectorAll('form').forEach(form => {
+    form.addEventListener('submit', (e) => {
+      const button = form.querySelector('button[type="submit"]');
+      if (button) {
+        button.classList.add('btn-loading');
+        button.setAttribute('disabled', 'disabled');
+      }
+    });
+  });
+</script>

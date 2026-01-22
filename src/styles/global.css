@@ -8,7 +8,7 @@
   }
 
   body {
-    @apply antialiased text-gray-900 bg-white;
+    @apply antialiased text-gray-900 bg-white text-lg;
   }
 }
 
@@ -30,7 +30,7 @@
   }
 
   .btn-secondary {
-    @apply btn bg-gray-100 text-gray-900 hover:bg-gray-200 focus:ring-gray-500;
+    @apply btn border-2 border-primary-600 text-primary-600 bg-transparent hover:bg-primary-50 focus:ring-primary-500;
   }
 
   .btn-accent {
@@ -46,4 +46,24 @@
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/* Button loading state */
+.btn-loading {
+  @apply relative pointer-events-none opacity-75;
+}
+
+.btn-loading::after {
+  content: '';
+  @apply absolute inset-0 flex items-center justify-center;
+  background: inherit;
+  border-radius: inherit;
+}
+
+.btn-loading::before {
+  content: '';
+  @apply w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
