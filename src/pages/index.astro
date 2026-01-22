@@ -1,0 +1,156 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import OptInRibbon from '../components/OptInRibbon.astro';
+import Hero from '../components/Hero.astro';
+import CardGrid from '../components/CardGrid.astro';
+import CTASection from '../components/CTASection.astro';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Blogs That Sell',
+  url: 'https://blogsthatsell.com',
+  description: 'A direct-response system for freelancers, consultants, and marketers who want blog traffic that actually converts into sales.',
+  sameAs: [
+    // Add social media URLs here
+  ],
+};
+
+const pillarCards = [
+  {
+    title: 'Start Here',
+    description: 'New to Blogs That Sell? Begin here for the essential foundation.',
+    href: '/start-here',
+    icon: '1',
+  },
+  {
+    title: 'Blog That Sells',
+    description: 'The core philosophy: why most blogs fail to convert and what actually works.',
+    href: '/blog-that-sells',
+    icon: '2',
+  },
+  {
+    title: 'Templates',
+    description: 'Plug-and-play sales letter templates for blog posts that rank and convert.',
+    href: '/blog-sales-letter-templates',
+    icon: '3',
+  },
+];
+
+const proofPoints = [
+  'Rank on Google',
+  'Convert readers into buyers',
+  'Build authority in your niche',
+  'Generate leads on autopilot',
+];
+---
+
+<BaseLayout
+  title="Blogs That Sell"
+  description="A direct-response system for freelancers, consultants, and marketers who want blog traffic that actually converts into sales."
+  jsonLd={jsonLd}
+>
+  <OptInRibbon />
+
+  <Hero
+    headline="Turn Blog Posts Into Sales Letters That Rank and Convert"
+    subheadline="A direct-response system for freelancers, consultants, and marketers who want traffic that actually sells."
+    primaryCta={{ text: 'Get the Free Training', href: '/free-training' }}
+    secondaryCta={{ text: 'See The System', href: '/the-system' }}
+  />
+
+  <!-- Problem Section -->
+  <section class="py-16 md:py-20 bg-gray-50">
+    <div class="container-narrow">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-6 text-center">
+        Most Blog Content Is a Complete Waste of Time
+      </h2>
+      <div class="prose prose-lg max-w-none text-center">
+        <p>
+          You spend hours writing posts. You publish. You wait. And... crickets.
+        </p>
+        <p>
+          No traffic. No leads. No sales. Just another piece of content floating in the void.
+        </p>
+        <p class="font-semibold text-gray-900">
+          The problem isn't your writing. It's your <em>strategy</em>.
+        </p>
+        <p>
+          Most blogs are built for "awareness" or "engagement." Vanity metrics that don't pay the bills.
+        </p>
+        <p>
+          <strong>Blogs That Sell</strong> is different. Every post is engineered to do one thing: <span class="text-primary-600">convert readers into customers.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- What You'll Learn -->
+  <section class="py-16 md:py-20">
+    <div class="container-wide">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-4">
+          What You'll Discover
+        </h2>
+        <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+          The proven system for writing blog posts that rank on Google AND convert visitors into buyers.
+        </p>
+      </div>
+      <CardGrid cards={pillarCards} columns={3} />
+    </div>
+  </section>
+
+  <!-- Proof Points -->
+  <section class="py-16 md:py-20 bg-primary-900 text-white">
+    <div class="container-narrow text-center">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-8">
+        Blog Posts That Actually Work
+      </h2>
+      <div class="grid md:grid-cols-2 gap-4 max-w-xl mx-auto">
+        {proofPoints.map((point) => (
+          <div class="flex items-center gap-3">
+            <svg class="w-6 h-6 text-accent flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+            </svg>
+            <span class="text-lg">{point}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Case Studies Teaser -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-4">
+          Real Results From Real Businesses
+        </h2>
+        <p class="text-lg text-gray-600">
+          See how freelancers and consultants are using this system to generate consistent leads.
+        </p>
+      </div>
+      <div class="bg-gray-50 p-8 rounded-xl text-center">
+        <blockquote class="text-xl md:text-2xl font-medium text-gray-900 mb-4">
+          "Within 90 days, my blog posts were generating more qualified leads than my entire LinkedIn strategy."
+        </blockquote>
+        <p class="text-gray-600">— Future Case Study Placeholder</p>
+        <a href="/case-studies" class="inline-flex items-center mt-6 text-primary-600 font-semibold hover:text-primary-800">
+          View all case studies
+          <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <CTASection
+    headline="Ready to Transform Your Blog Into a Sales Machine?"
+    subheadline="Get the free training that shows you exactly how to write blog posts that rank AND convert."
+    primaryCta={{ text: 'Get the Free Training', href: '/free-training' }}
+    secondaryCta={{ text: 'Explore The System', href: '/the-system' }}
+    variant="accent"
+  />
+</BaseLayout>

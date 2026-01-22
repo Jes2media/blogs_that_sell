@@ -1,0 +1,109 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import CardGrid from '../components/CardGrid.astro';
+import CTASection from '../components/CTASection.astro';
+
+const pillarLinks = [
+  {
+    title: 'What is a Blog That Sells?',
+    description: 'Understand the core philosophy behind content that converts.',
+    href: '/blog-that-sells',
+    icon: '1',
+  },
+  {
+    title: 'Sales Letter Templates',
+    description: 'Get plug-and-play frameworks for high-converting posts.',
+    href: '/blog-sales-letter-templates',
+    icon: '2',
+  },
+  {
+    title: 'Case Studies',
+    description: 'See real results from real businesses using this system.',
+    href: '/case-studies',
+    icon: '3',
+  },
+  {
+    title: 'The System',
+    description: 'The complete training program for mastering blog sales copy.',
+    href: '/the-system',
+    icon: '4',
+  },
+];
+---
+
+<PageLayout
+  title="Start Here"
+  description="New to Blogs That Sell? This page will orient you and show you exactly where to begin your journey to writing blog posts that convert."
+>
+  <p class="text-xl text-gray-600 mb-8">
+    Welcome. If you're here, you're probably tired of writing blog content that gets ignored.
+  </p>
+
+  <p>
+    Good. Because that frustration is the first step toward something better.
+  </p>
+
+  <h2>Here's What You Need to Know</h2>
+
+  <p>
+    <strong>Blogs That Sell</strong> is not another "content marketing" course. It's not about posting more, writing faster, or gaming algorithms.
+  </p>
+
+  <p>
+    It's about one thing: <strong>turning blog posts into sales letters that rank on Google.</strong>
+  </p>
+
+  <p>
+    Most marketers treat blog content and sales copy as separate disciplines. They're not. The principles that make a sales letter compelling—hooks, proof, objection handling, clear calls to action—are the same principles that make blog content convert.
+  </p>
+
+  <p>
+    The difference? A sales letter requires paid traffic. A blog post that sells generates <em>free</em> traffic from search engines and converts that traffic into leads and customers on autopilot.
+  </p>
+
+  <h2>Who This Is For</h2>
+
+  <ul>
+    <li><strong>Freelancers</strong> who want to attract high-quality clients without cold outreach</li>
+    <li><strong>Consultants</strong> who want to position themselves as the obvious expert</li>
+    <li><strong>Course creators</strong> who want organic traffic that actually buys</li>
+    <li><strong>Service businesses</strong> who want a predictable lead generation system</li>
+  </ul>
+
+  <h2>Where to Start</h2>
+
+  <p>
+    I've organized everything into clear pathways. Pick the one that fits your current situation:
+  </p>
+
+  <div class="not-prose my-10">
+    <CardGrid cards={pillarLinks} columns={2} />
+  </div>
+
+  <h2>Quick Wins</h2>
+
+  <p>
+    If you want to see results fast, here are three things you can do today:
+  </p>
+
+  <ol>
+    <li><strong>Audit your existing content.</strong> How many of your blog posts have a clear call to action? How many are designed to convert? Most people find the answer is "almost none."</li>
+    <li><strong>Identify your money keywords.</strong> What search terms would someone type if they were ready to buy what you sell? That's where you should focus.</li>
+    <li><strong>Study one sales letter.</strong> Read a classic direct-response piece (Gary Halbert, Dan Kennedy, etc.) and notice the structure. That structure works in blog posts too.</li>
+  </ol>
+
+  <h2>Get the Free Training</h2>
+
+  <p>
+    The best way to understand this system is to see it in action. I've put together a free training that walks you through the core framework step by step.
+  </p>
+
+  <div class="not-prose">
+    <CTASection
+      headline="Ready to Write Blog Posts That Sell?"
+      subheadline="Get instant access to the free training and start transforming your content today."
+      primaryCta={{ text: 'Get the Free Training', href: '/free-training' }}
+      variant="accent"
+    />
+  </div>
+</PageLayout>

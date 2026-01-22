@@ -1,0 +1,90 @@
+---
+const navLinks = [
+  { href: '/start-here', label: 'Start Here' },
+  { href: '/blog-that-sells', label: 'Blog That Sells' },
+  { href: '/blog-sales-letter-templates', label: 'Templates' },
+  { href: '/case-studies', label: 'Case Studies' },
+  { href: '/the-system', label: 'The System' },
+  { href: '/about', label: 'About' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-50 bg-white border-b border-gray-100">
+  <nav class="container-wide">
+    <div class="flex items-center justify-between h-16 md:h-20">
+      <!-- Logo -->
+      <a href="/" class="flex items-center font-bold text-xl text-gray-900 hover:text-primary-600 transition-colors">
+        Blogs That Sell
+      </a>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden lg:flex items-center gap-1">
+        {navLinks.map((link) => (
+          <a
+            href={link.href}
+            class:list={[
+              'px-3 py-2 text-sm font-medium rounded-lg transition-colors',
+              currentPath === link.href
+                ? 'bg-primary-50 text-primary-700'
+                : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50',
+            ]}
+          >
+            {link.label}
+          </a>
+        ))}
+      </div>
+
+      <!-- CTA Button -->
+      <div class="hidden md:block">
+        <a href="/free-training" class="btn-accent text-sm">
+          Free Training
+        </a>
+      </div>
+
+      <!-- Mobile Menu Button -->
+      <button
+        type="button"
+        class="lg:hidden p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg"
+        aria-label="Open menu"
+        id="mobile-menu-btn"
+      >
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile Navigation -->
+    <div class="hidden lg:hidden pb-4" id="mobile-menu">
+      <div class="flex flex-col gap-1">
+        {navLinks.map((link) => (
+          <a
+            href={link.href}
+            class:list={[
+              'px-3 py-2 text-sm font-medium rounded-lg transition-colors',
+              currentPath === link.href
+                ? 'bg-primary-50 text-primary-700'
+                : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50',
+            ]}
+          >
+            {link.label}
+          </a>
+        ))}
+        <a href="/free-training" class="btn-accent text-sm mt-2 text-center">
+          Free Training
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+
+  menuBtn?.addEventListener('click', () => {
+    mobileMenu?.classList.toggle('hidden');
+  });
+</script>

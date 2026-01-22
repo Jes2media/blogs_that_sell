@@ -1,0 +1,149 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import CardGrid from '../components/CardGrid.astro';
+import CTASection from '../components/CTASection.astro';
+
+const templateCategories = [
+  {
+    title: 'The Problem-Agitate-Solution Post',
+    description: 'Classic direct-response structure adapted for SEO blog content.',
+    href: '#pas-template',
+    icon: 'P',
+  },
+  {
+    title: 'The Comparison Post',
+    description: 'Position your solution against alternatives while ranking for comparison keywords.',
+    href: '#comparison-template',
+    icon: 'C',
+  },
+  {
+    title: 'The Ultimate Guide',
+    description: 'Comprehensive resource posts that establish authority and capture top-of-funnel traffic.',
+    href: '#guide-template',
+    icon: 'G',
+  },
+  {
+    title: 'The Case Study Post',
+    description: 'Turn client results into ranking, converting content.',
+    href: '#case-study-template',
+    icon: 'S',
+  },
+];
+---
+
+<PageLayout
+  title="Blog Sales Letter Templates"
+  description="Plug-and-play templates for writing blog posts that rank on Google and convert readers into customers. Direct-response frameworks adapted for SEO."
+>
+  <p class="text-xl text-gray-600 mb-8">
+    Stop staring at blank pages. Use these battle-tested templates to write high-converting blog content faster.
+  </p>
+
+  <h2>Why Templates Work</h2>
+
+  <p>
+    The best copywriters don't reinvent the wheel. They use proven structures—frameworks that have been tested and refined over decades.
+  </p>
+
+  <p>
+    These templates take classic direct-response formulas and adapt them for modern SEO content. The result? Blog posts that:
+  </p>
+
+  <ul>
+    <li>Rank for buyer-intent keywords</li>
+    <li>Keep readers engaged until the CTA</li>
+    <li>Convert at higher rates than "helpful" content</li>
+    <li>Are faster to write once you know the structure</li>
+  </ul>
+
+  <h2>Available Templates</h2>
+
+  <div class="not-prose my-10">
+    <CardGrid cards={templateCategories} columns={2} />
+  </div>
+
+  <h2 id="pas-template">The Problem-Agitate-Solution Post</h2>
+
+  <p>
+    This is the workhorse of direct-response adapted for blog content. It follows a simple but powerful structure:
+  </p>
+
+  <ol>
+    <li><strong>Problem:</strong> Identify the reader's pain point clearly</li>
+    <li><strong>Agitate:</strong> Make them feel the full weight of that problem</li>
+    <li><strong>Solution:</strong> Present your approach as the answer</li>
+  </ol>
+
+  <p>
+    <em>Full template with examples available in The System course.</em>
+  </p>
+
+  <h2 id="comparison-template">The Comparison Post</h2>
+
+  <p>
+    Comparison searches ("X vs Y", "best X for Y") signal high purchase intent. This template helps you:
+  </p>
+
+  <ul>
+    <li>Rank for valuable comparison keywords</li>
+    <li>Position your solution favorably</li>
+    <li>Handle objections by addressing alternatives</li>
+    <li>Convert readers who are already in buying mode</li>
+  </ul>
+
+  <p>
+    <em>Full template with examples available in The System course.</em>
+  </p>
+
+  <h2 id="guide-template">The Ultimate Guide</h2>
+
+  <p>
+    Comprehensive guides work for SEO, but most are boring walls of text that don't convert. This template shows you how to:
+  </p>
+
+  <ul>
+    <li>Structure long-form content for readability and conversion</li>
+    <li>Insert strategic CTAs without being pushy</li>
+    <li>Build authority while moving readers toward action</li>
+  </ul>
+
+  <p>
+    <em>Full template with examples available in The System course.</em>
+  </p>
+
+  <h2 id="case-study-template">The Case Study Post</h2>
+
+  <p>
+    Case studies are proof. They show potential customers that your approach actually works. This template shows you how to:
+  </p>
+
+  <ul>
+    <li>Structure case studies for maximum impact</li>
+    <li>Optimize them for search</li>
+    <li>Turn client results into conversion machines</li>
+  </ul>
+
+  <p>
+    <em>Full template with examples available in The System course.</em>
+  </p>
+
+  <h2>Getting the Full Templates</h2>
+
+  <p>
+    The complete templates—with detailed instructions, real examples, and fill-in-the-blank sections—are available inside The System.
+  </p>
+
+  <p>
+    Want a taste first? Grab the free training to see the core framework in action.
+  </p>
+
+  <div class="not-prose">
+    <CTASection
+      headline="Get the Complete Template Library"
+      subheadline="Full templates with examples and instructions are available inside The System."
+      primaryCta={{ text: 'See The System', href: '/the-system' }}
+      secondaryCta={{ text: 'Free Training First', href: '/free-training' }}
+      variant="accent"
+    />
+  </div>
+</PageLayout>

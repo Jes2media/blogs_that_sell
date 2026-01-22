@@ -1,0 +1,119 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, updatedDate, hero, heroAlt, tags, draft } = post.data;
+
+const formattedPubDate = pubDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const formattedUpdatedDate = updatedDate?.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const canonicalURL = new URL(`/blog/${post.id}`, Astro.site).href;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description: description,
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate || pubDate).toISOString(),
+  author: {
+    '@type': 'Organization',
+    name: 'Blogs That Sell',
+    url: 'https://blogsthatsell.com',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Blogs That Sell',
+    url: 'https://blogsthatsell.com',
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalURL,
+  },
+  ...(hero && { image: new URL(hero, Astro.site).href }),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonicalURL}
+  ogImage={hero}
+  noindex={draft}
+  jsonLd={jsonLd}
+>
+  <article class="py-12 md:py-16 lg:py-20">
+    <div class="container-narrow">
+      <header class="mb-10 md:mb-12">
+        <div class="mb-4">
+          <a href="/blog" class="text-primary-600 hover:text-primary-800 font-medium text-sm">
+            &larr; Back to Blog
+          </a>
+        </div>
+        <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 mb-4 text-balance">
+          {title}
+        </h1>
+        <div class="flex flex-wrap items-center gap-4 text-gray-600 text-sm">
+          <time datetime={pubDate.toISOString()}>
+            {formattedPubDate}
+          </time>
+          {updatedDate && (
+            <span class="text-gray-400">|</span>
+            <span>
+              Updated: <time datetime={updatedDate.toISOString()}>{formattedUpdatedDate}</time>
+            </span>
+          )}
+        </div>
+        {tags.length > 0 && (
+          <div class="flex flex-wrap gap-2 mt-4">
+            {tags.map((tag) => (
+              <span class="px-3 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
+      </header>
+
+      {hero && (
+        <figure class="mb-10">
+          <img
+            src={hero}
+            alt={heroAlt || title}
+            class="w-full rounded-lg shadow-lg"
+            loading="eager"
+          />
+        </figure>
+      )}
+
+      <div class="prose prose-lg max-w-none">
+        <slot />
+      </div>
+
+      <footer class="mt-12 pt-8 border-t border-gray-200">
+        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <a href="/blog" class="text-primary-600 hover:text-primary-800 font-medium">
+            &larr; Back to all posts
+          </a>
+          <a href="/free-training" class="btn-primary text-sm">
+            Get the Free Training
+          </a>
+        </div>
+      </footer>
+    </div>
+  </article>
+</BaseLayout>

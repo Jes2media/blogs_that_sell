@@ -1,0 +1,74 @@
+---
+interface Props {
+  headline: string;
+  subheadline?: string;
+  primaryCta?: {
+    text: string;
+    href: string;
+  };
+  secondaryCta?: {
+    text: string;
+    href: string;
+  };
+  variant?: 'default' | 'accent' | 'dark';
+}
+
+const {
+  headline,
+  subheadline,
+  primaryCta,
+  secondaryCta,
+  variant = 'default',
+} = Astro.props;
+
+const bgClasses = {
+  default: 'bg-gray-50',
+  accent: 'bg-primary-50',
+  dark: 'bg-gray-900 text-white',
+};
+
+const headlineClasses = {
+  default: 'text-gray-900',
+  accent: 'text-gray-900',
+  dark: 'text-white',
+};
+
+const subheadlineClasses = {
+  default: 'text-gray-600',
+  accent: 'text-gray-600',
+  dark: 'text-gray-300',
+};
+---
+
+<section class:list={['py-16 md:py-20', bgClasses[variant]]}>
+  <div class="container-narrow text-center">
+    <h2 class:list={['text-3xl md:text-4xl font-bold tracking-tight mb-4', headlineClasses[variant]]}>
+      {headline}
+    </h2>
+    {subheadline && (
+      <p class:list={['text-lg md:text-xl mb-8 max-w-2xl mx-auto', subheadlineClasses[variant]]}>
+        {subheadline}
+      </p>
+    )}
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+      {primaryCta && (
+        <a href={primaryCta.href} class="btn-accent text-base">
+          {primaryCta.text}
+        </a>
+      )}
+      {secondaryCta && (
+        <a
+          href={secondaryCta.href}
+          class:list={[
+            'btn text-base',
+            variant === 'dark'
+              ? 'bg-white/10 text-white hover:bg-white/20'
+              : 'bg-white text-gray-900 hover:bg-gray-100 border border-gray-200',
+          ]}
+        >
+          {secondaryCta.text}
+        </a>
+      )}
+    </div>
+  </div>
+</section>

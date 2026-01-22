@@ -1,0 +1,174 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Free Training - Blog Posts That Sell"
+  description="Get the free training that shows you how to write blog posts that rank on Google AND convert readers into customers. Direct-response frameworks for content marketing."
+>
+  <!-- Hero -->
+  <section class="py-16 md:py-24 bg-gradient-to-b from-primary-50 to-white">
+    <div class="container-narrow text-center">
+      <div class="inline-flex items-center px-3 py-1 mb-6 text-sm font-medium bg-accent/10 text-accent-dark rounded-full">
+        Free Training
+      </div>
+      <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 mb-6">
+        The Blog Post Sales Letter Framework
+      </h1>
+      <p class="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
+        Learn the exact framework for writing blog posts that rank on Google AND convert readers into paying customers.
+      </p>
+    </div>
+  </section>
+
+  <!-- Opt-in Form Section -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <div class="max-w-xl mx-auto">
+        <div class="bg-white border-2 border-gray-200 rounded-2xl p-8 shadow-lg">
+          <h2 class="text-2xl font-bold text-gray-900 mb-4 text-center">
+            Get Instant Access
+          </h2>
+          <p class="text-gray-600 mb-6 text-center">
+            Enter your email below and I'll send you the complete framework immediately.
+          </p>
+
+          <!-- Email Form Placeholder -->
+          <form class="space-y-4" action="#" method="POST">
+            <div>
+              <label for="email" class="sr-only">Email address</label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Enter your email address"
+                required
+                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none transition-colors"
+              />
+            </div>
+            <button
+              type="submit"
+              class="w-full btn-accent text-lg"
+            >
+              Send Me the Free Training
+            </button>
+            <p class="text-xs text-gray-500 text-center">
+              No spam. Unsubscribe anytime. By signing up you agree to our
+              <a href="/privacy" class="underline hover:text-gray-700">privacy policy</a>.
+            </p>
+          </form>
+
+          <!-- Placeholder notice -->
+          <div class="mt-6 p-4 bg-gray-50 rounded-lg">
+            <p class="text-sm text-gray-600 text-center">
+              <strong>Note:</strong> Form integration coming soon. For now, this is a UI placeholder.
+              Connect to ConvertKit, Mailchimp, or similar to activate.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What You'll Learn -->
+  <section class="py-16 md:py-20 bg-gray-50">
+    <div class="container-narrow">
+      <h2 class="text-3xl font-bold text-gray-900 mb-10 text-center">
+        What You'll Learn
+      </h2>
+      <div class="space-y-6">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+            1
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900 mb-1">Why Most Blog Content Fails to Convert</h3>
+            <p class="text-gray-600">Understand the fundamental mistake 95% of content marketers make—and how to avoid it.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+            2
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900 mb-1">The Direct-Response Framework for Blog Posts</h3>
+            <p class="text-gray-600">Learn the same persuasion principles that power million-dollar sales letters, adapted for SEO content.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+            3
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900 mb-1">How to Find Keywords That Signal Buying Intent</h3>
+            <p class="text-gray-600">Stop targeting vanity keywords. Learn to identify the searches that actually lead to sales.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+            4
+          </div>
+          <div>
+            <h3 class="font-semibold text-gray-900 mb-1">The Blog Post Structure That Converts</h3>
+            <p class="text-gray-600">A simple template you can use for any post that needs to persuade and convert.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Who This Is For -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
+        This Training Is For You If...
+      </h2>
+      <div class="grid md:grid-cols-2 gap-4">
+        {[
+          "You're creating content but not seeing leads or sales",
+          "You want organic traffic that actually converts",
+          "You're a freelancer or consultant who wants inbound clients",
+          "You sell courses, services, or digital products",
+          "You're tired of 'brand awareness' that doesn't pay bills",
+          "You want to write less but get better results",
+        ].map((item) => (
+          <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-lg">
+            <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+            </svg>
+            <span class="text-gray-700">{item}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="py-16 md:py-20 bg-primary-900 text-white">
+    <div class="container-narrow text-center">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-4">
+        Get the Free Training Now
+      </h2>
+      <p class="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
+        Stop creating content that gets ignored. Learn the framework that turns blog posts into sales machines.
+      </p>
+      <div class="max-w-md mx-auto">
+        <form class="flex flex-col sm:flex-row gap-3" action="#" method="POST">
+          <input
+            type="email"
+            name="email"
+            placeholder="Your email address"
+            required
+            class="flex-grow px-4 py-3 rounded-lg text-gray-900 focus:ring-2 focus:ring-accent outline-none"
+          />
+          <button type="submit" class="btn-accent whitespace-nowrap">
+            Get Access
+          </button>
+        </form>
+        <p class="text-sm text-gray-400 mt-4">
+          Free instant access. No credit card required.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

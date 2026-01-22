@@ -1,0 +1,48 @@
+---
+interface Card {
+  title: string;
+  description: string;
+  href: string;
+  icon?: string;
+}
+
+interface Props {
+  cards: Card[];
+  columns?: 2 | 3 | 4;
+}
+
+const { cards, columns = 3 } = Astro.props;
+
+const gridCols = {
+  2: 'md:grid-cols-2',
+  3: 'md:grid-cols-2 lg:grid-cols-3',
+  4: 'md:grid-cols-2 lg:grid-cols-4',
+};
+---
+
+<div class:list={['grid gap-6', gridCols[columns]]}>
+  {cards.map((card) => (
+    <a
+      href={card.href}
+      class="group block p-6 bg-white border border-gray-200 rounded-xl hover:border-primary-300 hover:shadow-lg transition-all duration-200"
+    >
+      {card.icon && (
+        <div class="w-12 h-12 mb-4 flex items-center justify-center bg-primary-50 text-primary-600 rounded-lg group-hover:bg-primary-100 transition-colors">
+          <span class="text-2xl">{card.icon}</span>
+        </div>
+      )}
+      <h3 class="text-lg font-semibold text-gray-900 mb-2 group-hover:text-primary-600 transition-colors">
+        {card.title}
+      </h3>
+      <p class="text-gray-600 text-sm">
+        {card.description}
+      </p>
+      <div class="mt-4 flex items-center text-primary-600 text-sm font-medium">
+        Learn more
+        <svg class="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </div>
+    </a>
+  ))}
+</div>
