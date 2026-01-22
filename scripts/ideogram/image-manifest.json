@@ -1,0 +1,54 @@
+{
+  "images": [
+    {
+      "slug": "hero-home",
+      "concept": "a writer's hands on a laptop keyboard in a modern minimalist workspace, warm lighting, shallow depth of field, coffee cup nearby",
+      "category": "hero"
+    },
+    {
+      "slug": "hero-the-system",
+      "concept": "an open notebook with handwritten notes next to a laptop showing a blog draft, organized desk, natural light from window",
+      "category": "hero"
+    },
+    {
+      "slug": "hero-free-training",
+      "concept": "person writing in a leather journal at a clean desk, morning light, laptop open beside them, focused creative work",
+      "category": "hero"
+    },
+    {
+      "slug": "hero-blog-that-sells",
+      "concept": "close-up of hands typing on a mechanical keyboard, screen glow on fingers, professional home office setting",
+      "category": "hero"
+    },
+    {
+      "slug": "section-conversion",
+      "concept": "fountain pen resting on lined paper with fresh ink, warm wood desk surface, soft natural lighting",
+      "category": "section"
+    },
+    {
+      "slug": "section-strategy",
+      "concept": "overhead view of a writer's desk with notebook, laptop, and scattered draft pages, organized creative chaos",
+      "category": "section"
+    },
+    {
+      "slug": "section-writing",
+      "concept": "stack of filled notebooks next to a steaming cup of coffee, cozy writing nook, bookshelves in background",
+      "category": "section"
+    },
+    {
+      "slug": "section-results",
+      "concept": "laptop screen showing a blog post being edited, writer's hands on keyboard, clean modern desk setup",
+      "category": "section"
+    },
+    {
+      "slug": "bg-testimonials",
+      "concept": "soft focus bookshelf with warm lighting, leather-bound books and journals, scholarly atmosphere",
+      "category": "background"
+    },
+    {
+      "slug": "bg-cta",
+      "concept": "minimalist desk with open laptop and notebook, dramatic side lighting, professional workspace",
+      "category": "background"
+    }
+  ]
+}
