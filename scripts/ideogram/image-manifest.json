@@ -569,6 +569,21 @@
       "slug": "blog-therapist-success",
       "concept": "therapist and client in connected therapeutic moment, genuine breakthrough conversation, comfortable office setting, hopeful warm atmosphere",
       "category": "blog"
+    },
+    {
+      "slug": "blog-dentist-hero",
+      "concept": "friendly dentist having reassuring conversation with nervous patient in modern dental office, warm professional interaction, calming atmosphere, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-accountant-hero",
+      "concept": "accountant explaining financial strategy to business owner client, modern office with charts and laptop, professional advisory meeting, confident expertise",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-personal-trainer-hero",
+      "concept": "personal trainer encouraging beginner client during workout, supportive coaching moment, welcoming gym environment, genuine connection and motivation",
+      "category": "blog"
     }
   ]
 }

@@ -88,9 +88,29 @@
    - Compassionate content that addresses fear and shame
    - 4 images generated
 
-**Niche MOFU Progress:** 14 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists)
+### New Niche MOFU Posts (3 more - hero images only)
 
-**Total new images this session:** 44
+12. **"Blog Copywriting for Dentists: Turn Website Visitors Into Patients Who Actually Book"**
+   - Comfort-First Framework for anxious patients
+   - Templates: What to Expect, Honest Answer, Signs You Need, Myth Buster
+   - Dental anxiety-focused content strategy
+   - 1 hero image
+
+13. **"Blog Copywriting for Accountants: Turn Website Visitors Into Long-Term Clients"**
+   - Value-First Framework for business owners
+   - Templates: Tax Strategy Deep-Dive, Mistake Spotter, Industry-Specific, Decision Framework
+   - Outcome-focused content vs service lists
+   - 1 hero image
+
+14. **"Blog Copywriting for Personal Trainers: Turn Readers Into Clients Who Actually Commit"**
+   - Connection-First Framework for beginners
+   - Templates: Why It Hasn't Worked, For Specific People, What to Expect, Small Wins
+   - Meeting clients where they are emotionally
+   - 1 hero image
+
+**Niche MOFU Progress:** 17 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers)
+
+**Total new images this session:** 47
 
 ---
 
