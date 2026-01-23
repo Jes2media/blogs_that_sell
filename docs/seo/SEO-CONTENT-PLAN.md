@@ -12,6 +12,72 @@ The strategy uses programmatic content patterns that multiply across niches, fra
 
 ---
 
+## 1.5) PRIORITY: Top 30 Initial SEO Targets
+
+**Publish these first.** These keywords target problem-aware searchers with high conversion potential—people actively struggling with copy that isn't working.
+
+### Tier 1: Fast Wins (Publish First)
+
+| Keyword | Intent | Content Angle |
+|---------|--------|---------------|
+| why copy isn't converting | Problem diagnosis | Troubleshooting guide + framework introduction |
+| sales page not converting | High intent | Conversion audit checklist + structure fixes |
+| email opened but no clicks | Specific problem | CTA and body copy optimization |
+| copy sounds salesy | Self-aware writer | Authenticity + direct response balance |
+| marketing feels manipulative | Values conflict | Ethical persuasion framework |
+| why people don't take action on copy | Psychology | Decision psychology + CTA strategy |
+| good copy but no sales | Frustration | Structure vs. writing quality |
+| low conversion rate copywriting | Metric-focused | Benchmarks + optimization framework |
+| why CTAs don't work | Specific element | CTA psychology and placement |
+| copywriting mistakes hurting conversions | Audit mindset | Common errors checklist |
+
+### Tier 2: Authority Builders
+
+| Keyword | Intent | Content Angle |
+|---------|--------|---------------|
+| long copy vs short copy | Comparison | When to use each + testing approach |
+| soft CTA vs hard CTA | Comparison | Context-based CTA strategy |
+| why urgency doesn't work | Contrarian | Authentic urgency vs. fake scarcity |
+| how many CTAs should a page have | Tactical | Placement strategy + testing |
+| why headlines don't work | Element focus | Headline psychology + formulas |
+| copy feels fake | Authenticity | Voice development + trust building |
+| persuasion vs manipulation | Philosophy | Ethical framework for selling |
+| decision friction in marketing | Psychology | Reducing barriers to action |
+| why people hesitate to buy | Psychology | Objection handling in copy |
+| copywriting psychology explained | Educational | Foundational persuasion principles |
+
+### Tier 3: Differentiation & Momentum
+
+| Keyword | Intent | Content Angle |
+|---------|--------|---------------|
+| why AI copy sounds generic | Timely/trending | Human editing + voice injection |
+| chatgpt copywriting mistakes | Timely/trending | AI limitations + human fixes |
+| editing AI written copy | How-to | Process for improving AI output |
+| copywriting plateau | Career/skill | Breaking through skill ceilings |
+| why clients don't value copy | Business | Positioning + demonstrating ROI |
+| copywriting career plateau | Career | Skill development + specialization |
+| why best practices don't convert | Contrarian | Context over formulas |
+| copywriting advice that fails | Contrarian | What gurus get wrong |
+| why marketing advice doesn't work | Contrarian | Application vs. theory |
+| why following formulas hurts copy | Contrarian | Principles over templates |
+
+### Priority Content Requirements
+
+**All Tier 1-3 posts must:**
+- [ ] Link to `/free-training` (mid-article + end CTA)
+- [ ] Link to `/get-more-sales` (end CTA)
+- [ ] Link to `/blogs-that-sell` (contextual)
+- [ ] Link to 1-2 related framework posts
+- [ ] Include actionable fixes, not just diagnosis
+- [ ] Position our system as the comprehensive solution
+
+**Suggested publishing order:**
+1. Tier 1 first (10 posts) — captures high-intent problem-aware traffic
+2. Tier 2 second (10 posts) — builds authority and comparison content
+3. Tier 3 third (10 posts) — differentiates from generic advice
+
+---
+
 ## 2) Money Pages (BOFU) — Canonical Targets
 
 These are the pages that generate revenue. All content ultimately links here.
