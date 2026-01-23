@@ -1,0 +1,184 @@
+---
+/**
+ * Kit (ConvertKit) Email Opt-in Form
+ *
+ * This component renders an email opt-in form that integrates with Kit.
+ *
+ * Usage:
+ * 1. Get your form UID from your Kit form URL: https://YOURNAME.kit.com/FORM_UID
+ * 2. Add it to src/config/site.ts in the kit.formUid field
+ * 3. Use this component: <KitForm />
+ */
+
+import { siteConfig } from '../config/site';
+
+interface Props {
+  /** Button text */
+  buttonText?: string;
+  /** Placeholder text for email input */
+  placeholder?: string;
+  /** Show name field */
+  showName?: boolean;
+  /** Visual variant */
+  variant?: 'default' | 'dark' | 'minimal';
+  /** Form UID override (uses config by default) */
+  formUid?: string;
+}
+
+const {
+  buttonText = 'Get Instant Access',
+  placeholder = 'you@example.com',
+  showName = false,
+  variant = 'default',
+  formUid = siteConfig.kit.formUid,
+} = Astro.props;
+
+const configured = formUid !== '';
+
+// Kit uses this endpoint format for form submissions
+const formAction = `https://app.convertkit.com/forms/${formUid}/subscriptions`;
+
+// Style variants
+const inputStyles = {
+  default: 'border border-gray-300 bg-white text-gray-900 focus:ring-primary-500 focus:border-primary-500',
+  dark: 'border border-gray-600 bg-gray-800 text-white placeholder-gray-400 focus:ring-accent focus:border-accent',
+  minimal: 'border-0 border-b-2 border-gray-300 bg-transparent focus:ring-0 focus:border-primary-500 rounded-none',
+};
+
+const buttonStyles = {
+  default: 'btn-accent',
+  dark: 'btn-accent',
+  minimal: 'btn-primary',
+};
+
+// Generate unique IDs for multiple forms on same page
+const uniqueId = Math.random().toString(36).substring(7);
+---
+
+{configured ? (
+  <form
+    action={formAction}
+    method="post"
+    class="kit-form space-y-4"
+    data-sv-form={formUid}
+    data-uid={formUid}
+  >
+    {showName && (
+      <div>
+        <label for={`kit-name-${uniqueId}`} class="block text-sm font-medium mb-2">
+          First Name
+        </label>
+        <input
+          type="text"
+          id={`kit-name-${uniqueId}`}
+          name="fields[first_name]"
+          placeholder="Your first name"
+          class:list={[
+            'w-full px-4 py-3 rounded-lg outline-none transition-colors',
+            inputStyles[variant],
+          ]}
+        />
+      </div>
+    )}
+    <div>
+      <label for={`kit-email-${uniqueId}`} class="sr-only">Email address</label>
+      <input
+        type="email"
+        id={`kit-email-${uniqueId}`}
+        name="email_address"
+        placeholder={placeholder}
+        required
+        class:list={[
+          'w-full px-4 py-3 rounded-lg outline-none transition-colors',
+          inputStyles[variant],
+        ]}
+      />
+    </div>
+    <button
+      type="submit"
+      class:list={[
+        'w-full text-lg',
+        buttonStyles[variant],
+      ]}
+    >
+      {buttonText}
+    </button>
+    <p class:list={[
+      'text-sm text-center',
+      variant === 'dark' ? 'text-gray-400' : 'text-gray-500',
+    ]}>
+      No spam. Unsubscribe anytime.
+    </p>
+  </form>
+) : (
+  <!-- Placeholder when Kit is not configured -->
+  <div class="kit-form-placeholder">
+    <form class="space-y-4" onsubmit="return false;">
+      {showName && (
+        <div>
+          <label for="placeholder-name" class="block text-sm font-medium mb-2">
+            First Name
+          </label>
+          <input
+            type="text"
+            id="placeholder-name"
+            placeholder="Your first name"
+            disabled
+            class:list={[
+              'w-full px-4 py-3 rounded-lg outline-none opacity-60 cursor-not-allowed',
+              inputStyles[variant],
+            ]}
+          />
+        </div>
+      )}
+      <div>
+        <label for="placeholder-email" class="sr-only">Email address</label>
+        <input
+          type="email"
+          id="placeholder-email"
+          placeholder={placeholder}
+          disabled
+          class:list={[
+            'w-full px-4 py-3 rounded-lg outline-none opacity-60 cursor-not-allowed',
+            inputStyles[variant],
+          ]}
+        />
+      </div>
+      <button
+        type="button"
+        disabled
+        class:list={[
+          'w-full text-lg opacity-60 cursor-not-allowed',
+          buttonStyles[variant],
+        ]}
+      >
+        {buttonText}
+      </button>
+    </form>
+    <div class="mt-4 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+      <p class="text-sm text-yellow-800">
+        <strong>Setup Required:</strong> Add your Kit form UID to <code class="bg-yellow-100 px-1 rounded">src/config/site.ts</code> to activate this form.
+      </p>
+    </div>
+  </div>
+)}
+
+<style>
+  .kit-form button[type="submit"]:disabled {
+    opacity: 0.7;
+    cursor: wait;
+  }
+</style>
+
+<script>
+  // Add loading state on form submit
+  document.querySelectorAll('.kit-form').forEach(form => {
+    form.addEventListener('submit', () => {
+      const button = form.querySelector('button[type="submit"]');
+      if (button) {
+        button.textContent = 'Sending...';
+        button.setAttribute('disabled', 'disabled');
+      }
+    });
+  });
+</script>

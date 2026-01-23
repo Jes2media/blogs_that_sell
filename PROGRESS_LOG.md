@@ -1,6 +1,104 @@
 # Progress Log
 
-## 2025-01-22
+## 2025-01-22 (Session 3)
+
+### Blog Content Completion
+Published 4 new blog posts (completing SEO content plan):
+
+1. **"Direct Response Headlines: 15 Formulas That Force the Click"** (TOFU)
+   - 15 headline formulas from direct response legends
+   - Examples and pro tips for each formula
+   - 4 images generated
+
+2. **"Hook-Story-Offer for Blog Posts: The Russell Brunson Method"** (MOFU)
+   - Complete breakdown of Russell Brunson's framework
+   - Hook types, story structure, offer presentation
+   - Worked example showing all three elements
+   - 4 images generated
+
+3. **"11 Blog Mistakes That Kill Your Conversion Rate"** (TOFU)
+   - 11 specific conversion killers with fixes
+   - Conversion audit checklist
+   - 4 images generated
+
+4. **"9 Headline Formulas for Blog Posts That Get Clicked"** (TOFU)
+   - SEO-focused headline formulas
+   - Balance between keywords and click appeal
+   - Before/after examples
+   - 4 images generated
+
+**Total new images:** 16 (generated via Ideogram API)
+
+### Email Funnel Build
+- Created lead magnet: "The Blogs That Sell Framework" (full PDF guide content)
+- Built Kit (ConvertKit) form integration component with config system
+- Rewrote `/free-training` landing page with direct-response copy
+- Created `/thank-you` confirmation page
+- Wrote 5-email Soap Opera Sequence for welcome automation:
+  - Email 1: Framework delivery
+  - Email 2: Backstory (high drama)
+  - Email 3: Epiphany moment
+  - Email 4: Hidden benefits
+  - Email 5: Program invitation
+
+**Files created:**
+- `src/config/site.ts` - Site config with Kit form ID
+- `src/components/KitForm.astro` - Reusable Kit form component
+- `src/pages/thank-you.astro` - Post-signup confirmation page
+- `content/lead-magnets/blogs-that-sell-framework.md` - PDF content
+- `content/email-sequences/soap-opera-welcome-sequence.md` - 5-email sequence
+
+### URL Structure Cleanup
+- Removed `/case-studies` page (not needed yet)
+- Renamed `/the-system` → `/get-more-sales` (benefit-driven URL)
+- Renamed `/blog-that-sells` → `/blogs-that-sell` (consistent with site name)
+- Updated header nav with new structure: Start Here, Blog, Blogs That Sell, Templates, Get More Sales, About
+- Updated footer quick links
+- Updated all internal links across 10 blog posts
+- Updated 404 page, index, start-here, and blog-sales-letter-templates pages
+
+---
+
+## 2025-01-22 (Session 2)
+
+### Ideogram Image Generation System
+- Built Node.js script (`scripts/ideogram/generate-images.mjs`) for automated image generation via Ideogram v3 API
+- Added dotenv support for secure API key management
+- Created image manifest system for managing image definitions
+- Generated 10 site-wide images (hero, section, background)
+
+### Massive Content Production
+Published 12 new blog posts with custom images (4 per post = 48 images total):
+
+**Niche-Specific MOFU Posts (5):**
+- "Blog Copywriting for Coaches: How to Turn Readers Into Clients"
+- "Freelancer Blog Strategy: Write Posts That Book Clients on Autopilot"
+- "Course Creator Copywriting: Blog Posts That Sell Your Online Course"
+- "Copywriting for Consultants: How to Write Blogs That Close $10K+ Deals"
+- "SaaS Blog Copywriting: Write Posts That Drive Trial Signups"
+
+**Framework MOFU Posts (2):**
+- "How to Turn Your Blog Into a Sales Funnel"
+- "AIDA Framework for Blog Content: A Complete Breakdown"
+
+**Direct Response Cluster (2):**
+- "What Is Direct Response Copywriting? (And Why It Works for Blogs)"
+- "Direct Response Content Marketing: Why 'Valuable Content' Isn't Enough"
+
+**General TOFU/MOFU Posts (3):**
+- "Why 'Valuable Content' Alone Won't Generate Leads"
+- "Why Your Blog Traffic Isn't Converting (And How to Fix It)"
+- Style evaluation post for copywriter skill calibration
+
+### Content Stats
+- Total new posts this session: 12
+- Total new images generated: 58 (10 site + 48 blog)
+- All posts include internal links to /free-training, /get-more-sales, /blogs-that-sell
+- Posts target long-tail SEO keywords for coaches, freelancers, course creators, consultants, SaaS
+
+---
+
+## 2025-01-22 (Session 1)
 
 ### Added Claude Code Skills
 - Created `/brunson` skill for Russell Brunson marketing frameworks (Hook-Story-Offer, Epiphany Bridge, Value Ladder, Soap Opera Sequence)

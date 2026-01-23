@@ -1,197 +1,255 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import KitForm from '../components/KitForm.astro';
 ---
 
 <BaseLayout
-  title="Free Training - Blog Posts That Sell"
-  description="Get the free training that shows you how to write blog posts that rank on Google AND convert readers into customers. Direct-response frameworks for content marketing."
+  title="Free Training: The Blogs That Sell Framework"
+  description="Get the free framework for writing blog posts that rank on Google AND convert readers into paying customers. Stop creating content that gets ignored."
 >
   <!-- Hero -->
   <section class="py-16 md:py-24 bg-gradient-to-b from-primary-50 to-white">
     <div class="container-narrow text-center">
       <div class="inline-flex items-center px-3 py-1 mb-6 text-sm font-medium bg-accent/10 text-accent-dark rounded-full">
-        Free Training
+        Free PDF Guide
       </div>
-      <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 mb-6">
-        The Blog Post Sales Letter Framework
+      <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-gray-900 mb-6">
+        Stop Writing Blog Posts<br class="hidden md:block" /> That Nobody Buys From
       </h1>
-      <p class="text-xl text-gray-600 mb-10 max-w-2xl mx-auto">
-        Learn the exact framework for writing blog posts that rank on Google AND convert readers into paying customers.
+      <p class="text-xl md:text-2xl text-gray-600 mb-4 max-w-3xl mx-auto">
+        Get the exact framework for writing blog posts that rank on Google <strong>AND</strong> convert readers into paying customers.
       </p>
-    </div>
-  </section>
+      <p class="text-lg text-gray-500 mb-10">
+        Used by freelancers, consultants, and course creators to turn organic traffic into revenue.
+      </p>
 
-  <!-- Opt-in Form Section -->
-  <section class="py-16 md:py-20">
-    <div class="container-narrow">
-      <div class="max-w-xl mx-auto">
-        <div class="bg-white border-2 border-gray-200 rounded-2xl p-8 shadow-lg">
-          <h2 class="text-2xl font-bold text-gray-900 mb-4 text-center">
-            Get Instant Access
-          </h2>
-          <p class="text-gray-600 mb-6 text-center">
-            Enter your email below and I'll send you the complete framework immediately.
-          </p>
-
-          <!-- Email Form Placeholder -->
-          <form class="space-y-4" action="#" method="POST" id="training-form">
-            <div>
-              <label for="email" class="block text-sm font-medium text-gray-700 mb-2">
-                Email address <span class="text-red-500">*</span>
-              </label>
-              <input
-                type="email"
-                id="email"
-                name="email"
-                placeholder="you@example.com"
-                required
-                class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none transition-colors"
-              />
-              <p class="mt-2 text-sm text-gray-500">
-                No spam. Unsubscribe anytime. See our <a href="/privacy" class="underline hover:text-gray-700">privacy policy</a>.
-              </p>
-            </div>
-            <button
-              type="submit"
-              class="w-full btn-accent text-lg"
-              id="training-submit"
-            >
-              Send Me the Free Training
-            </button>
-          </form>
-
-          <!-- Placeholder notice -->
-          <div class="mt-6 p-4 bg-gray-50 rounded-lg">
-            <p class="text-sm text-gray-600 text-center">
-              <strong>Note:</strong> Form integration coming soon. For now, this is a UI placeholder.
-              Connect to ConvertKit, Mailchimp, or similar to activate.
-            </p>
-          </div>
+      <!-- Hero Opt-in -->
+      <div class="max-w-md mx-auto">
+        <div class="bg-white border-2 border-gray-200 rounded-2xl p-6 shadow-xl">
+          <KitForm
+            buttonText="Send Me the Free Framework"
+            showName={true}
+          />
         </div>
       </div>
     </div>
   </section>
 
-  <!-- What You'll Learn -->
+  <!-- Problem Section -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-8 text-center">
+        Here's The Problem With "Content Marketing"
+      </h2>
+      <div class="prose prose-lg max-w-none">
+        <p>
+          You've done everything right. You researched keywords. You wrote "valuable" content. You published consistently. You promoted on social media.
+        </p>
+        <p>
+          <strong>And you got... nothing.</strong>
+        </p>
+        <p>
+          Maybe some traffic. Maybe a few rankings. But conversions? Sales? Clients booking calls?
+        </p>
+        <p>
+          Crickets.
+        </p>
+        <p>
+          Here's the uncomfortable truth nobody wants to tell you:
+        </p>
+        <blockquote class="border-l-4 border-primary-500 pl-6 italic">
+          <p>
+            Most "content marketing" advice is designed for media companies that monetize pageviews—not businesses that need to sell.
+          </p>
+        </blockquote>
+        <p>
+          You don't need more traffic. You don't need more "brand awareness." You don't need another 2,000-word "ultimate guide" that gets bookmarked and forgotten.
+        </p>
+        <p>
+          <strong>You need blog posts that actually convert.</strong>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Solution Section -->
   <section class="py-16 md:py-20 bg-gray-50">
     <div class="container-narrow">
-      <h2 class="text-3xl font-bold text-gray-900 mb-10 text-center">
-        What You'll Learn
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-8 text-center">
+        There's A Better Way
       </h2>
+      <div class="prose prose-lg max-w-none">
+        <p>
+          What if every blog post you wrote was engineered—from the first sentence to the final CTA—to move readers toward becoming customers?
+        </p>
+        <p>
+          Not through manipulation. Not through "hacks." But through the same proven persuasion principles that have powered million-dollar sales letters for over a century.
+        </p>
+        <p>
+          <strong>The Blogs That Sell Framework</strong> shows you exactly how to do it.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- What's Inside -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <h2 class="text-3xl font-bold text-gray-900 mb-4 text-center">
+        Inside The Free Framework, You'll Discover:
+      </h2>
+      <p class="text-lg text-gray-600 mb-10 text-center max-w-2xl mx-auto">
+        This isn't theory. It's a practical, step-by-step framework you can apply to your next blog post.
+      </p>
       <div class="space-y-6">
-        <div class="flex gap-4">
-          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+        <div class="flex gap-4 p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
+          <div class="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-xl">
             1
           </div>
           <div>
-            <h3 class="font-semibold text-gray-900 mb-1">Why Most Blog Content Fails to Convert</h3>
-            <p class="text-gray-600">Understand the fundamental mistake 95% of content marketers make—and how to avoid it.</p>
+            <h3 class="font-bold text-gray-900 text-lg mb-1">Why 95% of Blog Content Fails to Convert</h3>
+            <p class="text-gray-600">The fundamental mistake almost everyone makes—and exactly how to avoid it. (This one shift changes everything.)</p>
           </div>
         </div>
-        <div class="flex gap-4">
-          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+        <div class="flex gap-4 p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
+          <div class="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-xl">
             2
           </div>
           <div>
-            <h3 class="font-semibold text-gray-900 mb-1">The Direct-Response Framework for Blog Posts</h3>
-            <p class="text-gray-600">Learn the same persuasion principles that power million-dollar sales letters, adapted for SEO content.</p>
+            <h3 class="font-bold text-gray-900 text-lg mb-1">The 5 Direct-Response Principles for Blog Posts</h3>
+            <p class="text-gray-600">The same framework that powers high-converting sales letters, adapted for SEO content that ranks AND converts.</p>
           </div>
         </div>
-        <div class="flex gap-4">
-          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+        <div class="flex gap-4 p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
+          <div class="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-xl">
             3
           </div>
           <div>
-            <h3 class="font-semibold text-gray-900 mb-1">How to Find Keywords That Signal Buying Intent</h3>
-            <p class="text-gray-600">Stop targeting vanity keywords. Learn to identify the searches that actually lead to sales.</p>
+            <h3 class="font-bold text-gray-900 text-lg mb-1">The Buyer-Intent Keyword Hierarchy</h3>
+            <p class="text-gray-600">Stop targeting vanity keywords that attract tire-kickers. Learn to find the searches that signal someone is ready to buy.</p>
           </div>
         </div>
-        <div class="flex gap-4">
-          <div class="flex-shrink-0 w-10 h-10 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+        <div class="flex gap-4 p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
+          <div class="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-xl">
             4
           </div>
           <div>
-            <h3 class="font-semibold text-gray-900 mb-1">The Blog Post Structure That Converts</h3>
-            <p class="text-gray-600">A simple template you can use for any post that needs to persuade and convert.</p>
+            <h3 class="font-bold text-gray-900 text-lg mb-1">The Blog Post Structure Template</h3>
+            <p class="text-gray-600">A plug-and-play template you can use for any post that needs to persuade. Hook, agitate, solve, convert.</p>
+          </div>
+        </div>
+        <div class="flex gap-4 p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
+          <div class="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-xl">
+            5
+          </div>
+          <div>
+            <h3 class="font-bold text-gray-900 text-lg mb-1">The Quick-Start Checklist</h3>
+            <p class="text-gray-600">A printable checklist to use before publishing. Never publish a post that isn't optimized to convert again.</p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Who This Is For -->
-  <section class="py-16 md:py-20">
+  <!-- Who It's For -->
+  <section class="py-16 md:py-20 bg-gray-50">
     <div class="container-narrow">
       <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
-        This Training Is For You If...
+        This Framework Is For You If...
       </h2>
       <div class="grid md:grid-cols-2 gap-4">
         {[
           "You're creating content but not seeing leads or sales",
-          "You want organic traffic that actually converts",
-          "You're a freelancer or consultant who wants inbound clients",
-          "You sell courses, services, or digital products",
           "You're tired of 'brand awareness' that doesn't pay bills",
-          "You want to write less but get better results",
+          "You're a freelancer or consultant who wants inbound clients",
+          "You sell courses, coaching, or high-ticket services",
+          "You want to write less content but get better results",
+          "You're ready to stop guessing and start converting",
         ].map((item) => (
-          <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-lg">
+          <div class="flex items-start gap-3 p-4 bg-white rounded-lg shadow-sm">
             <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
             </svg>
-            <span class="text-gray-700">{item}</span>
+            <span class="text-gray-700 font-medium">{item}</span>
           </div>
         ))}
       </div>
     </div>
   </section>
 
+  <!-- Social Proof Placeholder -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow text-center">
+      <p class="text-lg text-gray-500 italic">
+        "The framework changed how I think about every piece of content I create. My blog posts finally feel like they're doing something."
+      </p>
+      <p class="mt-4 text-gray-600">— Framework User</p>
+    </div>
+  </section>
+
   <!-- Final CTA -->
-  <section class="py-16 md:py-20 bg-primary-900 text-white">
+  <section class="py-16 md:py-24 bg-primary-900 text-white">
     <div class="container-narrow text-center">
       <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-4">
-        Get the Free Training Now
+        Get The Framework Free (Instant Access)
       </h2>
       <p class="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-        Stop creating content that gets ignored. Learn the framework that turns blog posts into sales machines.
+        Stop creating content that gets ignored. Start writing blog posts that actually convert.
       </p>
       <div class="max-w-md mx-auto">
-        <form class="space-y-3" action="#" method="POST" id="training-form-bottom">
-          <div>
-            <label for="email-bottom" class="block text-sm font-medium text-gray-300 mb-2">
-              Email address
-            </label>
-            <div class="flex flex-col sm:flex-row gap-3">
-              <input
-                type="email"
-                id="email-bottom"
-                name="email"
-                placeholder="you@example.com"
-                required
-                class="flex-grow px-4 py-3 rounded-lg text-gray-900 focus:ring-2 focus:ring-accent outline-none"
-              />
-              <button type="submit" class="btn-accent whitespace-nowrap" id="training-submit-bottom">
-                Get instant access
-              </button>
-            </div>
-          </div>
-        </form>
-        <p class="text-sm text-gray-400 mt-4">
-          Free instant access. No credit card required.
-        </p>
+        <KitForm
+          buttonText="Send Me the Free Framework"
+          showName={true}
+          variant="dark"
+        />
+      </div>
+      <p class="text-sm text-gray-400 mt-6">
+        Instant PDF download. No credit card required. Unsubscribe anytime.
+      </p>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="py-16 md:py-20">
+    <div class="container-narrow">
+      <h2 class="text-3xl font-bold text-gray-900 mb-10 text-center">
+        Questions
+      </h2>
+      <div class="space-y-4">
+        <details class="group bg-gray-50 rounded-xl p-6">
+          <summary class="font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between">
+            Is this really free?
+            <svg class="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <p class="mt-4 text-gray-600">
+            Yes. Enter your email and you'll get instant access to the complete PDF framework. No credit card required, no hidden charges.
+          </p>
+        </details>
+        <details class="group bg-gray-50 rounded-xl p-6">
+          <summary class="font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between">
+            Will this work for my industry?
+            <svg class="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <p class="mt-4 text-gray-600">
+            The framework is based on timeless direct-response principles that work across industries. If you sell services, courses, consulting, coaching, or software—this applies to you.
+          </p>
+        </details>
+        <details class="group bg-gray-50 rounded-xl p-6">
+          <summary class="font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between">
+            What happens after I sign up?
+            <svg class="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <p class="mt-4 text-gray-600">
+            You'll receive an email with a link to download the PDF immediately. You'll also get occasional emails with more tips and strategies—but you can unsubscribe anytime with one click.
+          </p>
+        </details>
       </div>
     </div>
   </section>
 </BaseLayout>
-
-<script>
-  // Add loading state to form buttons on submit
-  document.querySelectorAll('form').forEach(form => {
-    form.addEventListener('submit', (e) => {
-      const button = form.querySelector('button[type="submit"]');
-      if (button) {
-        button.classList.add('btn-loading');
-        button.setAttribute('disabled', 'disabled');
-      }
-    });
-  });
-</script>

@@ -229,6 +229,86 @@
       "slug": "bg-cta",
       "concept": "minimalist desk with open laptop and notebook, dramatic side lighting, professional workspace",
       "category": "background"
+    },
+    {
+      "slug": "blog-headlines-hero",
+      "concept": "copywriter at desk with multiple headline drafts spread out, pen in hand marking up copy, vintage typewriter in background, focused creative work",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headlines-struggle",
+      "concept": "frustrated writer staring at blank page with cursor blinking, crumpled paper balls around desk, trying to write the perfect headline, moody lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headlines-formulas",
+      "concept": "close-up of notebook with numbered headline formulas written out, pen marking checkboxes, organized copywriting reference sheet, warm desk lamp",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headlines-success",
+      "concept": "marketer smiling at laptop showing high click-through rate metrics, successful headline testing results, bright optimistic workspace, celebrating small win",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hso-hero",
+      "concept": "marketing strategist at whiteboard drawing Hook-Story-Offer framework diagram, teaching moment, bright modern office, confident presenter",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hso-struggle",
+      "concept": "content creator looking at analytics showing low engagement, disconnected content not converting, frustrated at desk, laptop with flat metrics",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hso-framework",
+      "concept": "notebook with Hook-Story-Offer framework sketched out with arrows connecting each element, pen in hand, strategic planning, warm lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hso-success",
+      "concept": "marketer celebrating while looking at laptop showing high conversion rates and engagement metrics, breakthrough moment, bright workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-mistakes-hero",
+      "concept": "marketer analyzing blog analytics on large monitor showing low conversion rates, detective work finding problems, modern office, focused investigation",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-mistakes-struggle",
+      "concept": "split screen showing beautiful blog content on one side and zero conversions on the other, frustrating disconnect, visual contrast",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-mistakes-checklist",
+      "concept": "clipboard with conversion optimization checklist being checked off, pen in hand, organized audit process, clean desk",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-mistakes-success",
+      "concept": "before and after analytics dashboard showing dramatic conversion rate improvement, upward trending graph, celebrating the fix, bright optimistic",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headline-formulas-hero",
+      "concept": "content creator brainstorming headlines on whiteboard with multiple options written out, creative process, bright modern workspace, strategic thinking",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headline-formulas-struggle",
+      "concept": "writer looking at laptop showing Google search results, their content buried below competitors, frustrated with low CTR, dimly lit office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headline-formulas-list",
+      "concept": "organized notebook with headline formulas numbered and color-coded, reference guide, pen and coffee cup nearby, clean desk setup",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headline-formulas-success",
+      "concept": "marketer excited looking at laptop showing high click-through rates in search console, celebrating improved rankings and clicks, bright workspace",
+      "category": "blog"
     }
   ]
 }

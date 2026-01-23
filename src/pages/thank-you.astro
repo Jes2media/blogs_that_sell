@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="You're In! Check Your Email"
+  description="Thank you for signing up. Check your email for the Blogs That Sell Framework."
+  noindex={true}
+>
+  <section class="py-20 md:py-32">
+    <div class="container-narrow text-center">
+      <!-- Success Icon -->
+      <div class="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-8">
+        <svg class="w-10 h-10 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+        </svg>
+      </div>
+
+      <h1 class="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 mb-6">
+        You're In!
+      </h1>
+
+      <p class="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+        Check your email for the <strong>Blogs That Sell Framework</strong>. It should arrive within the next few minutes.
+      </p>
+
+      <!-- Email Check Reminder -->
+      <div class="bg-yellow-50 border border-yellow-200 rounded-xl p-6 max-w-lg mx-auto mb-12">
+        <h2 class="font-bold text-yellow-800 mb-2">
+          Don't see it?
+        </h2>
+        <p class="text-yellow-700 text-sm">
+          Check your spam or promotions folder. Add <strong>hello@blogsthatsell.com</strong> to your contacts to ensure future emails arrive.
+        </p>
+      </div>
+
+      <!-- What's Next -->
+      <div class="bg-gray-50 rounded-xl p-8 max-w-2xl mx-auto">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          While You Wait, Here's What To Do:
+        </h2>
+        <div class="space-y-4 text-left">
+          <div class="flex gap-4">
+            <div class="flex-shrink-0 w-8 h-8 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+              1
+            </div>
+            <div>
+              <h3 class="font-semibold text-gray-900">Check Your Email</h3>
+              <p class="text-gray-600 text-sm">The framework PDF is on its way. Open it and save it somewhere you'll actually use it.</p>
+            </div>
+          </div>
+          <div class="flex gap-4">
+            <div class="flex-shrink-0 w-8 h-8 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+              2
+            </div>
+            <div>
+              <h3 class="font-semibold text-gray-900">Read the First Section</h3>
+              <p class="text-gray-600 text-sm">The "Why Most Content Fails" section will shift how you think about every post you write.</p>
+            </div>
+          </div>
+          <div class="flex gap-4">
+            <div class="flex-shrink-0 w-8 h-8 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold">
+              3
+            </div>
+            <div>
+              <h3 class="font-semibold text-gray-900">Apply It To Your Next Post</h3>
+              <p class="text-gray-600 text-sm">Use the template and checklist on your very next blog post. See the difference immediately.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Browse Content -->
+      <div class="mt-12">
+        <p class="text-gray-500 mb-4">Or explore more while you wait:</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="/blog" class="text-primary-600 hover:text-primary-800 font-medium">
+            Read the Blog &rarr;
+          </a>
+          <span class="hidden sm:inline text-gray-300">|</span>
+          <a href="/blogs-that-sell" class="text-primary-600 hover:text-primary-800 font-medium">
+            Learn the Philosophy &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
