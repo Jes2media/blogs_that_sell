@@ -694,6 +694,21 @@
       "slug": "blog-sales-page-hero",
       "concept": "copywriter crafting high-converting sales page with proven structure, long-form copy visible on large monitor, strategic persuasion, focused creative session",
       "category": "blog"
+    },
+    {
+      "slug": "blog-templates-coaches-hero",
+      "concept": "coach planning blog content strategy with templates spread on desk, organized content calendar, warm professional home office, strategic planning session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-consultants-hero",
+      "concept": "consultant planning thought leadership content strategy, whiteboard with content topics, modern professional office, strategic business content planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-freelancers-hero",
+      "concept": "freelancer at laptop planning blog content to attract clients, portfolio and content calendar visible, bright creative workspace, independent professional",
+      "category": "blog"
     }
   ]
 }
