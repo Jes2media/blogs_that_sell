@@ -584,6 +584,21 @@
       "slug": "blog-personal-trainer-hero",
       "concept": "personal trainer encouraging beginner client during workout, supportive coaching moment, welcoming gym environment, genuine connection and motivation",
       "category": "blog"
+    },
+    {
+      "slug": "blog-photographer-hero",
+      "concept": "photographer showing photos to excited client on camera screen, genuine connection and enthusiasm, bright modern studio, behind the scenes moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-wedding-planner-hero",
+      "concept": "wedding planner in consultation with engaged couple, showing venue options on tablet, warm reassuring conversation, elegant office setting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-veterinarian-hero",
+      "concept": "veterinarian gently examining dog while owner watches with relief, warm caring interaction, modern veterinary clinic, trust-building moment",
+      "category": "blog"
     }
   ]
 }

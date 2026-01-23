@@ -108,9 +108,29 @@
    - Meeting clients where they are emotionally
    - 1 hero image
 
-**Niche MOFU Progress:** 17 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers)
+### New Niche MOFU Posts (3 more - hero images only)
 
-**Total new images this session:** 47
+15. **"Blog Copywriting for Photographers: Turn Portfolio Browsers Into Booked Clients"**
+   - Connection-Before-Booking Framework
+   - Templates: Behind the Shoot, What to Expect, Why It Matters, How to Prepare
+   - Voice and personality over portfolio alone
+   - 1 hero image
+
+16. **"Blog Copywriting for Wedding Planners: Turn Engaged Couples Into Booked Clients"**
+   - Relief-First Framework for overwhelmed couples
+   - Templates: How to Actually, What Nobody Tells You, For Your Type of Wedding, Behind the Scenes
+   - Stress reduction as key value proposition
+   - 1 hero image
+
+17. **"Blog Copywriting for Veterinarians: Turn Pet Owners Into Loyal Clients"**
+   - Care-First Framework for anxious pet parents
+   - Templates: When to Worry, What to Expect, Pet Parent Guide, Honest Conversation
+   - Compassion and transparency as differentiators
+   - 1 hero image
+
+**Niche MOFU Progress:** 20 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians)
+
+**Total new images this session:** 50
 
 ---
 
