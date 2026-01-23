@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import AuthorBox from '../components/AuthorBox.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -33,9 +34,9 @@ const jsonLd = {
   datePublished: pubDate.toISOString(),
   dateModified: (updatedDate || pubDate).toISOString(),
   author: {
-    '@type': 'Organization',
-    name: 'Blogs That Sell',
-    url: 'https://blogsthatsell.com',
+    '@type': 'Person',
+    name: 'John Fawkes',
+    url: 'https://blogsthatsell.com/about',
   },
   publisher: {
     '@type': 'Organization',
@@ -109,6 +110,9 @@ const breadcrumbItems = [
       <div class="prose prose-lg max-w-none">
         <slot />
       </div>
+
+      <!-- Author Box -->
+      <AuthorBox />
 
       <!-- CTA Section -->
       <div class="mt-12 p-8 bg-primary-50 rounded-xl text-center">
