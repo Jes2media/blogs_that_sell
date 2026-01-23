@@ -724,6 +724,21 @@
       "slug": "blog-templates-service-hero",
       "concept": "service business owner planning blog content at desk with laptop, local business marketing strategy, professional small business office, organized planning",
       "category": "blog"
+    },
+    {
+      "slug": "blog-templates-course-creators-hero",
+      "concept": "course creator planning content strategy at desk with laptop and course outline, online education business planning, bright home studio, strategic content mapping",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-ecommerce-hero",
+      "concept": "ecommerce marketer planning blog content strategy, product photos and content calendar visible, modern office, strategic retail content planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-b2b-hero",
+      "concept": "B2B marketing team planning content strategy around conference table, whiteboard with buyer journey diagram, modern corporate office, strategic business content",
+      "category": "blog"
     }
   ]
 }
