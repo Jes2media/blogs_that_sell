@@ -739,6 +739,21 @@
       "slug": "blog-templates-b2b-hero",
       "concept": "B2B marketing team planning content strategy around conference table, whiteboard with buyer journey diagram, modern corporate office, strategic business content",
       "category": "blog"
+    },
+    {
+      "slug": "blog-4ps-framework-hero",
+      "concept": "copywriter at desk with 4Ps framework diagram visible, Promise Picture Proof Push structure, strategic persuasion planning, warm professional workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-quest-formula-hero",
+      "concept": "writer applying QUEST formula to content, educational selling framework visible on whiteboard, complex offer copywriting, modern creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-star-chain-hook-hero",
+      "concept": "marketer structuring customer testimonial story, Star Chain Hook framework diagram, transforming social proof into persuasion, warm professional office",
+      "category": "blog"
     }
   ]
 }
