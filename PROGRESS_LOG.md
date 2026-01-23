@@ -188,9 +188,29 @@
    - Full week content calendar from one post
    - 1 hero image
 
+### New "How To" TOFU Posts (3 more - hero images only)
+
+27. **"How to Write Email Opt-in Copy That Actually Converts"**
+   - Anatomy of converting opt-ins (Headline, Description, Fields, Button, Privacy)
+   - 7 headline formulas with examples
+   - Button text and description best practices
+   - 1 hero image
+
+28. **"How to End a Blog Post (So Readers Actually Take Action)"**
+   - 3 jobs of a strong conclusion (Reinforce, Motivate, Direct)
+   - 7 ending formulas with examples
+   - CTA integration strategies
+   - 1 hero image
+
+29. **"How to Write for SEO Without Sounding Like a Robot"**
+   - Human-First SEO Framework
+   - Natural keyword integration techniques
+   - Structure for readers AND crawlers
+   - 1 hero image
+
 **Niche MOFU Progress:** 26 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians, Med Spas, Insurance Agents, Cleaning Services, Mortgage Brokers, Roofers, Interior Designers)
 
-**Total new images this session:** 59
+**Total new images this session:** 62
 
 ---
 

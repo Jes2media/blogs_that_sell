@@ -644,6 +644,21 @@
       "slug": "blog-repurpose-hero",
       "concept": "content creator surrounded by multiple devices showing same content in different formats, blog to social media transformation, efficient content system, organized creative workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-optin-hero",
+      "concept": "marketer designing email signup form on laptop, compelling headline visible on screen, conversion optimization, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-ending-hero",
+      "concept": "writer at laptop reaching the conclusion of a blog post, final paragraph visible on screen, crafting compelling ending, focused creative moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-seo-hero",
+      "concept": "content writer balancing search optimization with engaging writing, keyword research and creative writing tools on desk, human-first approach, bright modern workspace",
+      "category": "blog"
     }
   ]
 }
