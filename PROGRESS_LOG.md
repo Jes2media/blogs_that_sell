@@ -68,9 +68,29 @@
    - Before/after portfolio strategy
    - 4 images generated
 
-**Niche MOFU Progress:** 11 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers)
+### New Niche MOFU Posts (3 more)
 
-**Total new images this session:** 32
+9. **"Blog Copywriting for Financial Advisors: Turn Readers Into High-Net-Worth Clients"**
+   - Trust-First Framework for affluent prospects
+   - Templates: What Most People Get Wrong, Life Stage Planning, Myth vs Reality, Behind the Curtain
+   - Compliance-friendly content strategies
+   - 4 images generated
+
+10. **"Blog Copywriting for Chiropractors: Turn Website Visitors Into New Patients"**
+   - Pain-to-Trust Framework for healthcare marketing
+   - Templates: Specific Condition Deep-Dive, What to Expect, Myth Buster, Self-Help + When to Get Help
+   - Condition-specific SEO strategy
+   - 4 images generated
+
+11. **"Blog Copywriting for Therapists: Turn Website Visitors Into Clients Who Actually Show Up"**
+   - Safety-First Framework for mental health practitioners
+   - Templates: What It's Really Like, What to Expect, Common Questions, Specific Population
+   - Compassionate content that addresses fear and shame
+   - 4 images generated
+
+**Niche MOFU Progress:** 14 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists)
+
+**Total new images this session:** 44
 
 ---
 

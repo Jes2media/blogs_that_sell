@@ -509,6 +509,66 @@
       "slug": "blog-landscaper-success",
       "concept": "landscaper and delighted homeowner admiring completed backyard transformation, beautiful outdoor space, professional satisfaction, bright sunny day",
       "category": "blog"
+    },
+    {
+      "slug": "blog-financial-advisor-hero",
+      "concept": "financial advisor in professional consultation with affluent client couple, elegant office with city skyline view, trust-building wealth management meeting, sophisticated atmosphere",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-financial-advisor-struggle",
+      "concept": "affluent professional frustrated reading generic financial advisor websites full of compliance jargon, looking for authentic guidance, home office, concerned expression",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-financial-advisor-templates",
+      "concept": "financial advisor planning content strategy with wealth management frameworks on whiteboard, elegant office, strategic client communication planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-financial-advisor-success",
+      "concept": "financial advisor and high-net-worth client shaking hands after signing agreement, elegant office, professional partnership established, confident satisfaction",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-chiropractor-hero",
+      "concept": "chiropractor explaining treatment plan to patient using spine model, warm professional clinic, trust-building healthcare consultation, friendly expert",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-chiropractor-struggle",
+      "concept": "person in back pain hunched over laptop searching for chiropractor, comparing identical clinic websites, frustrated trying to choose, home setting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-chiropractor-templates",
+      "concept": "chiropractor planning patient education content with anatomical charts and laptop, modern clinic office, healthcare marketing strategy session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-chiropractor-success",
+      "concept": "chiropractor and relieved patient celebrating successful treatment, patient standing tall and pain-free, bright clinic, genuine gratitude moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-therapist-hero",
+      "concept": "therapist in warm comfortable office creating safe space, cozy professional setting with soft lighting, plants and books, welcoming atmosphere",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-therapist-struggle",
+      "concept": "person anxiously browsing therapist websites late at night, overwhelmed by options, looking for connection, dim bedroom lighting, vulnerable moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-therapist-templates",
+      "concept": "therapist thoughtfully planning compassionate client communication, journal and laptop in cozy office, mindful content strategy, warm natural lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-therapist-success",
+      "concept": "therapist and client in connected therapeutic moment, genuine breakthrough conversation, comfortable office setting, hopeful warm atmosphere",
+      "category": "blog"
     }
   ]
 }
