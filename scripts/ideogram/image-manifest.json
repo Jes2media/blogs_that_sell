@@ -629,6 +629,21 @@
       "slug": "blog-interior-designer-hero",
       "concept": "interior designer showing fabric samples and mood board to engaged client, collaborative design consultation, beautiful showroom setting, creative connection",
       "category": "blog"
+    },
+    {
+      "slug": "blog-intro-hero",
+      "concept": "writer at laptop with compelling opening paragraph on screen, hook highlighted, focused on first words, creative workspace, capturing attention moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cta-hero",
+      "concept": "marketer designing call-to-action button on screen, conversion optimization, A/B testing interface visible, modern marketing workspace, strategic focus",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-repurpose-hero",
+      "concept": "content creator surrounded by multiple devices showing same content in different formats, blog to social media transformation, efficient content system, organized creative workspace",
+      "category": "blog"
     }
   ]
 }

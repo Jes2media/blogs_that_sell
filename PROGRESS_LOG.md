@@ -168,9 +168,29 @@
    - Bridging the gap between admiration and action
    - 1 hero image
 
+### New "How To" TOFU Posts (3 - hero images only)
+
+24. **"How to Write a Blog Intro That Hooks Readers in 5 Seconds"**
+   - 4 elements of a hooking intro (Pattern Interrupt, Relevance, Curiosity, Credibility)
+   - 7 proven intro formulas with examples
+   - Common intro mistakes that kill engagement
+   - 1 hero image
+
+25. **"How to Write CTAs That Actually Convert (Not Just Get Clicked)"**
+   - Anatomy of a converting CTA (Value, Specificity, Relevance, Low Friction)
+   - 7 CTA formulas with examples
+   - Matching CTAs to funnel stages
+   - 1 hero image
+
+26. **"How to Turn One Blog Post Into a Week of Content"**
+   - Content extraction system
+   - Platform-specific transformation guides
+   - Full week content calendar from one post
+   - 1 hero image
+
 **Niche MOFU Progress:** 26 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians, Med Spas, Insurance Agents, Cleaning Services, Mortgage Brokers, Roofers, Interior Designers)
 
-**Total new images this session:** 56
+**Total new images this session:** 59
 
 ---
 

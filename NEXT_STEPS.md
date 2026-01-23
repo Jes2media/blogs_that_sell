@@ -35,6 +35,7 @@
 - [x] 3 Niche MOFU posts + hero images (Photographers, Wedding Planners, Veterinarians)
 - [x] 3 Niche MOFU posts + hero images (Med Spas, Insurance Agents, Cleaning Services)
 - [x] 3 Niche MOFU posts + hero images (Mortgage Brokers, Roofers, Interior Designers)
+- [x] 3 "How To" TOFU posts + hero images (Blog Intros, CTAs, Content Repurposing)
 
 ## Phase 1 Remaining (Months 1-3 target: 100 pages)
 
