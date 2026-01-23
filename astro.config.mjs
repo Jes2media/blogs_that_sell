@@ -10,7 +10,11 @@ export default defineConfig({
   trailingSlash: 'never',
   integrations: [
     mdx(),
-    sitemap(),
+    sitemap({
+      filter: (page) =>
+        !page.includes('/thank-you') &&
+        !page.includes('/404'),
+    }),
     tailwind(),
   ],
   markdown: {

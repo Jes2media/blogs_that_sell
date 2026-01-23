@@ -11,25 +11,25 @@
 | ✅ | Hook-Story-Offer |
 | ✅ | PASTOR |
 | ✅ | Before-After-Bridge (BAB) |
-| ⬜ | FAB (Features-Advantages-Benefits) |
-| ⬜ | Epiphany Bridge |
+| ✅ | FAB (Features-Advantages-Benefits) |
+| ✅ | Epiphany Bridge |
 | ⬜ | Soap Opera Sequence |
 | ⬜ | 4Ps (Promise-Picture-Proof-Push) |
 | ⬜ | SLAP (Stop-Look-Act-Purchase) |
 
-**Progress:** 5 of 10 complete
+**Progress:** 7 of 10 complete
 
 ## Completed This Session
 - [x] Internal linking audit (16 posts fixed)
 - [x] SEO Content Plan v2.0 (1000+ page roadmap)
 - [x] PASTOR framework post + images
 - [x] Before-After-Bridge post + images
+- [x] FAB framework post + images
+- [x] Epiphany Bridge post + images
 
 ## Phase 1 Remaining (Months 1-3 target: 100 pages)
 
-### Framework MOFU (5 more needed)
-- [ ] FAB (Features-Advantages-Benefits)
-- [ ] Epiphany Bridge
+### Framework MOFU (3 more needed)
 - [ ] Soap Opera Sequence
 - [ ] 4Ps (Promise-Picture-Proof-Push)
 - [ ] SLAP (Stop-Look-Act-Purchase)
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2025-01-22*
+*Last updated: 2025-01-23*

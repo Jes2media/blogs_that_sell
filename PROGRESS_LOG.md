@@ -1,5 +1,33 @@
 # Progress Log
 
+## 2025-01-23 (Session 5)
+
+### New Framework MOFU Posts (2)
+
+1. **"FAB Framework for Blog Posts: Turn Features Into Sales"**
+   - Complete breakdown of Features-Advantages-Benefits framework
+   - How to translate specs into emotional benefits
+   - Full FAB chain examples with tables
+   - Application guide for blog intros, headers, offers, and CTAs
+   - Comparison to PAS, AIDA, PASTOR, Hook-Story-Offer
+   - Common mistakes section
+   - 4 images generated
+
+2. **"The Epiphany Bridge: How to Write Stories That Create Belief"**
+   - Russell Brunson's 8-step storytelling framework from Expert Secrets
+   - Full breakdown: Backstory, Desires, Wall, Epiphany, Plan, Conflict, Achievement, Transformation
+   - How to adapt for blog intros, case studies, email sequences
+   - Relationship to Hook-Story-Offer (Epiphany Bridge IS the story)
+   - Full worked example with all 8 steps
+   - Common mistakes section
+   - 4 images generated
+
+**Framework MOFU Progress:** 7 of 10 complete (PAS, AIDA, Hook-Story-Offer, PASTOR, BAB, FAB, Epiphany Bridge)
+
+**Total new images this session:** 8
+
+---
+
 ## 2025-01-22 (Session 4)
 
 ### Internal Linking Audit

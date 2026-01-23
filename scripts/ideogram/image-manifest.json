@@ -349,6 +349,46 @@
       "slug": "blog-bab-success",
       "concept": "content creator excited at laptop showing testimonial content with high engagement, successful transformation story results, bright optimistic workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-fab-hero",
+      "concept": "copywriter at desk translating technical specs into customer-friendly language, two columns on paper showing features transforming into benefits, warm professional lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-fab-struggle",
+      "concept": "marketer looking frustrated at laptop showing boring product specs and feature lists, no emotional connection, flat bullet points on screen, dim workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-fab-framework",
+      "concept": "whiteboard with three-column diagram showing Features to Advantages to Benefits with arrows connecting them, strategic planning session, bright modern office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-fab-success",
+      "concept": "content marketer excited at laptop showing high engagement metrics on product content, successful benefit-focused copy results, bright optimistic workspace, celebrating win",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-epiphany-hero",
+      "concept": "storyteller at desk with open journal, writing a personal narrative, bridge visible through window symbolizing connection, warm golden hour lighting, contemplative creative moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-epiphany-struggle",
+      "concept": "marketer presenting facts and data to skeptical audience, charts and graphs being ignored, disconnect between speaker and listeners, conference room frustration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-epiphany-framework",
+      "concept": "notebook showing story arc diagram with before-wall-epiphany-after structure sketched out, pen drawing connecting lines, strategic storytelling planning, warm desk lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-epiphany-success",
+      "concept": "engaged audience leaning forward listening to speaker tell a story, genuine connection and belief visible on faces, powerful storytelling moment, warm presentation lighting",
+      "category": "blog"
     }
   ]
 }
