@@ -148,9 +148,29 @@
    - Addressing trust barriers for letting strangers into homes
    - 1 hero image
 
-**Niche MOFU Progress:** 23 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians, Med Spas, Insurance Agents, Cleaning Services)
+### New Niche MOFU Posts (3 more - hero images only)
 
-**Total new images this session:** 53
+21. **"Blog Copywriting for Mortgage Brokers: Turn Rate Shoppers Into Loyal Clients"**
+   - Guide-First Framework for confused borrowers
+   - Templates: Process Explained, First-Time Buyer, Comparison/Decision, What Affects Your
+   - Differentiating from direct lenders through education
+   - 1 hero image
+
+22. **"Blog Copywriting for Roofers: Turn Storm Chasers' Victims Into Your Loyal Clients"**
+   - Proof-First Framework for skeptical homeowners
+   - Templates: How to Choose, What to Expect, Problem Explained, Storm Damage
+   - Differentiating from fly-by-night contractors
+   - 1 hero image
+
+23. **"Blog Copywriting for Interior Designers: Turn Portfolio Admirers Into Dream Clients"**
+   - Connection-Before-Portfolio Framework
+   - Templates: Behind the Design, Is It Worth It?, How to Work With, Design Advice
+   - Bridging the gap between admiration and action
+   - 1 hero image
+
+**Niche MOFU Progress:** 26 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians, Med Spas, Insurance Agents, Cleaning Services, Mortgage Brokers, Roofers, Interior Designers)
+
+**Total new images this session:** 56
 
 ---
 

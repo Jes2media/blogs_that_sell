@@ -34,6 +34,7 @@
 - [x] 3 Niche MOFU posts + hero images (Dentists, Accountants, Personal Trainers)
 - [x] 3 Niche MOFU posts + hero images (Photographers, Wedding Planners, Veterinarians)
 - [x] 3 Niche MOFU posts + hero images (Med Spas, Insurance Agents, Cleaning Services)
+- [x] 3 Niche MOFU posts + hero images (Mortgage Brokers, Roofers, Interior Designers)
 
 ## Phase 1 Remaining (Months 1-3 target: 100 pages)
 

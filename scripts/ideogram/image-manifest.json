@@ -614,6 +614,21 @@
       "slug": "blog-cleaning-service-hero",
       "concept": "professional cleaning team member warmly greeting homeowner at front door, trustworthy first impression, residential setting, professional uniform",
       "category": "blog"
+    },
+    {
+      "slug": "blog-mortgage-broker-hero",
+      "concept": "mortgage broker explaining loan documents to excited first-time homebuyers, clear guidance moment, friendly professional office, making complex simple",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-roofer-hero",
+      "concept": "professional roofer explaining roof condition to homeowner using tablet with photos, honest consultation, residential driveway, trustworthy contractor",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-interior-designer-hero",
+      "concept": "interior designer showing fabric samples and mood board to engaged client, collaborative design consultation, beautiful showroom setting, creative connection",
+      "category": "blog"
     }
   ]
 }
