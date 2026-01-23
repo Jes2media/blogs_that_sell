@@ -1,5 +1,44 @@
 # Progress Log
 
+## 2025-01-22 (Session 4)
+
+### Internal Linking Audit
+Completed comprehensive audit of all 19 blog posts against SEO plan requirements:
+- Fixed 16 posts with missing internal links
+- TOFU posts now properly link to MOFU + Pillar pages
+- MOFU posts now link to /get-more-sales, /free-training, /blogs-that-sell, and related MOFU
+- 3 posts were already compliant (copywriting-for-course-creators, copywriting-for-coaches, freelancer-blog-strategy)
+
+### SEO Content Plan v2.0 - Scale to 1000+ Pages
+Major update to `/docs/seo/SEO-CONTENT-PLAN.md`:
+- Added new TOFU archetypes: "Signs you need [solution]", Best Lists, Checklists/Worksheets
+- Added MOFU archetype: Tool & Resource Pages
+- Created Niche Master List (100+ verticals across professional services, B2B, creator economy, local businesses)
+- Created Framework Master List (30+ copywriting frameworks)
+- Built 4-phase production roadmap: 53 → 250 → 600 → 1000+ pages
+- Added Scale Multiplication Table showing pattern × variable combinations
+- Created Niche MOFU Template for programmatic production
+- Updated all BOFU URLs to current structure
+
+### New Framework MOFU Posts (2)
+1. **"PASTOR Framework for Blog Posts: The Complete Sales Letter Structure"**
+   - Full breakdown of Problem-Amplify-Story-Transformation-Offer-Response
+   - Examples for each section
+   - Comparison to AIDA, PAS, Hook-Story-Offer
+   - 4 images generated
+
+2. **"Before-After-Bridge: The Simplest Framework for Blog Posts That Convert"**
+   - Complete BAB breakdown with templates
+   - Three full examples (case study, reader-focused, testimonial)
+   - Common mistakes section
+   - 4 images generated
+
+**Framework MOFU Progress:** 5 of 10 complete (PAS, AIDA, Hook-Story-Offer, PASTOR, BAB)
+
+**Total new images this session:** 8
+
+---
+
 ## 2025-01-22 (Session 3)
 
 ### Blog Content Completion

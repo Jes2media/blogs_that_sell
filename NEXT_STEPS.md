@@ -1,42 +1,66 @@
 # Next Steps
 
-## Current Priority
-- [x] Write more blog content using `/brunson` and `/copywriter` skills ✓ (12 posts completed)
-- [x] Build out email opt-in and lead magnet funnel ✓
+## Current Priority: Phase 1 Framework MOFU Posts
 
-## Funnel Build ✓ COMPLETE
-- [x] Create `/free-training` landing page (rewritten with direct-response copy)
-- [x] Create lead magnet PDF ("Blogs That Sell Framework" guide)
-- [x] Set up email capture form (Kit/ConvertKit integration ready)
-- [x] Write welcome email sequence (5-email Soap Opera Sequence)
-- [x] Create `/thank-you` confirmation page
+**Goal:** Complete 10 Framework MOFU posts for Phase 1
 
-**To activate:** Add your Kit form ID to `src/config/site.ts`
+| Status | Framework |
+|--------|-----------|
+| ✅ | PAS (Problem-Agitate-Solution) |
+| ✅ | AIDA |
+| ✅ | Hook-Story-Offer |
+| ✅ | PASTOR |
+| ✅ | Before-After-Bridge (BAB) |
+| ⬜ | FAB (Features-Advantages-Benefits) |
+| ⬜ | Epiphany Bridge |
+| ⬜ | Soap Opera Sequence |
+| ⬜ | 4Ps (Promise-Picture-Proof-Push) |
+| ⬜ | SLAP (Stop-Look-Act-Purchase) |
 
-## Content Remaining (from SEO plan)
-- [x] "11 Blog Mistakes That Kill Your Conversion Rate" (TOFU) ✓
-- [x] "9 Headline Formulas for Blog Posts That Get Clicked" (TOFU) ✓
-- [x] "Hook-Story-Offer for Blog Posts: The Russell Brunson Method" (MOFU) ✓
-- [x] "Direct Response Headlines: 15 Formulas That Force the Click" (TOFU) ✓
+**Progress:** 5 of 10 complete
 
-## Site Infrastructure
-- [x] Create `/get-more-sales` course presale page (renamed from /the-system)
-- [x] Build `/start-here` orientation page
-- [x] Create `/blog` hub page for articles
-- [x] Create `/blogs-that-sell` philosophy page (renamed from /blog-that-sells)
+## Completed This Session
+- [x] Internal linking audit (16 posts fixed)
+- [x] SEO Content Plan v2.0 (1000+ page roadmap)
+- [x] PASTOR framework post + images
+- [x] Before-After-Bridge post + images
+
+## Phase 1 Remaining (Months 1-3 target: 100 pages)
+
+### Framework MOFU (5 more needed)
+- [ ] FAB (Features-Advantages-Benefits)
+- [ ] Epiphany Bridge
+- [ ] Soap Opera Sequence
+- [ ] 4Ps (Promise-Picture-Proof-Push)
+- [ ] SLAP (Stop-Look-Act-Purchase)
+
+### TOFU Posts (~18 more needed for Phase 1)
+- [ ] "Signs you need a blog copywriter" (new archetype)
+- [ ] "Best copywriting books for bloggers" (best list)
+- [ ] "Blog post checklist" (checklist/lead magnet)
+- [ ] Additional definitions/explainers
+- [ ] Additional mistakes/problems posts
+
+### Case Studies (3 needed)
+- [ ] Case study 1 (when results available)
+- [ ] Case study 2
+- [ ] Case study 3
+
+### Infrastructure
 - [ ] Implement analytics tracking (Plausible or similar)
+- [ ] Meta descriptions optimization
+- [ ] Content upgrades for top posts
 
-## Content Optimization
-- [ ] Internal linking audit across all posts
-- [ ] Add related posts to new blog content
-- [ ] Create content upgrades for top posts
-- [ ] Optimize meta descriptions for CTR
+## Phase 2 Preview (Months 4-6 target: 250 pages)
+- Niche expansion to 50+ verticals
+- Framework × Niche cross-content
+- Checklist/worksheet library
+- Tool/resource content
 
-## Future Content Ideas
-- More niche verticals: agencies, B2B, small business
-- Case study posts (once results exist)
-- Guest post strategy for backlinks
-- Comparison posts (your approach vs traditional content marketing)
+## Reference
+- **SEO Content Plan:** `/docs/seo/SEO-CONTENT-PLAN.md`
+- **Niche Master List:** 100+ verticals in SEO plan Section 10
+- **Framework Master List:** 30+ frameworks in SEO plan Section 11
 
 ---
 
