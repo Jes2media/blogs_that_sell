@@ -664,6 +664,21 @@
       "slug": "blog-case-study-hero",
       "concept": "marketer crafting compelling client success story, before and after transformation visible on screen, storytelling approach to business content, dramatic lighting",
       "category": "blog"
+    },
+    {
+      "slug": "blog-skimmers-hero",
+      "concept": "writer structuring blog post for maximum scannability, visual hierarchy visible on screen with headers and bullet points, strategic formatting, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-client-wins-hero",
+      "concept": "marketer turning client success into compelling content, client testimonials and metrics spread on desk, transforming wins into stories, bright creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-product-descriptions-hero",
+      "concept": "copywriter crafting product description that sells, transforming features into benefits, before and after copy visible on dual monitors, persuasive writing session",
+      "category": "blog"
     }
   ]
 }
