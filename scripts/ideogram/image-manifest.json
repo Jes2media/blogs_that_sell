@@ -389,6 +389,66 @@
       "slug": "blog-epiphany-success",
       "concept": "engaged audience leaning forward listening to speaker tell a story, genuine connection and belief visible on faces, powerful storytelling moment, warm presentation lighting",
       "category": "blog"
+    },
+    {
+      "slug": "blog-it-consultant-hero",
+      "concept": "IT consultant presenting to executive boardroom, showing system architecture diagram on large screen, confident professional in modern corporate setting, glass walls",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-it-consultant-struggle",
+      "concept": "IT professional frustrated at laptop showing complex technical documentation that no one reads, disconnect between technical expertise and business communication, dim office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-it-consultant-templates",
+      "concept": "whiteboard showing IT project framework with business outcomes highlighted, consultant planning content strategy, modern tech office, strategic planning session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-it-consultant-success",
+      "concept": "IT consultant shaking hands with CEO after closing enterprise deal, modern corporate office, professional achievement moment, confident business relationship",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hvac-hero",
+      "concept": "HVAC technician in clean uniform helping homeowner understand their system, friendly professional interaction, residential setting, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hvac-struggle",
+      "concept": "frustrated homeowner looking at phone comparing identical HVAC company websites, multiple browser tabs, trying to choose between similar options, home office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hvac-templates",
+      "concept": "HVAC business owner planning content calendar on tablet, service truck visible through window, small business marketing strategy, organized workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hvac-success",
+      "concept": "happy homeowner shaking hands with HVAC technician after successful service, comfortable home environment, satisfaction and trust, professional completion",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtuber-hero",
+      "concept": "content creator at professional desk setup with camera, microphone, and laptop showing blog dashboard, multi-platform creator workspace, ring light, modern studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtuber-struggle",
+      "concept": "YouTuber looking worried at analytics dashboard showing declining reach and revenue, algorithm anxiety, frustrated creator at desk, concerning metrics",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtuber-templates",
+      "concept": "creator planning content strategy across platforms, whiteboard showing YouTube to blog to email funnel diagram, strategic multi-platform approach, bright creative space",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtuber-success",
+      "concept": "successful content creator celebrating email subscriber milestone on laptop, thriving multi-platform business, bright modern studio, genuine excitement",
+      "category": "blog"
     }
   ]
 }

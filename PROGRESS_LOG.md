@@ -24,7 +24,33 @@
 
 **Framework MOFU Progress:** 7 of 10 complete (PAS, AIDA, Hook-Story-Offer, PASTOR, BAB, FAB, Epiphany Bridge)
 
-**Total new images this session:** 8
+### Infrastructure
+- Added Google Analytics 4 tracking (production-only, env variable)
+- Configured sitemap to exclude noindex pages for Google Search Console
+
+### New Niche MOFU Posts (3)
+
+3. **"Blog Copywriting for IT Consultants: Turn Technical Expertise Into Signed Contracts"**
+   - Technical-to-business translation framework
+   - Templates: Hidden Cost, Vendor-Neutral Evaluation, Disaster Autopsy, Executive Explainer
+   - Enterprise buyer psychology
+   - 4 images generated
+
+4. **"Blog Copywriting for HVAC Contractors: Turn Website Visitors Into Service Calls"**
+   - Local trust framework for home services
+   - Templates: Seasonal Problem, Repair vs Replace, What to Expect, Common Scam Warning
+   - Local SEO strategy
+   - 4 images generated
+
+5. **"Blog Copywriting for YouTubers: Turn Viewers Into Email Subscribers and Paying Customers"**
+   - Audience ownership framework
+   - Templates: Complete Guide, Resource Roundup, Template/Swipe File, Behind the Scenes
+   - Multi-platform monetization strategy
+   - 4 images generated
+
+**Niche MOFU Progress:** 8 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers)
+
+**Total new images this session:** 20
 
 ---
 
