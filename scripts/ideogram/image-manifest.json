@@ -329,6 +329,26 @@
       "slug": "blog-pastor-success",
       "concept": "content marketer celebrating at laptop showing high conversion rates and email signups, breakthrough results from better copywriting, bright optimistic workspace, genuine excitement",
       "category": "blog"
+    },
+    {
+      "slug": "blog-bab-hero",
+      "concept": "storyteller at desk with before and after photos spread out, creating compelling transformation narrative, warm creative workspace, focused on contrast",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-bab-struggle",
+      "concept": "marketer staring at laptop with flat boring case study on screen, no emotional impact, struggling to make content compelling, dim frustrated workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-bab-framework",
+      "concept": "notebook showing before-after-bridge diagram with arrows connecting three boxes, pen sketching the framework, clean desk with coffee, strategic planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-bab-success",
+      "concept": "content creator excited at laptop showing testimonial content with high engagement, successful transformation story results, bright optimistic workspace",
+      "category": "blog"
     }
   ]
 }
