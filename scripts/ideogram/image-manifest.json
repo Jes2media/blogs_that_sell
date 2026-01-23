@@ -599,6 +599,21 @@
       "slug": "blog-veterinarian-hero",
       "concept": "veterinarian gently examining dog while owner watches with relief, warm caring interaction, modern veterinary clinic, trust-building moment",
       "category": "blog"
+    },
+    {
+      "slug": "blog-med-spa-hero",
+      "concept": "med spa consultant in personalized consultation with client, reviewing treatment options, luxurious but welcoming aesthetic clinic, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-insurance-agent-hero",
+      "concept": "insurance agent explaining policy documents in plain language to relieved client, friendly professional office, making complex simple, trust-building",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cleaning-service-hero",
+      "concept": "professional cleaning team member warmly greeting homeowner at front door, trustworthy first impression, residential setting, professional uniform",
+      "category": "blog"
     }
   ]
 }

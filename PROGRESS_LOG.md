@@ -128,9 +128,29 @@
    - Compassion and transparency as differentiators
    - 1 hero image
 
-**Niche MOFU Progress:** 20 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians)
+### New Niche MOFU Posts (3 more - hero images only)
 
-**Total new images this session:** 50
+18. **"Blog Copywriting for Med Spas: Turn Browsers Into Booked Treatments"**
+   - Confidence-First Framework for aesthetic treatments
+   - Templates: Is This Right for Me?, What It's Really Like, Concern-Focused, Myth vs Reality
+   - Normalizing the decision and addressing vanity concerns
+   - 1 hero image
+
+19. **"Blog Copywriting for Insurance Agents: Turn Confused Prospects Into Loyal Clients"**
+   - Clarity-First Framework for complex products
+   - Templates: Plain English Explainer, Life Event Guide, What Nobody Tells You, Should I Decision
+   - Simplifying the complex, building trust through education
+   - 1 hero image
+
+20. **"Blog Copywriting for Cleaning Services: Turn Website Visitors Into Regular Clients"**
+   - Trust-First Framework for home services
+   - Templates: What to Expect, Helpful Tips, Situation-Specific, Why We're Different
+   - Addressing trust barriers for letting strangers into homes
+   - 1 hero image
+
+**Niche MOFU Progress:** 23 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers, Financial Advisors, Chiropractors, Therapists, Dentists, Accountants, Personal Trainers, Photographers, Wedding Planners, Veterinarians, Med Spas, Insurance Agents, Cleaning Services)
+
+**Total new images this session:** 53
 
 ---
 
