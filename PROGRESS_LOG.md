@@ -48,9 +48,29 @@
    - Multi-platform monetization strategy
    - 4 images generated
 
-**Niche MOFU Progress:** 8 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers)
+### New Niche MOFU Posts (3 more)
 
-**Total new images this session:** 20
+6. **"Blog Copywriting for Real Estate Agents: Turn Readers Into Listings and Buyers"**
+   - Hyperlocal authority framework
+   - Templates: Neighborhood Deep-Dive, Market Reality Check, What I Learned From, Buyer/Seller Guide
+   - Local SEO and neighborhood hub strategy
+   - 4 images generated
+
+7. **"Blog Copywriting for Lawyers: Turn Website Visitors Into Consultations"**
+   - Trust-before-contact framework
+   - Templates: What to Expect, Plain English Explainer, Should I Decision, Cost/Value Transparency
+   - Practice area hub strategy with ethics considerations
+   - 4 images generated
+
+8. **"Blog Copywriting for Landscapers: Turn Website Visitors Into Booked Jobs"**
+   - Local trust framework for contractors
+   - Templates: What to Expect, Seasonal Problem, Project Gallery, Cost/Investment Guide
+   - Before/after portfolio strategy
+   - 4 images generated
+
+**Niche MOFU Progress:** 11 total (Coaches, Consultants, Course Creators, Freelancers, SaaS, IT Consultants, HVAC, YouTubers, Real Estate, Lawyers, Landscapers)
+
+**Total new images this session:** 32
 
 ---
 

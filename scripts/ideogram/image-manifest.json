@@ -449,6 +449,66 @@
       "slug": "blog-youtuber-success",
       "concept": "successful content creator celebrating email subscriber milestone on laptop, thriving multi-platform business, bright modern studio, genuine excitement",
       "category": "blog"
+    },
+    {
+      "slug": "blog-real-estate-hero",
+      "concept": "real estate agent showing home to young couple, warm welcoming interaction, modern house interior, professional trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-real-estate-struggle",
+      "concept": "homebuyer overwhelmed looking at laptop with multiple identical real estate websites open, trying to choose an agent, frustrated decision paralysis",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-real-estate-templates",
+      "concept": "real estate agent planning content strategy with neighborhood maps and market data on desk, laptop showing blog dashboard, strategic local marketing",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-real-estate-success",
+      "concept": "real estate agent handing keys to happy new homeowners, successful closing moment, bright modern home, genuine celebration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-lawyer-hero",
+      "concept": "attorney in warm consultation with client across desk, approachable professional setting, modern law office, trust-building conversation",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-lawyer-struggle",
+      "concept": "person confused reading legal documents full of jargon, overwhelmed by complexity, looking for help, dim worried lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-lawyer-templates",
+      "concept": "lawyer planning client communication strategy, whiteboard with content topics, modern law office, professional marketing planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-lawyer-success",
+      "concept": "attorney and relieved client shaking hands after successful case resolution, professional achievement, bright modern office, genuine gratitude",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-landscaper-hero",
+      "concept": "professional landscaper discussing design plans with homeowner in beautiful backyard, collaborative consultation, outdoor setting, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-landscaper-struggle",
+      "concept": "homeowner looking at phone comparing multiple landscaping company websites that all look the same, trying to choose, frustrated in backyard",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-landscaper-templates",
+      "concept": "landscaping business owner planning content with before-after photos spread on desk, laptop showing project gallery, strategic marketing session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-landscaper-success",
+      "concept": "landscaper and delighted homeowner admiring completed backyard transformation, beautiful outdoor space, professional satisfaction, bright sunny day",
+      "category": "blog"
     }
   ]
 }
