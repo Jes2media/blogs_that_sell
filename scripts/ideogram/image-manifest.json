@@ -779,6 +779,21 @@
       "slug": "blog-slap-framework-hero",
       "concept": "marketer crafting short-form ad copy with SLAP framework, Stop Look Act Purchase for ads, fast attention capture, modern digital marketing workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copy-not-converting-hero",
+      "concept": "marketer analyzing underperforming copy on screen, troubleshooting conversion problems, diagnostic approach, focused problem-solving workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-sales-page-fix-hero",
+      "concept": "marketer auditing sales page on large monitor, identifying conversion issues, systematic troubleshooting, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-email-no-clicks-hero",
+      "concept": "email marketer analyzing campaign with opens but no clicks, troubleshooting CTA issues, data visible on screen, focused optimization session",
+      "category": "blog"
     }
   ]
 }
