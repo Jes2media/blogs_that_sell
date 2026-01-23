@@ -709,6 +709,21 @@
       "slug": "blog-templates-freelancers-hero",
       "concept": "freelancer at laptop planning blog content to attract clients, portfolio and content calendar visible, bright creative workspace, independent professional",
       "category": "blog"
+    },
+    {
+      "slug": "blog-templates-saas-hero",
+      "concept": "SaaS marketing team planning content strategy around whiteboard with funnel diagram, modern tech office, collaborative content planning session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-agencies-hero",
+      "concept": "agency team in creative meeting planning thought leadership content, modern design studio, collaborative strategy session, professional creative environment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-templates-service-hero",
+      "concept": "service business owner planning blog content at desk with laptop, local business marketing strategy, professional small business office, organized planning",
+      "category": "blog"
     }
   ]
 }
