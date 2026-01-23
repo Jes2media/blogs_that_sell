@@ -679,6 +679,21 @@
       "slug": "blog-product-descriptions-hero",
       "concept": "copywriter crafting product description that sells, transforming features into benefits, before and after copy visible on dual monitors, persuasive writing session",
       "category": "blog"
+    },
+    {
+      "slug": "blog-headlines-clicks-hero",
+      "concept": "writer crafting compelling headline that demands attention, multiple headline variations visible on screen, testing different hooks, focused creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-about-page-hero",
+      "concept": "writer crafting About page that builds trust and sells, personal story transforming into persuasive copy, warm professional workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-sales-page-hero",
+      "concept": "copywriter crafting high-converting sales page with proven structure, long-form copy visible on large monitor, strategic persuasion, focused creative session",
+      "category": "blog"
     }
   ]
 }
