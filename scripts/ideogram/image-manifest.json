@@ -769,6 +769,16 @@
       "slug": "blog-acca-framework-hero",
       "concept": "writer structuring educational content with ACCA framework, Awareness Comprehension Conviction Action diagram, persuasion through understanding, warm office",
       "category": "blog"
+    },
+    {
+      "slug": "blog-pppp-framework-hero",
+      "concept": "copywriter crafting aspirational content with PPPP framework, Picture Promise Prove Push diagram, visualization-first persuasion, warm creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-slap-framework-hero",
+      "concept": "marketer crafting short-form ad copy with SLAP framework, Stop Look Act Purchase for ads, fast attention capture, modern digital marketing workspace",
+      "category": "blog"
     }
   ]
 }
