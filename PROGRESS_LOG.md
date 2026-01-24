@@ -139,6 +139,31 @@ Continuing with "Blog Copywriting for X" title format:
 **Totals:** 173 blog posts, 185 total pages
 **Niche guides:** 59
 
+### New Niche Guides - Batch 4 (3 posts)
+
+Continuing with "Blog Copywriting for X" title format:
+
+19. **Blog Copywriting for Orthodontists**
+    - Dual-audience framework (parents vs adult patients)
+    - Templates: Treatment Comparison, What to Expect, Parent's Guide, Adult Patient
+    - Addresses direct-to-consumer aligner competition
+    - Links to: dentists, dermatologists, plastic surgeons
+
+20. **Blog Copywriting for Pest Control Companies**
+    - Trust-first framework countering fear-based marketing
+    - Templates: Pest Identifier, Prevention, Treatment Explainer, Seasonal/Local
+    - Education-over-alarm approach to build credibility
+    - Links to: HVAC, cleaning services, landscapers
+
+21. **Blog Copywriting for Solar Installers**
+    - Education-over-hype framework for skeptical homeowners
+    - Templates: Is Solar Right for You, Financing Explainer, Process Demystifier, Myth-Buster
+    - Addresses industry reputation challenges from aggressive sales
+    - Links to: HVAC, roofers, electricians
+
+**Totals:** 176 blog posts, 188 total pages
+**Niche guides:** 62
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1

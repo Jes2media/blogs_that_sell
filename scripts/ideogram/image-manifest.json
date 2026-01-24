@@ -1174,6 +1174,21 @@
       "slug": "blog-event-planner-hero",
       "concept": "event planner reviewing event design boards with corporate client, elegant mood boards and samples on table, professional consultation, creative collaboration",
       "category": "blog"
+    },
+    {
+      "slug": "blog-orthodontist-hero",
+      "concept": "orthodontist showing teeth alignment model to teenage patient and parent, modern orthodontic office, friendly consultation, explaining treatment options",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-pest-control-hero",
+      "concept": "professional pest control technician explaining treatment plan to homeowner at front door, clipboard in hand, friendly and trustworthy, residential setting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-solar-installer-hero",
+      "concept": "solar consultant showing homeowner tablet with solar panel design and savings projection, standing near house with roof visible, professional consultation, trust-building moment",
+      "category": "blog"
     }
   ]
 }
