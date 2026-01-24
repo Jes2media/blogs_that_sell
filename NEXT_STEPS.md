@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 186 Blog Posts
+## Current Status: 188 Blog Posts
 
-**Total site pages: 198** (186 blog posts + 12 static pages)
+**Total site pages: 200** (188 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -29,6 +29,14 @@
 - ✅ 12+ TOFU how-to posts
 - ✅ Troubleshooting posts (conversion issues)
 - ✅ Direct response cluster posts
+- ✅ "What is Copywriting" pillar page (13,000 vol, comprehensive guide)
+
+### Cold Email Cluster - IN PROGRESS
+**2 of 4 posts complete**
+- [x] Cold Email Follow Up (2,100 vol, KD 11)
+- [x] Cold Email Templates (1,500 vol, KD 19)
+- [ ] Abandoned Cart Email Examples (700 vol)
+- [ ] Lead Nurturing Emails (300 vol)
 
 ### Guru-Follower Content - COMPLETE ✅
 **20 of 20 posts complete** (SEO plan Section 13)
@@ -121,4 +129,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 10 - Guru Posts + 3 New Niche Guides, 167 blog posts)*
+*Last updated: 2025-01-24 (Session 11 - Pillar Page + Cold Email Cluster, 188 blog posts)*
