@@ -864,6 +864,21 @@
       "slug": "blog-generate-leads-hero",
       "concept": "blog post transforming into lead capture with email notifications appearing, content converting readers, lead generation success, bright optimistic workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-pillar-vs-posts-hero",
+      "concept": "content architecture diagram showing large pillar page connected to smaller blog posts, hub and spoke model, strategic content planning, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-landing-page-tools-hero",
+      "concept": "marketer building landing page with drag-and-drop builder on screen, lead capture form design, conversion focused design, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-repurpose-channels-hero",
+      "concept": "single blog post branching into multiple content formats and platforms, social media icons, content multiplication, efficient content creation workspace",
+      "category": "blog"
     }
   ]
 }
