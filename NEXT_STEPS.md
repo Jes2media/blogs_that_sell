@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 132 Blog Posts
+## Current Status: 135 Blog Posts
 
-**Total site pages: 144** (132 blog posts + 12 static pages)
+**Total site pages: 147** (135 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -55,7 +55,7 @@
 - [ ] Create content-specific lead magnets
 
 ### Phase 2 Content (Optional)
-- [ ] Create framework × niche cross-content
+- [x] Create framework × niche cross-content (3 posts: PAS for Coaches, AIDA for SaaS, HSO for Course Creators)
 - [ ] Build checklist/worksheet library
 - [ ] Add case studies (when results available)
 
