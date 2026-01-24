@@ -1,5 +1,162 @@
 # Progress Log
 
+## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
+
+### Guru-Follower Diagnostic Posts (3)
+
+Started the 20-post Guru-Follower content series from SEO plan Section 13. These posts target followers of copywriting legends with diagnostic/contrarian angles—readers who are already invested in marketing education and likely to buy courses.
+
+**Batch 1: Classic DR Legends**
+
+1. **Why Reading Gary Halbert Won't Make You a Better Copywriter**
+   - Diagnostic post on the "Halbert trap"
+   - What most people miss when studying his newsletters
+   - Principles to extract vs tactics to ignore
+   - Links to: buyer-intent-keywords, PAS, AIDA
+
+2. **The Dan Kennedy Advice That Doesn't Work Anymore**
+   - What Kennedy got permanently right vs what backfires now
+   - Long copy, hard sells, manufactured urgency, list monetization
+   - Translation problem: context matters
+   - Links to: long-form-vs-short-form, content-funnel, why-copy-isnt-converting
+
+3. **What Most People Get Wrong About "Breakthrough Advertising"**
+   - The 5 levels of awareness—commonly misapplied
+   - Market sophistication (the part nobody talks about)
+   - What Schwartz actually meant vs the Twitter summary
+   - Links to: blog-intro, content-funnel, why-copy-isnt-converting
+
+### Batch 2: Modern Icons + Brand Voices
+
+4. **Why Copying David Ogilvy's Style Backfires**
+   - Brand advertising vs direct response distinction
+   - Why elegant copy tanks conversions for most businesses
+   - What to actually learn: research, headlines, specifics, respect
+   - Links to: headline-formulas, why-copy-isnt-converting
+
+5. **The Russell Brunson Playbook Problem**
+   - Template trap: frameworks become fill-in-the-blanks
+   - Market saturation: everyone sounds identical
+   - Market sophistication stage 5 analysis
+   - Links to: breakthrough-advertising, hook-story-offer
+
+6. **Why Following Frank Kern's Advice Made Me Worse at Marketing**
+   - First-person diagnostic narrative
+   - Laid-back style vs deep substance paradox
+   - 5 common mistakes when copying Kern
+   - Links to: turn-blog-into-sales-funnel, free-training
+
+### Batch 3: Email, Authenticity & Learning
+
+7. **What Ben Settle Doesn't Tell You About Daily Emails**
+   - The invisible system behind daily email success
+   - Backend, list size, volume, and skill requirements
+   - Sustainable alternatives to the daily grind
+   - Links to: turn-blog-readers-into-subscribers
+
+8. **Why "Just Be Yourself" Fails (Even When Alex Cattoni Says It)**
+   - The incompleteness of authenticity advice
+   - Which self? Developed vs undeveloped
+   - What successful "authentic" creators actually do
+   - Links to: free-training, get-more-sales
+
+9. **Why Marketing Courses Don't Work (The Way You're Using Them)**
+   - Reframed: consumption vs implementation problem
+   - Collector's mentality, shortcut fantasy
+   - Implementation mindset: one course, adapt don't copy, measure
+   - Pro-course framing: courses work when you work them
+   - Links to: free-training, get-more-sales
+
+### Batch 4: Copyhackers, Hidden Gems & Meta-Analysis
+
+10. **What Joanna Wiebe Gets Right (That Most Copyhackers Students Miss)**
+   - Research-driven copywriting vs framework-first
+   - Voice of Customer obsession
+   - The hierarchy of evidence for customer research
+   - Links to: buyer-intent-keywords, PAS, AIDA
+
+11. **Clayton Makepeace's Million-Dollar Secret Nobody Talks About**
+   - The research obsession behind legendary copy
+   - Depth beats technique: understanding products cold
+   - The specificity advantage and credibility chain
+   - Links to: why-valuable-content-doesnt-generate-leads
+
+12. **The Hidden Assumptions in Classic Copywriting Advice**
+   - 8 hidden assumptions: one-shot, cold traffic, no reputation risk, etc.
+   - Why context matters when applying classic advice
+   - How to translate principles to modern conditions
+   - Links to: breakthrough-advertising, russell-brunson-playbook
+
+### Batch 5: Bridge/Resolution Posts (Actionable Applications)
+
+13. **How to Actually Apply Eugene Schwartz's "Levels of Awareness"**
+   - Practical guide for each awareness level
+   - Content types, headlines, and strategies per level
+   - Application to blog posts, landing pages, email sequences
+   - Links to: why-copy-isnt-converting, PAS, welcome-sequence
+
+14. **The One Dan Kennedy Principle Worth Keeping**
+   - "The offer is everything" deep dive
+   - Three dimensions: product, terms, positioning
+   - Why offer beats copy every time
+   - Links to: turn-blog-readers-into-subscribers
+
+15. **What Gary Halbert Actually Meant by "The List Is Everything"**
+   - The starving crowd principle
+   - Three dimensions: right problem, timing, capacity
+   - How content attracts (or repels) the right audience
+   - Links to: buyer-intent-keywords
+
+### Batch 6: Framework Deep-Dives
+
+16. **Russell Brunson's Hook-Story-Offer: When It Works and When It Doesn't**
+   - Framework analysis: when HSO shines vs falls flat
+   - Cold vs warm audiences, complex vs simple offers
+   - Oversaturation problem and how to stand out
+   - Meta-skill: knowing when to use which tool
+   - Links to: russell-brunson-playbook-problem, breakthrough-advertising
+
+17. **The Frank Kern "Mass Control" Framework—Decoded for 2025**
+   - 2008 tactics vs timeless principles breakdown
+   - What still works: sideways sales letter, results in advance, behavioral segmentation
+   - What doesn't: fake scarcity, long videos, guru mystique, once-a-year launches
+   - Modern application: evergreen funnels, automated behavioral response
+   - Links to: why-following-frank-kern-made-me-worse, content-funnel
+
+18. **Ben Settle's Email Philosophy: Extracting the Signal from the Noise**
+   - Core philosophy analysis: daily emails, entertainment, personality, selling without apology
+   - What works: relationship model, entertainment as utility, personality positioning
+   - What doesn't (for most): true daily emails, abrasiveness, anti-template stance
+   - Hidden context behind his advice
+   - Links to: what-ben-settle-doesnt-tell-you, turn-blog-into-sales-funnel
+
+### Batch 7: Final Synthesis
+
+19. **David Ogilvy vs. Gary Halbert: Which Approach Actually Wins Today?**
+   - Brand building vs direct response comparison
+   - Where each approach wins: reputation, sales cycles, measurability
+   - False dichotomy: both agreed on fundamentals
+   - 2025 reality: build trust like Ogilvy, convert like Halbert
+   - Links to: what-is-direct-response-content, free-training
+
+20. **What All the Copywriting Legends Agree On (And Why That's What Matters)**
+   - 10 universal principles all legends share
+   - Audience knowledge, headlines, specificity, emotion, CTAs
+   - Proof, clarity, offers, testing, reader-first thinking
+   - Meta-lesson: principles over tactics
+   - Links to: joanna-wiebe, dan-kennedy-principle, headlines, ctas
+
+### Guru-Follower Progress
+- **Completed:** 20 of 20 posts (100%) ✅
+- **Series complete!**
+
+### Site Totals
+- **Total blog posts:** 155
+- **Total static pages:** 12
+- **Total site pages:** 167
+
+---
+
 ## 2025-01-23 (Session 8) - Keyword Gap Analysis + 6 More Niche Guides
 
 ### Keyword Gap Analysis

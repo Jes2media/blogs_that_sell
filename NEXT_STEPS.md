@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 135 Blog Posts
+## Current Status: 155 Blog Posts
 
-**Total site pages: 147** (135 blog posts + 12 static pages)
+**Total site pages: 167** (155 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -29,15 +29,44 @@
 - ✅ Troubleshooting posts (conversion issues)
 - ✅ Direct response cluster posts
 
-## Recommended Next Steps
+### Guru-Follower Content - COMPLETE ✅
+**20 of 20 posts complete** (SEO plan Section 13)
 
-### Immediate: Keyword Gap Content - COMPLETE ✅
-- [x] copywriting books (KD 1) - `best-copywriting-books.mdx`
-- [x] web copywriting (KD 2) - `web-copywriting-guide.mdx`
-- [x] freelance copywriter (KD 3) - `freelance-copywriter-guide.mdx`
-- [x] email copy (KD 4) - `how-to-write-email-copy.mdx`
-- [x] listicle examples (KD 4) - `listicle-examples.mdx`
-- [x] how to become a copywriter (KD 4) - `how-to-become-copywriter-no-experience.mdx`
+**Batch 1 - Classic DR Legends (COMPLETE):**
+- [x] Why Reading Gary Halbert Won't Make You a Better Copywriter
+- [x] The Dan Kennedy Advice That Doesn't Work Anymore
+- [x] What Most People Get Wrong About "Breakthrough Advertising"
+
+**Batch 2 - Modern Icons (COMPLETE):**
+- [x] Why Copying David Ogilvy's Style Backfires
+- [x] The Russell Brunson Playbook Problem
+- [x] Why Following Frank Kern's Advice Made Me Worse at Marketing
+
+**Batch 3 - Email, Authenticity & Learning (COMPLETE):**
+- [x] What Ben Settle Doesn't Tell You About Daily Emails
+- [x] Why "Just Be Yourself" Fails (Even When Alex Cattoni Says It)
+- [x] Why Marketing Courses Don't Work (The Way You're Using Them)
+
+**Batch 4 - Copyhackers & Hidden Gems (COMPLETE):**
+- [x] What Joanna Wiebe Gets Right (That Most Copyhackers Students Miss)
+- [x] Clayton Makepeace's Million-Dollar Secret Nobody Talks About
+- [x] The Hidden Assumptions in Classic Copywriting Advice
+
+**Batch 5 - Bridge/Resolution Posts (COMPLETE):**
+- [x] How to Actually Apply Eugene Schwartz's "Levels of Awareness"
+- [x] The One Dan Kennedy Principle Worth Keeping
+- [x] What Gary Halbert Actually Meant by "The List Is Everything"
+
+**Batch 6 - Framework Deep-Dives (COMPLETE):**
+- [x] Russell Brunson's Hook-Story-Offer: When It Works and When It Doesn't
+- [x] The Frank Kern "Mass Control" Framework—Decoded for 2025
+- [x] Ben Settle's Email Philosophy: Extracting the Signal from the Noise
+
+**Batch 7 - Final Synthesis (COMPLETE):**
+- [x] David Ogilvy vs. Gary Halbert: Which Approach Actually Wins Today?
+- [x] What All the Copywriting Legends Agree On (And Why That's What Matters)
+
+## Other Recommended Next Steps
 
 ### Content Optimization
 - [ ] Add content upgrades (lead magnets) to top 10 traffic posts
@@ -45,7 +74,7 @@
 - [ ] Build internal linking between related MOFU posts
 
 ### SEO & Analytics
-- [ ] Submit sitemap to Google Search Console
+- [x] Submit sitemap to Google Search Console
 - [ ] Monitor initial ranking positions
 - [ ] Identify quick-win keywords (positions 5-20)
 
@@ -61,10 +90,11 @@
 
 ## Reference
 - **SEO Content Plan:** `/docs/seo/SEO-CONTENT-PLAN.md`
+- **Guru-Follower Posts:** Section 13 - 20 post ideas
 - **Priority Keywords:** Section 1.5 - Top 30 Initial SEO Targets
 - **Niche Master List:** 100+ verticals in SEO plan Section 10
 - **Framework Master List:** 30+ frameworks in SEO plan Section 11
 
 ---
 
-*Last updated: 2025-01-24 (Session 8 continued - 50 niche guides complete!)*
+*Last updated: 2025-01-24 (Session 9 - Guru-Follower series COMPLETE, 155 blog posts)*
