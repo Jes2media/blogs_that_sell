@@ -849,6 +849,21 @@
       "slug": "blog-readers-subscribers-hero",
       "concept": "blog visitor journey transforming into email subscriber, opt-in form highlighted, lead capture moment, conversion optimization workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-email-vs-content-hero",
+      "concept": "split image showing email inbox on one side and blog content library on other, marketing strategy comparison, how they work together, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-analytics-tools-hero",
+      "concept": "marketer analyzing blog performance data on dashboard, charts and metrics visible, data-driven content decisions, modern analytics workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-generate-leads-hero",
+      "concept": "blog post transforming into lead capture with email notifications appearing, content converting readers, lead generation success, bright optimistic workspace",
+      "category": "blog"
     }
   ]
 }
