@@ -1202,7 +1202,99 @@ BOFU (Convert)
 
 ---
 
-*Document version: 2.0*
-*Last updated: 2025-01-22*
+## 13) Guru-Follower Content Targets
+
+### Purpose
+These posts use legendary copywriters/marketers as **contextual anchors** (not primary keywords) to attract buyers of information products. The strategy: people searching for or following these figures are already invested in marketing education and likely to buy courses, templates, and training.
+
+### Target Figures (Contextual Anchors)
+- **Classic DR Legends:** Dan Kennedy, Gary Halbert, Eugene Schwartz, David Ogilvy, Clayton Makepeace
+- **Modern Info-Product Icons:** Frank Kern, Russell Brunson, Joanna Wiebe, Alex Cattoni, Ben Settle
+
+### Content Approach
+- Diagnostic/contrarian angles (not fan content)
+- TOFU/MOFU intent
+- Position us as peers who understand, not followers who worship
+- Natural mentions, not keyword stuffing
+
+---
+
+### 20 Post Ideas
+
+#### Diagnostic Posts (TOFU)
+
+| # | Post Title | Anchor Figure(s) | Intent |
+|---|------------|------------------|--------|
+| 1 | Why Reading Gary Halbert Won't Make You a Better Copywriter | Gary Halbert | TOFU |
+| 2 | The Dan Kennedy Advice That Doesn't Work Anymore | Dan Kennedy | TOFU |
+| 3 | What Most People Get Wrong About "Breakthrough Advertising" | Eugene Schwartz | TOFU |
+| 4 | Why Copying David Ogilvy's Style Backfires | David Ogilvy | TOFU |
+| 5 | The Russell Brunson Playbook Problem | Russell Brunson | TOFU |
+| 6 | Why Following Frank Kern's Advice Made Me Worse at Marketing | Frank Kern | TOFU |
+| 7 | What Ben Settle Doesn't Tell You About Daily Emails | Ben Settle | TOFU |
+
+#### Contrarian Analysis Posts (TOFU → MOFU)
+
+| # | Post Title | Anchor Figure(s) | Intent |
+|---|------------|------------------|--------|
+| 8 | The Hidden Assumptions in Classic Copywriting Advice | Halbert, Schwartz, Kennedy | MOFU |
+| 9 | Why "Just Be Yourself" Fails (Even When Alex Cattoni Says It) | Alex Cattoni | TOFU |
+| 10 | The Problem With Learning Copy From Gurus Who Sell Courses | Brunson, Kern, Cattoni | MOFU |
+| 11 | What Joanna Wiebe Gets Right (That Most Copyhackers Students Miss) | Joanna Wiebe | MOFU |
+| 12 | Clayton Makepeace's Million-Dollar Secret Nobody Talks About | Clayton Makepeace | MOFU |
+
+#### Bridge/Resolution Posts (MOFU)
+
+| # | Post Title | Anchor Figure(s) | Intent |
+|---|------------|------------------|--------|
+| 13 | How to Actually Apply Eugene Schwartz's "Levels of Awareness" | Eugene Schwartz | MOFU |
+| 14 | The One Dan Kennedy Principle Worth Keeping | Dan Kennedy | MOFU |
+| 15 | What Gary Halbert Actually Meant by "The List Is Everything" | Gary Halbert | MOFU |
+| 16 | Russell Brunson's Hook-Story-Offer: When It Works and When It Doesn't | Russell Brunson | MOFU |
+| 17 | David Ogilvy vs. Gary Halbert: Which Approach Actually Wins Today? | Ogilvy, Halbert | MOFU |
+| 18 | The Frank Kern "Mass Control" Framework—Decoded for 2025 | Frank Kern | MOFU |
+| 19 | Ben Settle's Email Philosophy: Extracting the Signal from the Noise | Ben Settle | MOFU |
+| 20 | What All the Copywriting Legends Agree On (And Why That's What Matters) | All | MOFU |
+
+---
+
+### Content Guidelines for Guru-Anchor Posts
+
+**DO:**
+- Mention the figure naturally, as context for a larger point
+- Acknowledge their contributions while adding nuance
+- Position yourself as someone who's tested their advice
+- Extract principles, critique tactics
+- Link to our framework posts where their methods apply
+
+**DON'T:**
+- Write fan content or summaries of their work
+- Use their name as primary keyword (contextual only)
+- Attack them personally—critique ideas, not people
+- Pretend to have insider knowledge you don't have
+- Over-reference (1-3 mentions per post, max)
+
+### Internal Linking Strategy
+
+Each guru-anchor post should link to:
+- Related framework post (if applicable)
+- `/blogs-that-sell` pillar
+- `/free-training` CTA
+- One related diagnostic post from the 30-post plan
+
+### Search Intent Notes
+
+People searching these figures are often:
+- Looking for shortcuts/formulas
+- Frustrated that advice isn't working
+- Ready to buy if they find something credible
+- Skeptical of hype, responsive to nuance
+
+Write for the frustrated sophisticate, not the eager beginner.
+
+---
+
+*Document version: 2.1*
+*Last updated: 2025-01-24*
 *Owner: Content Team*
 *Scale Target: 1,000+ pages*
