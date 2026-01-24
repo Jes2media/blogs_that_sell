@@ -1084,6 +1084,21 @@
       "slug": "blog-legends-agree-hero",
       "concept": "stack of classic copywriting and advertising books on desk with notebook full of common principles distilled, timeless wisdom synthesis, warm scholarly lighting",
       "category": "blog"
+    },
+    {
+      "slug": "blog-ryan-deiss-cvj-hero",
+      "concept": "marketing strategist mapping customer value journey on whiteboard with eight stages from awareness to advocate, digital marketer framework visualization, modern professional workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-todd-brown-big-idea-hero",
+      "concept": "marketer at desk with lightbulb moment, breakthrough big idea concept, differentiation strategy visible on whiteboard, standing out from competition, creative marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-kyle-milligan-copy-hero",
+      "concept": "copywriter at desk with direct response principles visible on notebook, conversion-focused writing, specific persuasive copy on screen, professional copywriting workspace",
+      "category": "blog"
     }
   ]
 }

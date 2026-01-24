@@ -1,5 +1,35 @@
 # Progress Log
 
+## 2025-01-24 (Session 10) - Additional Guru Posts (Positive Angle)
+
+### New Guru Content from Section 14 (3 posts)
+
+Continuing guru content strategy with positive, educational posts about marketing experts from Section 14 of the SEO plan.
+
+**Batch 1: Positive Framework Posts**
+
+1. **Ryan Deiss's Customer Value Journey: The Framework That Powers DigitalMarketer**
+   - Complete breakdown of the 8-stage CVJ framework
+   - Content mapping by stage (Aware → Promote)
+   - Before/After Grid concept for transformation messaging
+   - Links to: Joanna Wiebe, Russell Brunson HSO, legends-agree-on
+
+2. **Todd Brown's Big Idea Marketing: How to Stand Out in Crowded Markets**
+   - Big Idea concept explained: new way of thinking, not just claims
+   - How to find contrarian truths in your market
+   - Big Idea test: different, desirable, believable
+   - Links to: Ryan Deiss, Eugene Schwartz awareness, legends-agree-on
+
+3. **Kyle Milligan on Writing Copy That Converts: Principles from Copy Squad**
+   - 7 core conversion copy principles
+   - Specificity, entering the conversation, one reader/message/offer
+   - Proof over promise, conversational writing, agitation, CTAs
+   - Links to: Ryan Deiss, Todd Brown, Clayton Makepeace
+
+**Totals:** 158 blog posts, 170 total pages
+
+---
+
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
 
 ### Guru-Follower Diagnostic Posts (3)
