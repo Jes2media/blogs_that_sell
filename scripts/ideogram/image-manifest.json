@@ -1219,6 +1219,21 @@
       "slug": "blog-dog-trainer-hero",
       "concept": "dog trainer demonstrating technique with happy dog while owner watches and learns, outdoor training setting, positive reinforcement moment, building trust",
       "category": "blog"
+    },
+    {
+      "slug": "blog-florist-hero",
+      "concept": "florist creating beautiful arrangement while explaining design to customer in bright flower shop, artisan craftsmanship, personal consultation",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-nutritionist-hero",
+      "concept": "nutritionist in warm consultation with client discussing healthy eating plan, food models and charts visible, supportive health coaching session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-locksmith-hero",
+      "concept": "professional locksmith in branded uniform showing credentials to homeowner at front door, trustworthy service professional, residential setting, building trust",
+      "category": "blog"
     }
   ]
 }

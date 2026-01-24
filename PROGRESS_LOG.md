@@ -214,6 +214,31 @@ Continuing with "Blog Copywriting for X" title format:
 **Totals:** 182 blog posts, 194 total pages
 **Niche guides:** 68
 
+### New Niche Guides - Batch 7 (3 posts)
+
+Continuing with "Blog Copywriting for X" title format:
+
+28. **Blog Copywriting for Florists**
+    - Emotion-first framework for meaningful occasions
+    - Templates: Occasion Guide, Behind-the-Scenes, Wedding/Event, Seasonal/Trend
+    - Competes on artistry and experience vs price
+    - Links to: wedding planners, event planners, photographers
+
+29. **Blog Copywriting for Nutritionists**
+    - Understanding-first framework for diet-weary clients
+    - Templates: Why It Hasn't Worked, Condition-Specific, Myth-Buster, What to Expect
+    - Addresses emotional relationship with food
+    - Links to: coaches, personal trainers, therapists
+
+30. **Blog Copywriting for Locksmiths**
+    - Trust-verification framework for scam-plagued industry
+    - Templates: How to Avoid Scams, Pricing Transparency, Educational, Local Trust
+    - Differentiates from bait-and-switch operations
+    - Links to: HVAC, plumbers, electricians
+
+**Totals:** 185 blog posts, 197 total pages
+**Niche guides:** 71
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
