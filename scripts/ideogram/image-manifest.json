@@ -894,6 +894,21 @@
       "slug": "blog-welcome-sequence-hero",
       "concept": "email marketer mapping out welcome sequence flow on screen, automated email series, nurture journey visualization, modern workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-evergreen-trending-hero",
+      "concept": "split image showing stable evergreen tree on one side and trending news flash on other, content strategy balance, timeless vs timely, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-grammar-tools-hero",
+      "concept": "writer using editing software with corrections highlighted on screen, grammar check interface, clean writing improvement, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-audit-improve-hero",
+      "concept": "marketer reviewing blog analytics and making content improvements, performance data on screen, content optimization session, modern workspace",
+      "category": "blog"
     }
   ]
 }
