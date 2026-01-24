@@ -1159,6 +1159,21 @@
       "slug": "blog-plastic-surgeon-hero",
       "concept": "plastic surgeon in warm consultation with patient, professional but approachable medical office, discussing goals and options, trust and care visible",
       "category": "blog"
+    },
+    {
+      "slug": "blog-dermatologist-hero",
+      "concept": "dermatologist examining patient skin with dermatoscope in bright modern medical office, caring and professional consultation, trust-building healthcare moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-home-inspector-hero",
+      "concept": "home inspector explaining findings to homebuyer couple with clipboard and flashlight, residential property inspection, professional and thorough, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-event-planner-hero",
+      "concept": "event planner reviewing event design boards with corporate client, elegant mood boards and samples on table, professional consultation, creative collaboration",
+      "category": "blog"
     }
   ]
 }

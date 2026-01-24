@@ -114,6 +114,31 @@ With "Blog" in title per user request:
 **Totals:** 170 blog posts, 182 total pages
 **Niche guides:** 56
 
+### New Niche Guides - Batch 3 (3 posts)
+
+Continuing with "Blog Copywriting for X" title format:
+
+16. **Blog Copywriting for Dermatologists**
+    - Dual-audience framework (medical vs cosmetic patients)
+    - Templates: Condition Explainer, Treatment Demystifier, Comparison, Results Showcase
+    - Bridges medical necessity and aesthetic desire
+    - Links to: plastic surgeons, med spas, dentists
+
+17. **Blog Copywriting for Home Inspectors**
+    - Education-first framework for first-time homebuyers
+    - Templates: What to Look For, Hidden Problem, What to Expect, First-Time Buyer
+    - Intercepts buyers before agent recommendations
+    - Links to: real estate agents, property managers, roofers
+
+18. **Blog Copywriting for Event Planners**
+    - Behind-the-scenes framework showing invisible work
+    - Templates: Event Type Deep-Dive, Problem-Solution, What to Expect, Cost/Value
+    - Targets corporate, nonprofit, and social event clients
+    - Links to: wedding planners, photographers, caterers
+
+**Totals:** 173 blog posts, 185 total pages
+**Niche guides:** 59
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
