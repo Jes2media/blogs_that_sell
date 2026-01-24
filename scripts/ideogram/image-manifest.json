@@ -834,6 +834,21 @@
       "slug": "blog-content-funnel-hero",
       "concept": "marketer building content funnel diagram on whiteboard, stages from awareness to purchase mapped out, strategic planning session, modern marketing office",
       "category": "blog"
+    },
+    {
+      "slug": "blog-seo-vs-ads-hero",
+      "concept": "split image showing organic SEO search results on one side and paid advertising dashboard on other, lead generation strategy comparison, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-calendar-tools-hero",
+      "concept": "content calendar interface on screen with scheduled posts visible, editorial planning, organized content workflow, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-readers-subscribers-hero",
+      "concept": "blog visitor journey transforming into email subscriber, opt-in form highlighted, lead capture moment, conversion optimization workspace",
+      "category": "blog"
     }
   ]
 }
