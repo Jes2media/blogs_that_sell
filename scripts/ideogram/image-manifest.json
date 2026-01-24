@@ -819,6 +819,21 @@
       "slug": "blog-rank-convert-hero",
       "concept": "marketer looking at screen showing both SEO rankings and conversion metrics simultaneously, dual success, both traffic and sales visible, optimistic modern workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-vs-social-hero",
+      "concept": "split image showing blog website on one side and social media feeds on other, lead generation comparison, modern marketing workspace, strategic decision",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-outline-tools-hero",
+      "concept": "writer planning blog post structure with outline tools on screen, hierarchical content planning, organized workspace, strategic content architecture",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-content-funnel-hero",
+      "concept": "marketer building content funnel diagram on whiteboard, stages from awareness to purchase mapped out, strategic planning session, modern marketing office",
+      "category": "blog"
     }
   ]
 }
