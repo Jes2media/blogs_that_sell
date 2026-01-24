@@ -189,6 +189,31 @@ Continuing with "Blog Copywriting for X" title format:
 **Totals:** 179 blog posts, 191 total pages
 **Niche guides:** 65
 
+### New Niche Guides - Batch 6 (3 posts)
+
+Continuing with "Blog Copywriting for X" title format:
+
+25. **Blog Copywriting for Acupuncturists**
+    - Bridge-the-gap framework for skeptical Western audiences
+    - Templates: Condition-Specific, What to Expect, Evidence-Based, Comparison
+    - Addresses skepticism with research and practical outcomes
+    - Links to: chiropractors, massage therapists, physical therapists
+
+26. **Blog Copywriting for Painting Contractors**
+    - Quality-differentiation framework to avoid price competition
+    - Templates: What to Look For, Process Explainer, Problem-Solver, Project Guide
+    - Educates homeowners on what quality painting involves
+    - Links to: roofers, landscapers, cleaning services
+
+27. **Blog Copywriting for Dog Trainers**
+    - Problem-first framework for frustrated pet owners
+    - Templates: Problem-Specific, What to Expect, Training Method Explainer, Prevention
+    - Addresses emotional toll and sets realistic expectations
+    - Links to: pet services, veterinarians, coaches
+
+**Totals:** 182 blog posts, 194 total pages
+**Niche guides:** 68
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1

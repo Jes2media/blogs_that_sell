@@ -1204,6 +1204,21 @@
       "slug": "blog-massage-therapist-hero",
       "concept": "massage therapist in professional consultation with new client in serene treatment room, explaining approach, calm and trustworthy wellness environment",
       "category": "blog"
+    },
+    {
+      "slug": "blog-acupuncturist-hero",
+      "concept": "acupuncturist explaining treatment to curious patient in calm modern clinic, showing acupuncture needles and model, trust-building wellness consultation",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-painting-contractor-hero",
+      "concept": "professional painter discussing color samples with homeowner inside home, paint swatches visible, trust-building consultation, quality home improvement service",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-dog-trainer-hero",
+      "concept": "dog trainer demonstrating technique with happy dog while owner watches and learns, outdoor training setting, positive reinforcement moment, building trust",
+      "category": "blog"
     }
   ]
 }
