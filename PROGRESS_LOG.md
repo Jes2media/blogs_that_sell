@@ -164,6 +164,31 @@ Continuing with "Blog Copywriting for X" title format:
 **Totals:** 176 blog posts, 188 total pages
 **Niche guides:** 62
 
+### New Niche Guides - Batch 5 (3 posts)
+
+Continuing with "Blog Copywriting for X" title format:
+
+22. **Blog Copywriting for Moving Companies**
+    - Trust-first framework for high-stress service
+    - Templates: What to Expect, Pricing Transparency, Moving Tips, Trust-Building
+    - Addresses industry reputation challenges
+    - Links to: cleaning services, property managers, home inspectors
+
+23. **Blog Copywriting for Private Tutors**
+    - Parent-focused framework for education services
+    - Templates: Signs Your Child Needs Help, Subject-Specific, What to Expect, Confidence-Building
+    - Addresses parental concerns about child's struggles
+    - Links to: online educators, coaches, course creators
+
+24. **Blog Copywriting for Massage Therapists**
+    - Trust-first framework for intimate wellness service
+    - Templates: What to Expect, Condition-Specific, Modality Explainer, Self-Care
+    - Addresses first-timer anxiety and vulnerability concerns
+    - Links to: chiropractors, yoga studios, physical therapists
+
+**Totals:** 179 blog posts, 191 total pages
+**Niche guides:** 65
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1

@@ -1189,6 +1189,21 @@
       "slug": "blog-solar-installer-hero",
       "concept": "solar consultant showing homeowner tablet with solar panel design and savings projection, standing near house with roof visible, professional consultation, trust-building moment",
       "category": "blog"
+    },
+    {
+      "slug": "blog-moving-company-hero",
+      "concept": "professional mover in uniform explaining process to homeowner couple with moving truck and boxes in background, friendly and trustworthy service consultation, residential moving day",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-private-tutor-hero",
+      "concept": "tutor working one-on-one with student at table with books and notes, parent watching approvingly in background, warm educational setting, breakthrough learning moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-massage-therapist-hero",
+      "concept": "massage therapist in professional consultation with new client in serene treatment room, explaining approach, calm and trustworthy wellness environment",
+      "category": "blog"
     }
   ]
 }
