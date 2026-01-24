@@ -794,6 +794,31 @@
       "slug": "blog-email-no-clicks-hero",
       "concept": "email marketer analyzing campaign with opens but no clicks, troubleshooting CTA issues, data visible on screen, focused optimization session",
       "category": "blog"
+    },
+    {
+      "slug": "blog-content-vs-dr-hero",
+      "concept": "split image showing content marketing education style on one side and direct response persuasion style on other, two approaches to blogging compared, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-headline-tools-hero",
+      "concept": "marketer testing headlines across multiple analyzer tools on screen, comparison interface visible, headline optimization workflow, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-long-vs-short-hero",
+      "concept": "split view showing short concise blog post on one side and long comprehensive guide on other, content length comparison, modern writing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-ai-writing-tools-hero",
+      "concept": "writer collaborating with AI assistant on laptop, robot and human working together on content, modern creative workspace with technology integration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-rank-convert-hero",
+      "concept": "marketer looking at screen showing both SEO rankings and conversion metrics simultaneously, dual success, both traffic and sales visible, optimistic modern workspace",
+      "category": "blog"
     }
   ]
 }
