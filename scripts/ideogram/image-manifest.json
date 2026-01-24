@@ -1144,6 +1144,21 @@
       "slug": "blog-fintech-hero",
       "concept": "fintech startup team reviewing product dashboard showing financial metrics, modern tech office, trust and innovation, clean professional tech environment",
       "category": "blog"
+    },
+    {
+      "slug": "blog-property-manager-hero",
+      "concept": "property manager in consultation with property owner, discussing rental properties, professional office with property photos visible, trust-building business meeting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-hr-consultant-hero",
+      "concept": "HR consultant presenting workforce strategy to executive team, modern corporate boardroom, strategic business consulting meeting, professional and collaborative",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-plastic-surgeon-hero",
+      "concept": "plastic surgeon in warm consultation with patient, professional but approachable medical office, discussing goals and options, trust and care visible",
+      "category": "blog"
     }
   ]
 }

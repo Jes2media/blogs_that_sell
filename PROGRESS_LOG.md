@@ -89,6 +89,31 @@ Expanding beyond the initial 50 niche guides:
 
 **Totals:** 167 blog posts, 179 total pages
 
+### New Niche Guides - Batch 2 (3 posts)
+
+With "Blog" in title per user request:
+
+13. **Blog Copywriting for Property Managers**
+    - Trust-building framework for asset protection
+    - Templates: What to Expect, Problem-Solution, Local Market, Comparison
+    - Addresses self-management vs professional management decision
+    - Links to: real estate agents, cleaning services, HVAC
+
+14. **Blog Copywriting for HR Consultants**
+    - Strategic positioning framework for B2B consulting
+    - Templates: Warning Signs, ROI/Business Case, Industry-Specific, Comparison
+    - Connects HR to business outcomes, not just compliance
+    - Links to: consultants, marketing consultants, coaches
+
+15. **Blog Copywriting for Plastic Surgeons**
+    - Patient-centered content framework for high-trust decisions
+    - Templates: What to Expect, Is This Right for You, Common Concerns, Results Showcase
+    - Addresses emotional journey and "natural results" concerns
+    - Links to: med spas, dentists, dermatologists
+
+**Totals:** 170 blog posts, 182 total pages
+**Niche guides:** 56
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
