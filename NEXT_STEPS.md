@@ -1,13 +1,13 @@
 # Next Steps
 
-## Current Status: 164 Blog Posts
+## Current Status: 167 Blog Posts
 
-**Total site pages: 176** (164 blog posts + 12 static pages)
+**Total site pages: 179** (167 blog posts + 12 static pages)
 
 ## Content Library
 
-### Niche Copywriting Guides - COMPLETE ✅
-- ✅ **50 niche guides complete** (target reached!)
+### Niche Copywriting Guides - ONGOING
+- ✅ **53 niche guides complete** (target was 50, continuing to expand)
 
 **Completed niches:**
 - Legal: Lawyers, Personal Injury Lawyers
@@ -20,6 +20,7 @@
 - Creator Economy: Course Creators, Podcasters, Newsletter Writers, Online Educators
 - Local: Real Estate Agents, Gyms/Fitness Studios, Yoga Studios, Restaurants, Salons/Spas
 - Pet: Pet Services
+- Additional: Estate Planning Attorneys, Videographers, Fintech Companies
 
 ### Other Content - COMPLETE
 - ✅ 15 Copywriting framework posts (AIDA, PAS, PASTOR, HSO, etc.)
@@ -120,4 +121,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 10 - Additional Guru Posts Batches 1-3, 164 blog posts)*
+*Last updated: 2025-01-24 (Session 10 - Guru Posts + 3 New Niche Guides, 167 blog posts)*

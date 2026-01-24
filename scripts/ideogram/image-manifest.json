@@ -1129,6 +1129,21 @@
       "slug": "blog-tim-cameron-kitchen-hero",
       "concept": "digital marketing strategist at desk with SEO metrics dashboard, website analytics visible, practical marketing approach, modern agency workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-estate-planning-attorney-hero",
+      "concept": "estate planning attorney in warm consultation with family across desk, discussing important documents, professional but approachable law office, trust-building moment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-videographer-hero",
+      "concept": "professional videographer with cinema camera on set discussing creative direction with client, video production environment, collaborative creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-fintech-hero",
+      "concept": "fintech startup team reviewing product dashboard showing financial metrics, modern tech office, trust and innovation, clean professional tech environment",
+      "category": "blog"
     }
   ]
 }

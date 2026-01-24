@@ -68,6 +68,27 @@ Continuing guru content strategy with positive, educational posts about marketin
 
 **Totals:** 164 blog posts, 176 total pages
 
+### New Niche Guides (3 posts)
+
+Expanding beyond the initial 50 niche guides:
+
+10. **Copywriting for Estate Planning Attorneys**
+    - Sensitive topics framework, trust-first approach
+    - Life event content triggers, plain language for legal complexity
+    - Links to: lawyers, financial advisors, personal injury lawyers
+
+11. **Copywriting for Videographers**
+    - Portfolio-plus-content strategy, process demystification
+    - ROI justification, on-camera anxiety addressing
+    - Links to: photographers, graphic designers, digital agencies
+
+12. **Copywriting for Fintech Companies**
+    - Trust-first framework for financial products
+    - Security transparency, regulatory content
+    - Links to: SaaS, cybersecurity, financial advisors
+
+**Totals:** 167 blog posts, 179 total pages
+
 ---
 
 ## 2025-01-24 (Session 9) - Guru-Follower Content Batch 1
