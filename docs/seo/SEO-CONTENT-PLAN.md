@@ -1294,7 +1294,69 @@ Write for the frustrated sophisticate, not the eager beginner.
 
 ---
 
-*Document version: 2.1*
+## 14) Top 30 Marketing & Copywriting Gurus to Blog About
+
+These marketers, copywriters, and growth experts align closely with the BlogsThatSell niche:
+conversion-focused writing, audience building, funnels, email, SEO, and monetization.
+
+---
+
+### Tier 1: Core Copywriting & Direct Response Legends
+
+1. Joanna Wiebe – Founder of Copyhackers
+2. Kyle Milligan – Copy Chief, Copy Squad
+3. Alex Cattoni – Founder of Copy Posse
+4. Todd Brown – Marketing Funnel Automation
+5. Ryan Deiss – Founder of DigitalMarketer & Scalable
+6. Russell Brunson – Founder of ClickFunnels
+7. Dave Woodward – CEO of ClickFunnels
+8. Bijay Ray – Editor-in-Chief of Copyblogger
+9. Bryan Kreuzberger – Founder of Breakthrough Email
+10. Jason West – Fast Funnels
+
+---
+
+### Tier 2: Audience, Content, & Monetization Experts
+
+11. Sean Cannell – Founder of Think Media
+12. Jim Kwik – Founder of Kwik Learning
+13. Brendon Burchard – Founder of GrowthDay
+14. Tyler Denk – CEO of Beehiiv
+15. Kevin McKeand – Founder of ThriveCart
+16. Derral Eves – Founder of VidSummit
+17. Bozena K – Co-Founder of The Marketing Mentors
+18. Lauren Apple – Systems to Scale
+19. Evan Fisher – Freelancer MVP
+20. Mark Grasse – DigitalMarketer
+
+---
+
+### Tier 3: SEO, Growth, & Technical Marketing Thinkers
+
+21. Tim Cameron-Kitchen – Exposure Ninja
+22. Stephen Floyd – Search Marketing Institute
+23. Stephen Hockman – SEO Chatter
+24. Kyle Roof – Internet Marketing Gold
+25. Nikolas Vogt – Growth Academy
+26. Sally Farrant – Business Growth by Numbers
+27. Jenna Dancy – Freedom Funnels
+28. Rian Doris – Flow Research Collective
+29. Jon Nunez – Gen3 Marketing
+30. Nora Schlesinger – Growth Machine
+
+---
+
+### Suggested Content Angles
+
+- "How ___ Thinks About Selling Online"
+- "What ___ Gets Right (and Wrong) About Copywriting"
+- "___'s Best Ideas for Turning Content Into Revenue"
+- "Steal This Funnel: ___'s Marketing Playbook"
+- "Why ___'s Advice Still Works in 2026"
+
+---
+
+*Document version: 2.2*
 *Last updated: 2025-01-24*
 *Owner: Content Team*
 *Scale Target: 1,000+ pages*
