@@ -1,6 +1,35 @@
 # Progress Log
 
-## 2025-01-24 (Session 12) - Cold Email Cluster + Section 14 Batch 4
+## 2025-01-24 (Session 12) - Cold Email Cluster + Section 14 Batches 4-5
+
+### Section 14 Guru Posts - Batch 5 (3 posts)
+
+Continued guru content with editorial, checkout, and learning experts:
+
+**1. Bijay Ray's Editorial Approach: How Copyblogger Maintains Quality at Scale**
+- Editorial standards and quality filters
+- Evergreen over trendy, voice over volume
+- The editorial process: ideation to quality check
+- Links to: Copyblogger fundamentals, blog posts that rank, audit existing posts
+
+**2. Kevin McKeand's ThriveCart Philosophy: Where Sales Are Actually Made**
+- Checkout-first philosophy and leaky bucket problem
+- Order bumps and upsell strategy
+- Checkout optimization checklist
+- Links to: Dave Woodward, Jason West, abandoned cart emails
+
+**3. Jim Kwik's Learning Principles: How to Create Content That Actually Sticks**
+- Information × Emotion = Memory
+- FAST method applied to content
+- Structuring content for primacy/recency effects
+- Links to: blog intro hooks, blog endings, Brendon Burchard
+
+**Section 14 Progress:** 15 of 30 posts complete
+**Images Generated:** 3 hero images
+
+**Totals:** 196 blog posts, 208 total pages
+
+---
 
 ### Section 14 Guru Posts - Batch 4 (3 posts)
 

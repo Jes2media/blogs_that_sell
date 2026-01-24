@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 193 Blog Posts
+## Current Status: 196 Blog Posts
 
-**Total site pages: 205** (193 blog posts + 12 static pages)
+**Total site pages: 208** (196 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -76,7 +76,7 @@
 - [x] What All the Copywriting Legends Agree On (And Why That's What Matters)
 
 ### Additional Guru Posts (Section 14) - IN PROGRESS
-**12 of 30 posts complete**
+**15 of 30 posts complete**
 
 **Batch 1 - Positive Framework Posts (COMPLETE):**
 - [x] Ryan Deiss's Customer Value Journey: The Framework That Powers DigitalMarketer
@@ -98,8 +98,13 @@
 - [x] Bryan Kreuzberger's Breakthrough Email Method: Cold Outreach That Actually Works
 - [x] Jason West's Fast Funnels Philosophy: Speed and Simplicity Win
 
+**Batch 5 - Editorial, Checkout & Learning (COMPLETE):**
+- [x] Bijay Ray's Editorial Approach: How Copyblogger Maintains Quality at Scale
+- [x] Kevin McKeand's ThriveCart Philosophy: Where Sales Are Actually Made
+- [x] Jim Kwik's Learning Principles: How to Create Content That Actually Sticks
+
 **Remaining from Section 14:**
-- [ ] Tier 2: Kevin McKeand, Bijay Ray, etc.
+- [ ] Tier 2: Bozena K, Lauren Apple, Evan Fisher, Mark Grasse
 - [ ] Tier 3: Kyle Roof, Stephen Hockman, etc.
 
 ## Other Recommended Next Steps
@@ -133,4 +138,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 12 - Section 14 Batch 4 Complete, 193 blog posts)*
+*Last updated: 2025-01-24 (Session 12 - Section 14 Batch 5 Complete, 196 blog posts)*

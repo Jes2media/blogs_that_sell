@@ -1369,6 +1369,21 @@
       "slug": "blog-jason-west-hero",
       "concept": "entrepreneur rapidly building simple funnel on laptop, speed and simplicity visualization, stopwatch or timer element, fast execution mindset, modern workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-bijay-ray-hero",
+      "concept": "editor-in-chief at desk reviewing content with red pen, editorial quality control, professional publishing workspace, maintaining standards, warm lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-kevin-mckeand-hero",
+      "concept": "checkout page optimization on laptop screen with conversion metrics, ecommerce cart focus, payment flow analysis, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-jim-kwik-hero",
+      "concept": "brain and learning visualization with content elements, memory retention concept, educational content design, bright creative workspace with books and laptop",
+      "category": "blog"
     }
   ]
 }
