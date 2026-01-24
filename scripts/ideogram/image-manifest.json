@@ -909,6 +909,81 @@
       "slug": "blog-audit-improve-hero",
       "concept": "marketer reviewing blog analytics and making content improvements, performance data on screen, content optimization session, modern workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-personal-injury-lawyer-hero",
+      "concept": "compassionate attorney meeting with injured client, trust and empathy in legal consultation, professional law office with warm lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-physical-therapist-hero",
+      "concept": "physical therapist explaining treatment plan to patient using anatomical model, educational healthcare consultation, modern PT clinic",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-course-creator-hero",
+      "concept": "course creator at laptop with video recording setup and course dashboard on screen, online education business, modern creative studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-plumber-hero",
+      "concept": "professional plumber explaining repair to homeowner in modern kitchen, helpful service provider, trust and expertise, residential setting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-graphic-designer-hero",
+      "concept": "graphic designer presenting brand strategy to client on large screen, creative consultation meeting, modern design studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-saas-company-hero",
+      "concept": "SaaS marketing team reviewing content performance dashboard with trial signups, B2B software company, modern tech office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-electrician-hero",
+      "concept": "professional electrician explaining electrical panel to homeowner, helpful service consultation, modern home setting, trust and expertise",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-life-coach-hero",
+      "concept": "life coach in meaningful conversation with client, authentic connection, comfortable coaching session, warm natural lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-podcaster-hero",
+      "concept": "podcaster at professional microphone setup with laptop showing analytics and audience growth, modern podcast studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-gym-fitness-hero",
+      "concept": "fitness trainer welcoming new member to boutique gym, inclusive community atmosphere, modern fitness studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-web-designer-hero",
+      "concept": "web designer presenting website strategy to business client on screen, design consultation, modern creative agency",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-digital-agency-hero",
+      "concept": "digital agency team in strategy meeting with client results dashboard, collaborative B2B meeting, modern agency office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-yoga-studio-hero",
+      "concept": "welcoming yoga studio with students of various ages and abilities, inclusive community atmosphere, natural light and warm space",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-therapist-counselor-hero",
+      "concept": "therapist in comfortable counseling office with warm inviting atmosphere, mental health support, professional and caring environment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-newsletter-writer-hero",
+      "concept": "newsletter writer at desk with email analytics showing subscriber growth on screen, content creator workspace, modern home office",
+      "category": "blog"
     }
   ]
 }
