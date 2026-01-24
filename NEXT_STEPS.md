@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 185 Blog Posts
+## Current Status: 186 Blog Posts
 
-**Total site pages: 197** (185 blog posts + 12 static pages)
+**Total site pages: 198** (186 blog posts + 12 static pages)
 
 ## Content Library
 

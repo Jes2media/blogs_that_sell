@@ -1234,6 +1234,56 @@
       "slug": "blog-locksmith-hero",
       "concept": "professional locksmith in branded uniform showing credentials to homeowner at front door, trustworthy service professional, residential setting, building trust",
       "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-hero",
+      "concept": "professional copywriter at desk with laptop and notes, crafting persuasive sales copy, creative strategic writing environment, focused and purposeful",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-results",
+      "concept": "laptop screen showing conversion metrics and sales dashboard going up, successful marketing results, data-driven copywriting success visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-vs-content",
+      "concept": "split image comparing educational blog content on one side and persuasive sales copy on the other, visual comparison of content vs copy approaches",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-types",
+      "concept": "visual overview showing different copywriting types - emails, ads, landing pages, social media posts - arranged as a professional infographic style",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-principles",
+      "concept": "core copywriting principles displayed as connected concepts - clarity, benefits, emotion, specificity - clean professional diagram style",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-frameworks",
+      "concept": "copywriting frameworks AIDA PAS displayed as structured flowcharts on whiteboard, strategic marketing planning, professional framework visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-examples",
+      "concept": "collage of real-world copywriting examples - landing page, email, advertisement, product description - showing copy in action across channels",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-process",
+      "concept": "copywriting process steps from research to writing to editing to testing, workflow visualization, professional creative process diagram",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-learning",
+      "concept": "copywriting student studying classic advertising books and practicing writing, learning path visualization, growth mindset educational journey",
+      "category": "blog"
+    },
+    {
+      "slug": "what-is-copywriting-mistakes",
+      "concept": "common copywriting mistakes visualized - unclear messaging, no CTA, too clever - warning signs and pitfalls in marketing copy",
+      "category": "blog"
     }
   ]
 }
