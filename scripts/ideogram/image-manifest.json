@@ -1099,6 +1099,36 @@
       "slug": "blog-kyle-milligan-copy-hero",
       "concept": "copywriter at desk with direct response principles visible on notebook, conversion-focused writing, specific persuasive copy on screen, professional copywriting workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-brendon-burchard-content-hero",
+      "concept": "high performance content creator at professional desk with clarity and energy, motivational speaker aesthetic, bright confident workspace with strategic content planning visible",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-tyler-denk-newsletter-hero",
+      "concept": "newsletter growth strategist at modern desk with email metrics dashboard showing subscriber growth, referral system visualization, tech startup aesthetic workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-sean-cannell-strategy-hero",
+      "concept": "YouTube content strategist at desk with video production setup, camera and ring light visible, analytics dashboard showing channel growth, modern creator studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copyblogger-fundamentals-hero",
+      "concept": "content marketing strategist at desk with classic blogging books and modern laptop, foundational content strategy, warm professional workspace with writing focus",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-derral-eves-youtube-hero",
+      "concept": "YouTube growth strategist analyzing video analytics on multiple screens, thumbnail optimization visible, professional video marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-tim-cameron-kitchen-hero",
+      "concept": "digital marketing strategist at desk with SEO metrics dashboard, website analytics visible, practical marketing approach, modern agency workspace",
+      "category": "blog"
     }
   ]
 }

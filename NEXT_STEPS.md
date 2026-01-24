@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 158 Blog Posts
+## Current Status: 164 Blog Posts
 
-**Total site pages: 170** (158 blog posts + 12 static pages)
+**Total site pages: 176** (164 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -67,17 +67,27 @@
 - [x] What All the Copywriting Legends Agree On (And Why That's What Matters)
 
 ### Additional Guru Posts (Section 14) - IN PROGRESS
-**3 of 30 posts complete**
+**9 of 30 posts complete**
 
 **Batch 1 - Positive Framework Posts (COMPLETE):**
 - [x] Ryan Deiss's Customer Value Journey: The Framework That Powers DigitalMarketer
 - [x] Todd Brown's Big Idea Marketing: How to Stand Out in Crowded Markets
 - [x] Kyle Milligan on Writing Copy That Converts: Principles from Copy Squad
 
+**Batch 2 - Audience & Content Builders (COMPLETE):**
+- [x] Brendon Burchard's Approach to Content That Builds Movements
+- [x] Tyler Denk's Newsletter Growth Playbook: Lessons from Morning Brew to Beehiiv
+- [x] Sean Cannell's Content Strategy: How Think Media Builds Audiences That Convert
+
+**Batch 3 - Platform & Strategy Experts (COMPLETE):**
+- [x] Copyblogger's Content Marketing Fundamentals: Principles That Still Work
+- [x] Derral Eves's YouTube Growth Formula: How VidSummit's Founder Thinks About Video
+- [x] Tim Cameron-Kitchen's Digital Marketing Strategy: Exposure Ninja's Approach
+
 **Remaining from Section 14:**
-- [ ] More Tier 1: Dave Woodward, Bijay Ray, Bryan Kreuzberger, Jason West
-- [ ] Tier 2: Sean Cannell, Jim Kwik, Brendon Burchard, Tyler Denk, Kevin McKeand, etc.
-- [ ] Tier 3: Tim Cameron-Kitchen, Kyle Roof, Stephen Hockman, etc.
+- [ ] Tier 1: Dave Woodward, Bryan Kreuzberger, Jason West
+- [ ] Tier 2: Kevin McKeand, etc.
+- [ ] Tier 3: Kyle Roof, Stephen Hockman, etc.
 
 ## Other Recommended Next Steps
 
@@ -110,4 +120,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 10 - Additional Guru Posts Batch 1, 158 blog posts)*
+*Last updated: 2025-01-24 (Session 10 - Additional Guru Posts Batches 1-3, 164 blog posts)*

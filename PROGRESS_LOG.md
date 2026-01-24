@@ -26,7 +26,47 @@ Continuing guru content strategy with positive, educational posts about marketin
    - Proof over promise, conversational writing, agitation, CTAs
    - Links to: Ryan Deiss, Todd Brown, Clayton Makepeace
 
-**Totals:** 158 blog posts, 170 total pages
+**Batch 2: Audience & Content Builders**
+
+4. **Brendon Burchard's Approach to Content That Builds Movements**
+   - 8 principles from High Performance Habits applied to content
+   - Clarity first, energy transfer, necessity, teaching in threes
+   - Long-game approach, serve first, personal story integration, ecosystem thinking
+   - Links to: Ryan Deiss, Todd Brown, legends-agree-on
+
+5. **Tyler Denk's Newsletter Growth Playbook: Lessons from Morning Brew to Beehiiv**
+   - Content as product mindset, referral engine strategy
+   - Growth loops framework, consistency compounds principle
+   - Monetization from day one, data-driven iteration
+   - Links to: newsletter-writers, Ben Settle, Ryan Deiss
+
+6. **Sean Cannell's Content Strategy: How Think Media Builds Audiences That Convert**
+   - Helpful content foundation, viewer intent framework
+   - Revenue-first content planning, consistency compounds
+   - Evergreen vs trending balance, collaboration multiplier
+   - Links to: YouTubers, Brendon Burchard, Tyler Denk
+
+**Batch 3: Platform & Strategy Experts**
+
+7. **Copyblogger's Content Marketing Fundamentals: Principles That Still Work**
+   - Content as foundation, headlines as gateway
+   - Useful/usable/enjoyable criteria, permission marketing
+   - Authority building, email as owned audience
+   - Links to: Tyler Denk, Sean Cannell, headline formulas
+
+8. **Derral Eves's YouTube Growth Formula: How VidSummit's Founder Thinks About Video**
+   - Audience first foundation, algorithm as matchmaker
+   - Thumbnail-title partnership, content buckets strategy
+   - Pattern interrupts, binge-worthy structure, community building
+   - Links to: Sean Cannell, Tyler Denk, YouTubers
+
+9. **Tim Cameron-Kitchen's Digital Marketing Strategy: Exposure Ninja's Approach**
+   - Ugly truth philosophy, website as foundation
+   - SEO reality framework, qualified traffic priority
+   - Full funnel content, revenue per hour metric
+   - Links to: Copyblogger, blog posts that rank, content funnel
+
+**Totals:** 164 blog posts, 176 total pages
 
 ---
 
