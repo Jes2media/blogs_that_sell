@@ -879,6 +879,21 @@
       "slug": "blog-repurpose-channels-hero",
       "concept": "single blog post branching into multiple content formats and platforms, social media icons, content multiplication, efficient content creation workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-gated-ungated-hero",
+      "concept": "split image showing open freely available content on one side and locked gated content with email form on other, content access strategy, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-email-platforms-hero",
+      "concept": "email marketing dashboard on screen with subscriber lists and campaign metrics, platform comparison, modern marketing workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-welcome-sequence-hero",
+      "concept": "email marketer mapping out welcome sequence flow on screen, automated email series, nurture journey visualization, modern workspace",
+      "category": "blog"
     }
   ]
 }
