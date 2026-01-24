@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 190 Blog Posts
+## Current Status: 193 Blog Posts
 
-**Total site pages: 202** (190 blog posts + 12 static pages)
+**Total site pages: 205** (193 blog posts + 12 static pages)
 
 ## Content Library
 
@@ -76,7 +76,7 @@
 - [x] What All the Copywriting Legends Agree On (And Why That's What Matters)
 
 ### Additional Guru Posts (Section 14) - IN PROGRESS
-**9 of 30 posts complete**
+**12 of 30 posts complete**
 
 **Batch 1 - Positive Framework Posts (COMPLETE):**
 - [x] Ryan Deiss's Customer Value Journey: The Framework That Powers DigitalMarketer
@@ -93,9 +93,13 @@
 - [x] Derral Eves's YouTube Growth Formula: How VidSummit's Founder Thinks About Video
 - [x] Tim Cameron-Kitchen's Digital Marketing Strategy: Exposure Ninja's Approach
 
+**Batch 4 - Funnel & Outreach Experts (COMPLETE):**
+- [x] Dave Woodward's ClickFunnels Philosophy: Execution Over Perfection
+- [x] Bryan Kreuzberger's Breakthrough Email Method: Cold Outreach That Actually Works
+- [x] Jason West's Fast Funnels Philosophy: Speed and Simplicity Win
+
 **Remaining from Section 14:**
-- [ ] Tier 1: Dave Woodward, Bryan Kreuzberger, Jason West
-- [ ] Tier 2: Kevin McKeand, etc.
+- [ ] Tier 2: Kevin McKeand, Bijay Ray, etc.
 - [ ] Tier 3: Kyle Roof, Stephen Hockman, etc.
 
 ## Other Recommended Next Steps
@@ -129,4 +133,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 12 - Cold Email Cluster Complete, 190 blog posts)*
+*Last updated: 2025-01-24 (Session 12 - Section 14 Batch 4 Complete, 193 blog posts)*

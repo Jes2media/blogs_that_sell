@@ -1354,6 +1354,21 @@
       "slug": "lead-nurturing-emails-templates",
       "concept": "email templates showing value-first approach - welcome stories education offers, lead nurture campaign examples, professional email marketing templates",
       "category": "blog"
+    },
+    {
+      "slug": "blog-dave-woodward-hero",
+      "concept": "business executive at whiteboard with funnel metrics and split test results, execution-focused marketing leader, modern startup office, data-driven decision making",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-bryan-kreuzberger-hero",
+      "concept": "professional composing personalized cold email with research notes about prospect visible, strategic B2B outreach, modern sales workspace, breakthrough email methodology",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-jason-west-hero",
+      "concept": "entrepreneur rapidly building simple funnel on laptop, speed and simplicity visualization, stopwatch or timer element, fast execution mindset, modern workspace",
+      "category": "blog"
     }
   ]
 }
