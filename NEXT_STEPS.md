@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 217 Blog Posts
+## Current Status: 225 Blog Posts
 
-**Total site pages: 229** (217 blog posts + 12 static pages)
+**Total site pages: 237** (225 blog posts + 12 static pages)
 
 ---
 
@@ -15,20 +15,32 @@
 - ✅ Schema: `programmatic: true` field added
 
 ### Phase 1 Target: 100 Programmatic Pages
-**Current: 3 | Remaining: 97**
+**Current: 11 | Remaining: 89**
 
-### Next Batch (8 articles)
-Run remaining topics from validated batch prompt:
-| # | Copywriting Type | Business Type | Angle |
-|---|-----------------|---------------|-------|
-| 1 | Website copywriting | Law firms | Authority + risk reversal |
-| 2 | Email copywriting | Ecommerce | Reactivation + win-back |
-| 3 | Ad copywriting | Med spas | Differentiation + compliance |
-| 4 | Blog copywriting | B2B services | Lead magnets + CTA structure |
-| 5 | Email copywriting | Real estate agents | Speed-to-lead + follow-up |
-| 6 | Landing page copywriting | Course creators | Offer clarity + urgency |
-| 7 | Sales letter copywriting | Financial advisors | Trust + conservative claims |
-| 8 | Website copywriting | Dentists | Fear reduction + social proof |
+### Completed Batches
+**Batch 1 (3 articles):**
+- [x] Email copywriting tips for Local service businesses
+- [x] Landing page copywriting tips for SaaS
+- [x] Sales page copywriting tips for High-ticket coaches
+
+**Batch 2 (8 articles):**
+- [x] Website copywriting tips for Law firms
+- [x] Email copywriting tips for Ecommerce
+- [x] Ad copywriting tips for Med spas
+- [x] Blog copywriting tips for B2B services
+- [x] Email copywriting tips for Real estate agents
+- [x] Landing page copywriting tips for Course creators
+- [x] Sales letter copywriting tips for Financial advisors
+- [x] Website copywriting tips for Dentists
+
+### Next Batch Ideas (for future sessions)
+| Copywriting Type | Business Type | Angle |
+|-----------------|---------------|-------|
+| Email copywriting | Coaches | Nurture + ascension |
+| Website copywriting | Accountants | Trust + authority |
+| Ad copywriting | Home services | Local trust |
+| Landing page copywriting | SaaS B2B | Trial conversion |
+| Blog copywriting | Agencies | Thought leadership |
 
 ### Quality Requirements (per spec)
 - 9 tips with original, niche-specific examples
@@ -236,4 +248,4 @@ At 100 programmatic pages, reassess based on Search Console data:
 
 ---
 
-*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete, 217 blog posts)*
+*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + programmatic batch, 225 blog posts)*
