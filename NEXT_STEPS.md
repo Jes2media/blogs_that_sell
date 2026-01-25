@@ -1,12 +1,52 @@
 # Next Steps
 
-## Current Status: 213 Blog Posts
+## Current Status: 216 Blog Posts
 
-**Total site pages: 225** (213 blog posts + 12 static pages)
+**Total site pages: 228** (216 blog posts + 12 static pages)
 
 ---
 
-## PRIORITY: Top 30 SEO Keywords (Only 30% Complete)
+## PRIORITY 1: Programmatic Content Batch Creation
+
+### System Ready
+- ✅ Spec: `/docs/specs/programmatic-tips-spec.md`
+- ✅ Template: `/docs/templates/programmatic-tips-template.md`
+- ✅ Strategy: `/docs/strategy/programmatic-scale-plan.md`
+- ✅ Schema: `programmatic: true` field added
+
+### Phase 1 Target: 100 Programmatic Pages
+**Current: 3 | Remaining: 97**
+
+### Next Batch (8 articles)
+Run remaining topics from validated batch prompt:
+| # | Copywriting Type | Business Type | Angle |
+|---|-----------------|---------------|-------|
+| 1 | Website copywriting | Law firms | Authority + risk reversal |
+| 2 | Email copywriting | Ecommerce | Reactivation + win-back |
+| 3 | Ad copywriting | Med spas | Differentiation + compliance |
+| 4 | Blog copywriting | B2B services | Lead magnets + CTA structure |
+| 5 | Email copywriting | Real estate agents | Speed-to-lead + follow-up |
+| 6 | Landing page copywriting | Course creators | Offer clarity + urgency |
+| 7 | Sales letter copywriting | Financial advisors | Trust + conservative claims |
+| 8 | Website copywriting | Dentists | Fear reduction + social proof |
+
+### Quality Requirements (per spec)
+- 9 tips with original, niche-specific examples
+- 3 do/don't contrast tables
+- Quick Wins callout (15 min implementations)
+- 3-email mini-sequence in one tip
+- 5 FAQs matching search intent
+- No fabricated stats, quotes, or claims
+
+### Decision Point
+At 100 programmatic pages, reassess based on Search Console data:
+- Impression patterns
+- Winners and weak clusters
+- Expansion vs pruning decisions
+
+---
+
+## PRIORITY 2: Top 30 SEO Keywords (Now 43% Complete)
 
 ### Priority Keyword Audit Results
 | Tier | Purpose | Coverage | Status |
@@ -196,4 +236,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 16 - Tier 1 keyword posts, 213 blog posts)*
+*Last updated: 2025-01-25 (Session 16 - Programmatic system + Tier 1 posts, 216 blog posts)*

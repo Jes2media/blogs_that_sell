@@ -1,5 +1,81 @@
 # Progress Log
 
+## 2025-01-25 (Session 16) - Programmatic Content System + Tier 1 Posts
+
+### Programmatic Content System
+
+Built complete infrastructure for scalable, structured content generation:
+
+**Documentation Created:**
+- `/docs/specs/programmatic-tips-spec.md` - Content spec defining voice, structure, quality bar
+- `/docs/templates/programmatic-tips-template.md` - Locked template with fixed sections
+- `/docs/strategy/programmatic-scale-plan.md` - 100-page validation strategy with data-driven expansion rules
+
+**Key Features:**
+- Separate content line from long-form editorial (never merge)
+- Fixed structure: Hook → Real Goal → What They Get Wrong → 9 Tips → Do This Next → FAQ → Wrap-up
+- Required elements: 3 do/don't contrasts, Quick Wins callout, 3-email mini-sequence, 5 FAQs
+- Quality constraints: original examples only, no fabricated stats, niche-specific content
+- `programmatic: true` frontmatter flag for filtering
+
+**Scaling Strategy:**
+- Phase 1: Validation & Foundation (100 pages max)
+- Primary axis: [Copywriting Type] × [Business Type] × Tips
+- Batch size: 10 articles at a time
+- Decision point: Reassess at 100 pages based on Search Console data
+
+### Test Programmatic Articles (3)
+
+Created first programmatic batch for evaluation:
+
+1. **Email Copywriting Tips for Local Service Businesses**
+   - Trust-first + reviews angle
+   - 9 tips with local service examples (plumbers, HVAC, med spas)
+   - 3-email nurture sequence for trial signups
+
+2. **Landing Page Copywriting Tips for SaaS**
+   - Reduce friction + clarify offer angle
+   - 9 tips focused on clarity, CTAs, proof placement
+   - 3-email sequence for trial users who don't activate
+
+3. **Sales Page Copywriting Tips for High-Ticket Coaches**
+   - Objection handling + belief shifts angle
+   - 9 tips for premium pricing psychology
+   - 3-email sequence for applicants who don't book
+
+### Tier 1 SEO Posts (3)
+
+Completed 3 of 4 remaining Tier 1 high-intent keywords:
+
+1. **Why People Don't Take Action on Your Copy**
+   - Decision psychology: 7 barriers to action
+   - 5 action triggers that work
+   - Hero image generated
+
+2. **Low Conversion Rate? Here's What's Actually Wrong**
+   - Conversion benchmarks by content type
+   - 5-cause diagnostic framework
+   - 6 copy fixes that move the needle
+
+3. **12 Copywriting Mistakes Killing Your Conversions**
+   - Audit checklist format
+   - 12 specific mistakes with fixes
+   - Quick audit checklist
+
+**Tier 1 Progress:** 9/10 complete (90%)
+
+### Schema Update
+
+Added `programmatic: boolean` field to `src/content.config.ts` for content filtering.
+
+### Site Totals
+- **Total blog posts:** 216 (210 + 3 Tier 1 + 3 programmatic)
+- **Total pages:** 228
+- **Programmatic articles:** 3
+- **Images generated:** 3 (Tier 1 hero images)
+
+---
+
 ## 2025-01-24 (Session 15) - Problem-Solving Posts + SEO Keyword Audit
 
 ### SEO Priority Keyword Audit
