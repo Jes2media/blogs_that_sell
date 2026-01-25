@@ -15,7 +15,7 @@
 - ✅ Schema: `programmatic: true` field added
 
 ### Phase 1 Target: 100 Programmatic Pages
-**Current: 43 | Remaining: 57**
+**Current: 59 | Remaining: 41**
 
 ### Completed Batches
 **Batch 1 (3 articles):**
@@ -72,6 +72,26 @@
 - [x] Sales letter copywriting tips for B2B SaaS
 - [x] Website copywriting tips for Mortgage brokers
 - [x] Email copywriting tips for Insurance agents
+
+**Batch 7 (8 articles):**
+- [x] Blog copywriting tips for Coaches
+- [x] Ad copywriting tips for Photographers
+- [x] Website copywriting tips for Cleaning services
+- [x] Email copywriting tips for Dentists
+- [x] Landing page copywriting tips for Photographers
+- [x] Sales letter copywriting tips for Accountants
+- [x] Ad copywriting tips for Real estate agents
+- [x] Blog copywriting tips for Chiropractors
+
+**Batch 8 (8 articles):**
+- [x] Email copywriting tips for Freelancers
+- [x] Website copywriting tips for Yoga studios
+- [x] Ad copywriting tips for HVAC contractors
+- [x] Blog copywriting tips for SaaS companies
+- [x] Landing page copywriting tips for Personal trainers
+- [x] Sales letter copywriting tips for Agencies
+- [x] Website copywriting tips for Med spas
+- [x] Email copywriting tips for Consultants
 
 ### Next Batch Ideas (for future sessions)
 | Copywriting Type | Business Type | Angle |
@@ -288,4 +308,4 @@ At 100 programmatic pages, reassess based on Search Console data:
 
 ---
 
-*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + 40 programmatic articles, 257 blog posts)*
+*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + 59 programmatic articles, 273 blog posts)*

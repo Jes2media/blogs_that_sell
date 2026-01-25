@@ -105,14 +105,36 @@ Created second batch of programmatic tips content:
 7. **Website Copywriting Tips for Mortgage Brokers** - Trust-building vs rate-shopping
 8. **Email Copywriting Tips for Insurance Agents** - Quote-to-policy conversion
 
+### Programmatic Batch 7 (8 more articles)
+
+1. **Blog Copywriting Tips for Coaches** - Thought leadership to paying clients
+2. **Ad Copywriting Tips for Photographers** - Booking inquiries without discounting
+3. **Website Copywriting Tips for Cleaning Services** - Trust-building for home entry
+4. **Email Copywriting Tips for Dentists** - Appointment reminders + reactivation
+5. **Landing Page Copywriting Tips for Photographers** - Portfolio to booking conversion
+6. **Sales Letter Copywriting Tips for Accountants** - High-value client proposals
+7. **Ad Copywriting Tips for Real Estate Agents** - Quality lead generation
+8. **Blog Copywriting Tips for Chiropractors** - Patient education + trust building
+
+### Programmatic Batch 8 (8 more articles)
+
+1. **Email Copywriting Tips for Freelancers** - Client nurturing + upsells
+2. **Website Copywriting Tips for Yoga Studios** - Class booking optimization
+3. **Ad Copywriting Tips for HVAC Contractors** - Emergency + seasonal campaigns
+4. **Blog Copywriting Tips for SaaS Companies** - Trial and demo conversion
+5. **Landing Page Copywriting Tips for Personal Trainers** - Consultation booking
+6. **Sales Letter Copywriting Tips for Agencies** - Winning bigger clients
+7. **Website Copywriting Tips for Med Spas** - Consultation booking without being pushy
+8. **Email Copywriting Tips for Consultants** - Lead nurturing sequences
+
 ### Programmatic Progress
-- **Total programmatic articles:** 43 (3 initial + 8 batch 2 + 8 batch 3 + 8 batch 4 + 8 batch 5 + 8 batch 6)
+- **Total programmatic articles:** 59 (3 initial + 8×7 batches)
 - **Phase 1 target:** 100 pages
-- **Progress:** 43% of Phase 1 complete
+- **Progress:** 59% of Phase 1 complete
 
 ### Site Totals
-- **Total blog posts:** 257
-- **Total pages:** 269
+- **Total blog posts:** 273
+- **Total pages:** 285
 
 ---
 
