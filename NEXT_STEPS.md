@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 225 Blog Posts
+## Current Status: 233 Blog Posts
 
-**Total site pages: 237** (225 blog posts + 12 static pages)
+**Total site pages: 245** (233 blog posts + 12 static pages)
 
 ---
 
@@ -15,7 +15,7 @@
 - ✅ Schema: `programmatic: true` field added
 
 ### Phase 1 Target: 100 Programmatic Pages
-**Current: 11 | Remaining: 89**
+**Current: 19 | Remaining: 81**
 
 ### Completed Batches
 **Batch 1 (3 articles):**
@@ -33,14 +33,24 @@
 - [x] Sales letter copywriting tips for Financial advisors
 - [x] Website copywriting tips for Dentists
 
+**Batch 3 (8 articles):**
+- [x] Email copywriting tips for Coaches
+- [x] Website copywriting tips for Accountants
+- [x] Ad copywriting tips for Home services
+- [x] Landing page copywriting tips for SaaS B2B
+- [x] Blog copywriting tips for Agencies
+- [x] Email copywriting tips for Gyms/fitness
+- [x] Website copywriting tips for Photographers
+- [x] Sales letter copywriting tips for Insurance agents
+
 ### Next Batch Ideas (for future sessions)
 | Copywriting Type | Business Type | Angle |
 |-----------------|---------------|-------|
-| Email copywriting | Coaches | Nurture + ascension |
-| Website copywriting | Accountants | Trust + authority |
-| Ad copywriting | Home services | Local trust |
-| Landing page copywriting | SaaS B2B | Trial conversion |
-| Blog copywriting | Agencies | Thought leadership |
+| Email copywriting | Consultants | Nurture + authority |
+| Website copywriting | Chiropractors | Trust + pain points |
+| Ad copywriting | Restaurants | Local discovery |
+| Landing page copywriting | Coaches | Program enrollment |
+| Blog copywriting | Freelancers | Client attraction |
 
 ### Quality Requirements (per spec)
 - 9 tips with original, niche-specific examples
@@ -248,4 +258,4 @@ At 100 programmatic pages, reassess based on Search Console data:
 
 ---
 
-*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + programmatic batch, 225 blog posts)*
+*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + 16 programmatic articles, 233 blog posts)*
