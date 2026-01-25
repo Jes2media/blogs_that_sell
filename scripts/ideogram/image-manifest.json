@@ -1384,6 +1384,21 @@
       "slug": "blog-jim-kwik-hero",
       "concept": "brain and learning visualization with content elements, memory retention concept, educational content design, bright creative workspace with books and laptop",
       "category": "blog"
+    },
+    {
+      "slug": "blog-claims-credibility-hero",
+      "concept": "marketer looking frustrated at laptop showing bold claims that readers scroll past, proof and credibility gap visualization, skeptical audience concept, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-wrong-readers-hero",
+      "concept": "content creator at desk with wrong audience visualization - freebie seekers and tire kickers instead of buyers, target audience mismatch concept, frustrated expression",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-testimonials-hero",
+      "concept": "collection of generic vague testimonials on screen that nobody believes, weak social proof visualization, anonymous quotes, marketer needs better proof",
+      "category": "blog"
     }
   ]
 }

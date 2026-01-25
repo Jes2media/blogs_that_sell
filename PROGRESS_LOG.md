@@ -1,5 +1,40 @@
 # Progress Log
 
+## 2025-01-24 (Session 15) - 3 More Problem-Solving Posts
+
+### New Troubleshooting Posts (Second Batch)
+
+Created 3 additional diagnostic/problem-solving posts:
+
+**1. Why Nobody Believes Your Claims (Even When They're True)**
+- Diagnoses 6 reasons claims lack credibility
+- Covers round numbers, missing context, claiming outcomes you didn't control, hiding mechanisms, hiding conditions, telling instead of showing
+- Introduces "The Proof Stack" hierarchy
+- Links to: valuable content, free training
+
+**2. Why Your Posts Attract the Wrong Readers**
+- Addresses audience mismatch problem
+- Covers informational vs commercial intent, broad topics, price-sensitivity hooks, teacher positioning, mismatched examples, wrong problem level, off-target distribution
+- Introduces "The Qualification Principle"
+- Links to: buyer intent keywords, blog traffic converting, generic blog, valuable content
+
+**3. Why Your Testimonials Aren't Convincing Anyone**
+- Addresses social proof problems
+- Covers vague praise, mismatched prospects, anonymous quotes, self-focused testimonials, bad placement, missing objection handling, asking too early, wrong questions
+- Introduces "The Testimonial Hierarchy"
+- Links to: claims credibility, blog traffic converting, valuable content
+
+**Internal Links Added:**
+- From why-copy-isnt-converting → all 3 new posts
+- From why-your-copy-sounds-salesy → claims + testimonials posts
+- From why-valuable-content-doesnt-generate-leads → all 3 new posts + blog-traffic
+- From blog-traffic-not-converting → all 3 new posts
+- Related Guides sections added to first batch posts linking to second batch
+
+**Total posts: 210** (up from 207)
+
+---
+
 ## 2025-01-24 (Session 14) - New Problem-Solving Posts
 
 ### 3 New Troubleshooting Posts
