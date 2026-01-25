@@ -61,6 +61,42 @@ The strategy uses programmatic content patterns that multiply across niches, fra
 | why marketing advice doesn't work | Contrarian | Application vs. theory |
 | why following formulas hurts copy | Contrarian | Principles over templates |
 
+### BOFU-Adjacent: High-Intent Problem-Solution Content
+
+Content designed to capture readers closer to purchase decision. Links directly to course/templates as solutions.
+
+#### Problem-Solution Posts (Primary Priority)
+
+| Keyword/Topic | Intent | Content Angle |
+|---------------|--------|---------------|
+| why blog posts get traffic but no leads | High-intent problem | Traffic vs. conversion disconnect + system solution |
+| why your sales page isn't converting | High-intent problem | Conversion audit + structural fixes |
+| difference between content that educates and content that sells | Comparison | Educational vs. direct response + when to use each |
+
+#### Transformation/Results Posts
+
+| Keyword/Topic | Intent | Content Angle |
+|---------------|--------|---------------|
+| what happens when you apply direct response to your blog | Transformation | Before/after + system benefits |
+| from low to high conversion: what changed | Case study style | Specific changes that drove results |
+| why most blogs are expensive hobbies | Problem agitation | Cost of not having a system |
+
+#### Objection-Handling Posts
+
+| Keyword/Topic | Intent | Content Angle |
+|---------------|--------|---------------|
+| do you really need a system for blog posts | Objection | Why systematization beats winging it |
+| why templates don't feel authentic | Objection | Templates as starting points, not straitjackets |
+| can't I just figure this out myself | Objection | DIY costs vs. proven system benefits |
+
+#### Comparison/Alternative Posts
+
+| Keyword/Topic | Intent | Content Angle |
+|---------------|--------|---------------|
+| content marketing vs direct response blogging | Comparison | Two approaches, when each works |
+| why hiring a copywriter won't solve your blog problem | Alternative | System vs. outsourcing |
+| SEO traffic vs conversion-focused content | Comparison | Traffic quality vs. quantity |
+
 ### Priority Content Requirements
 
 **All Tier 1-3 posts must:**

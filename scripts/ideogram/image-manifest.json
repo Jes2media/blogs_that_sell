@@ -1474,6 +1474,11 @@
       "slug": "blog-plateau-hero",
       "concept": "writer at desk staring at flatlined performance chart on screen, stuck at same level unable to break through, searching for next level, moody dramatic lighting",
       "category": "blog"
+    },
+    {
+      "slug": "blog-traffic-no-leads-hero",
+      "concept": "split screen showing high website traffic analytics on one side and empty email subscriber list on the other, disconnect between visitors and conversions, frustrated marketer, dramatic lighting",
+      "category": "blog"
     }
   ]
 }
