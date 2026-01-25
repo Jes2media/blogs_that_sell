@@ -1419,6 +1419,11 @@
       "slug": "blog-ai-generic-hero",
       "concept": "writer at laptop editing AI-generated text on screen, red pen marks transforming bland copy into compelling writing, human creativity refining robot output, warm professional workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-chatgpt-mistakes-hero",
+      "concept": "marketer at laptop identifying errors in AI-generated copy, red warning highlights on screen showing common mistakes, diagnostic troubleshooting of robot writing, modern workspace",
+      "category": "blog"
     }
   ]
 }
