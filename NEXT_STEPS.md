@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 233 Blog Posts
+## Current Status: 257 Blog Posts
 
-**Total site pages: 245** (233 blog posts + 12 static pages)
+**Total site pages: 269** (257 blog posts + 12 static pages)
 
 ---
 
@@ -15,7 +15,7 @@
 - ✅ Schema: `programmatic: true` field added
 
 ### Phase 1 Target: 100 Programmatic Pages
-**Current: 19 | Remaining: 81**
+**Current: 43 | Remaining: 57**
 
 ### Completed Batches
 **Batch 1 (3 articles):**
@@ -42,6 +42,36 @@
 - [x] Email copywriting tips for Gyms/fitness
 - [x] Website copywriting tips for Photographers
 - [x] Sales letter copywriting tips for Insurance agents
+
+**Batch 4 (8 articles):**
+- [x] Email copywriting tips for Restaurants
+- [x] Website copywriting tips for Chiropractors
+- [x] Ad copywriting tips for Roofers
+- [x] Landing page copywriting tips for Consultants
+- [x] Blog copywriting tips for Veterinarians
+- [x] Email copywriting tips for Wedding planners
+- [x] Website copywriting tips for Plumbers
+- [x] Sales letter copywriting tips for Therapists
+
+**Batch 5 (8 articles):**
+- [x] Ad copywriting tips for Personal trainers
+- [x] Landing page copywriting tips for Lawyers
+- [x] Blog copywriting tips for Ecommerce
+- [x] Email copywriting tips for Accountants
+- [x] Website copywriting tips for Interior designers
+- [x] Sales letter copywriting tips for Course creators
+- [x] Ad copywriting tips for Dentists
+- [x] Landing page copywriting tips for Coaches
+
+**Batch 6 (8 articles):**
+- [x] Website copywriting tips for Landscapers
+- [x] Email copywriting tips for Photographers
+- [x] Ad copywriting tips for Lawyers
+- [x] Blog copywriting tips for Financial advisors
+- [x] Landing page copywriting tips for Real estate agents
+- [x] Sales letter copywriting tips for B2B SaaS
+- [x] Website copywriting tips for Mortgage brokers
+- [x] Email copywriting tips for Insurance agents
 
 ### Next Batch Ideas (for future sessions)
 | Copywriting Type | Business Type | Angle |
@@ -258,4 +288,4 @@ At 100 programmatic pages, reassess based on Search Console data:
 
 ---
 
-*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + 16 programmatic articles, 233 blog posts)*
+*Last updated: 2025-01-25 (Session 17 - Tier 1 SEO complete + 40 programmatic articles, 257 blog posts)*
