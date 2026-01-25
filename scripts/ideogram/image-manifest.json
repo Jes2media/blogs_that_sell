@@ -1399,6 +1399,21 @@
       "slug": "blog-testimonials-hero",
       "concept": "collection of generic vague testimonials on screen that nobody believes, weak social proof visualization, anonymous quotes, marketer needs better proof",
       "category": "blog"
+    },
+    {
+      "slug": "blog-why-no-action-hero",
+      "concept": "interested reader at laptop hesitating with cursor over buy button, psychological barrier to action visible, decision paralysis, warm lighting showing internal conflict",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-low-conversion-hero",
+      "concept": "marketer analyzing conversion funnel on screen with low percentage metrics highlighted, diagnostic approach to fixing conversion problems, modern analytics workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copy-mistakes-hero",
+      "concept": "copywriter auditing sales page with red marks and corrections visible on screen, systematic error identification, conversion optimization checklist, professional workspace",
+      "category": "blog"
     }
   ]
 }

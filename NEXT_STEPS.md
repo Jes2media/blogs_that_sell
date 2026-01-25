@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 210 Blog Posts
+## Current Status: 213 Blog Posts
 
-**Total site pages: 222** (210 blog posts + 12 static pages)
+**Total site pages: 225** (213 blog posts + 12 static pages)
 
 ---
 
@@ -11,15 +11,15 @@
 ### Priority Keyword Audit Results
 | Tier | Purpose | Coverage | Status |
 |------|---------|----------|--------|
-| Tier 1 | Fast Wins (high-intent) | 6/10 (60%) | 4 posts needed |
+| Tier 1 | Fast Wins (high-intent) | 9/10 (90%) | 1 post needed |
 | Tier 2 | Authority Builders | 2/10 (20%) | 8 posts needed |
 | Tier 3 | Differentiation | 1/10 (10%) | 9 posts needed |
 
-### NEXT: Tier 1 Remaining (4 posts) - HIGH PRIORITY
+### NEXT: Tier 1 Remaining (1 post) - HIGH PRIORITY
 - [ ] "marketing feels manipulative" → ethical persuasion angle
-- [ ] "why people don't take action on copy" → decision psychology
-- [ ] "low conversion rate copywriting" → benchmarks + fixes
-- [ ] "copywriting mistakes hurting conversions" → audit checklist
+- [x] "why people don't take action on copy" → decision psychology ✅
+- [x] "low conversion rate copywriting" → benchmarks + fixes ✅
+- [x] "copywriting mistakes hurting conversions" → audit checklist ✅
 
 ### NEXT: AI Copy Content (3 posts) - TRENDING/TIME-SENSITIVE
 - [ ] "why AI copy sounds generic"
@@ -196,4 +196,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 15 - SEO Keyword Audit, 210 blog posts)*
+*Last updated: 2025-01-24 (Session 16 - Tier 1 keyword posts, 213 blog posts)*
