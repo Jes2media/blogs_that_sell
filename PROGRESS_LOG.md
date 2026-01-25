@@ -1,5 +1,39 @@
 # Progress Log
 
+## 2025-01-24 (Session 12) - Content + Site Cleanup + SEO Audit
+
+### Site Cleanup
+- Removed placeholder testimonial from `/free-training` page
+- Updated `/about` page with John Fawkes' real bio and credentials
+
+### SEO Link Audit
+Ran comprehensive site audit for SEO optimization:
+
+**Audit Results:**
+| Metric | Count | Status |
+|--------|-------|--------|
+| Total blog posts | 204 | - |
+| Broken internal links | 20 | **Fixed** |
+| Orphan pages | 79 | To do |
+| Missing images | 29 | To do |
+| Posts → /free-training | 204/204 | Good |
+| Posts → /get-more-sales | 188/204 | Good |
+
+### Broken Links Fixed (20 total)
+Corrected slug mismatches across 20 files:
+- `aida-framework-for-blog-content` → `aida-framework-blog-content`
+- `blog-mistakes-kill-conversion-rate` → `blog-mistakes-conversion-rate`
+- `pas-formula-blog-posts` → `problem-agitate-solution-blog-posts`
+- `russell-brunson-hso-when-works` → `hook-story-offer-when-it-works`
+- `brendon-burchard-content-movements` → `brendon-burchard-high-performance-content`
+- Plus 15 more slug corrections
+
+**Remaining SEO Tasks:**
+- Fix 79 orphan pages (add internal links)
+- Generate 29 missing images
+
+---
+
 ## 2025-01-24 (Session 12) - Cold Email Cluster + Section 14 Batches 4-5
 
 ### Section 14 Guru Posts - Batch 5 (3 posts)

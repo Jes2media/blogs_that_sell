@@ -1,8 +1,31 @@
 # Next Steps
 
-## Current Status: 196 Blog Posts
+## Current Status: 204 Blog Posts
 
-**Total site pages: 208** (196 blog posts + 12 static pages)
+**Total site pages: 216** (204 blog posts + 12 static pages)
+
+---
+
+## PRIORITY: SEO Link Health
+
+### Broken Links - FIXED ✅
+- Fixed 20 broken internal links (slug mismatches)
+
+### Orphan Pages - TO DO
+**79 pages with no incoming internal links**
+
+Priority orphans to fix first:
+- `what-is-copywriting` (pillar page!)
+- 6 new guru posts (Bijay Ray, Kevin McKeand, Jim Kwik, Dave Woodward, Bryan Kreuzberger, Jason West)
+- 9 "blog-post-templates-for-*" posts
+- 8 "best-*-tools" posts
+- Many recent niche guides
+
+### Missing Images - TO DO
+**29 images referenced but not generated**
+- Need to add to image manifest and run generation script
+
+---
 
 ## Content Library
 
@@ -138,4 +161,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 12 - Section 14 Batch 5 Complete, 196 blog posts)*
+*Last updated: 2025-01-24 (Session 12 - SEO Audit + Link Fixes, 204 blog posts)*
