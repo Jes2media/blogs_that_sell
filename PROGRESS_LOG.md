@@ -1,5 +1,67 @@
 # Progress Log
 
+## 2025-01-24 (Session 14) - New Problem-Solving Posts
+
+### 3 New Troubleshooting Posts
+
+Created new diagnostic/problem-solving posts that complement existing content:
+
+**1. Why Your Lead Magnet Isn't Converting (Even With Good Traffic)**
+- Diagnoses 6 reasons opt-ins fail
+- Covers specificity, content matching, perceived value, copy, timing, trust
+- Links to: CTAs, blog traffic converting, email opt-in copy
+
+**2. Why Readers Start Your Post But Never Finish**
+- Addresses engagement drop-off problem
+- Covers promise mismatch, buried value, wall of text, lack of pull, repetition, sophistication mismatch, emotional investment
+- Links to: valuable content, structure for skimmers, blog intro
+
+**3. Why Your Blog Sounds Like Everyone Else's**
+- Addresses differentiation/voice problem
+- Covers generic topics, removed edges, committee writing, no POV, mimicking, fear of personality
+- Links to: copy sounds salesy, copy not converting
+
+**Internal Links Added:**
+- From turn-blog-into-sales-funnel → lead-magnet-not-converting
+- From how-to-write-blog-intro → readers-start-post-never-finish
+- From why-your-copy-sounds-salesy → why-your-blog-sounds-generic
+- From blog-traffic-not-converting → all 3 new posts
+
+**Total posts: 207** (up from 204)
+
+---
+
+## 2025-01-24 (Session 13) - Fixed All 77 Orphan Pages
+
+### Internal Link Audit & Fixes
+Fixed all 77 orphan pages (posts with no incoming internal links):
+
+**Summary:**
+| Category | Pages Fixed |
+|----------|-------------|
+| Pillar page (what-is-copywriting) | 1 |
+| Guru posts | 7 |
+| Blog-post-templates | 8 |
+| Best-tools posts | 7 |
+| Framework variations | 6 |
+| Niche guides | 20+ |
+| MOFU/troubleshooting posts | 28+ |
+| **Total** | **77** |
+
+**Method:**
+- Added contextual internal links from related posts
+- Created "Related Guides" sections where missing
+- Linked framework variations from parent framework posts
+- Cross-linked niche guides with related industries
+- Connected tools posts from relevant how-to content
+
+**Result:**
+- **Before:** 77 orphan pages
+- **After:** 0 orphan pages
+- All 204 blog posts now have incoming internal links
+
+---
+
 ## 2025-01-24 (Session 12) - Content + Site Cleanup + SEO Audit
 
 ### Site Cleanup

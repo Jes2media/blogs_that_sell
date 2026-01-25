@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 204 Blog Posts
+## Current Status: 207 Blog Posts
 
-**Total site pages: 216** (204 blog posts + 12 static pages)
+**Total site pages: 219** (207 blog posts + 12 static pages)
 
 ---
 
@@ -11,15 +11,15 @@
 ### Broken Links - FIXED ✅
 - Fixed 20 broken internal links (slug mismatches)
 
-### Orphan Pages - TO DO
-**79 pages with no incoming internal links**
-
-Priority orphans to fix first:
-- `what-is-copywriting` (pillar page!)
-- 6 new guru posts (Bijay Ray, Kevin McKeand, Jim Kwik, Dave Woodward, Bryan Kreuzberger, Jason West)
-- 9 "blog-post-templates-for-*" posts
-- 8 "best-*-tools" posts
-- Many recent niche guides
+### Orphan Pages - FIXED ✅
+**77 orphan pages fixed** (all posts now have incoming internal links)
+- Fixed pillar page: `what-is-copywriting`
+- Fixed 7 guru posts (Bijay Ray, Kevin McKeand, Jim Kwik, etc.)
+- Fixed 8 blog-post-templates posts
+- Fixed 7 best-tools posts
+- Fixed 20+ orphan niche guides
+- Fixed 6 framework variations (AIDA for SaaS, PAS for Coaches, etc.)
+- Fixed all MOFU/troubleshooting orphans
 
 ### Missing Images - TO DO
 **29 images referenced but not generated**
@@ -50,7 +50,7 @@ Priority orphans to fix first:
 - ✅ 9 Blog post templates by business type
 - ✅ 23 MOFU posts (comparisons, tools, how-to+outcome)
 - ✅ 12+ TOFU how-to posts
-- ✅ Troubleshooting posts (conversion issues)
+- ✅ Troubleshooting posts (conversion issues) - expanded with 3 new problem-solving posts
 - ✅ Direct response cluster posts
 - ✅ "What is Copywriting" pillar page (13,000 vol, comprehensive guide)
 
@@ -161,4 +161,4 @@ Priority orphans to fix first:
 
 ---
 
-*Last updated: 2025-01-24 (Session 12 - SEO Audit + Link Fixes, 204 blog posts)*
+*Last updated: 2025-01-24 (Session 14 - 3 New Problem-Solving Posts, 207 blog posts)*
