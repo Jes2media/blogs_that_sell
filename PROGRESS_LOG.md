@@ -1,5 +1,91 @@
 # Progress Log
 
+## 2025-01-25 (Session 19) - BOFU-Adjacent Content: 12 Long-Form Articles
+
+### SEO Tier 2 & 3 Final Posts (2)
+
+Completed final posts from SEO priority keyword lists:
+
+1. **Copywriting Psychology Explained** (Tier 2)
+   - Deep dive into psychological principles behind conversion copy
+   - Covers: reciprocity, social proof, authority, scarcity, consistency, liking
+   - Application frameworks for blog content
+
+2. **Why Your Copywriting Has Hit a Plateau** (Tier 3)
+   - Diagnostic post for intermediate copywriters stuck at same level
+   - 7 reasons for plateau with specific fixes
+   - Growth pathway recommendations
+
+### BOFU-Adjacent Content Clusters (12 articles)
+
+Created comprehensive BOFU-adjacent content to nurture readers closer to conversion:
+
+**Problem-Solution Cluster (3 articles):**
+1. **Why Your Blog Gets Traffic But No Leads**
+   - Diagnoses disconnect between traffic and conversion
+   - 5 structural fixes for lead capture
+
+2. **Why Your Sales Page Isn't Converting**
+   - Systematic diagnosis of sales page failures
+   - Framework for troubleshooting conversion paths
+
+3. **Content That Educates vs. Content That Sells**
+   - Balancing value delivery with conversion intent
+   - The "educate toward the sale" approach
+
+**Transformation/Results Cluster (3 articles):**
+4. **What Happens When You Apply Direct Response to Your Blog**
+   - Before/after transformation showcase
+   - Concrete changes and expected results
+
+5. **Why Most Blogs Are Expensive Hobbies**
+   - Cost analysis of non-converting content
+   - Making the case for systems investment
+
+6. **From 0.3% to 4.2% Conversion: What Actually Changed**
+   - Specific journey from low to high conversion
+   - Detailed breakdown of what moved the needle
+
+**Objection-Handling Cluster (3 articles):**
+7. **Do You Really Need a System for Blog Posts?**
+   - Addresses "I can wing it" objection
+   - Case for systematization without over-engineering
+
+8. **Why Templates Don't Feel Authentic**
+   - Addresses authenticity objection
+   - How templates enable (not restrict) voice
+
+9. **Can't I Just Figure This Out Myself?**
+   - DIY objection handling
+   - Cost analysis of learning curve vs shortcuts
+
+**Comparison/Alternative Cluster (3 articles):**
+10. **Content Marketing vs. Direct Response Blogging**
+    - Two philosophies compared
+    - When each approach makes sense
+
+11. **Why Hiring a Copywriter Won't Solve Your Blog Problem**
+    - Alternative evaluation (outsourcing)
+    - Systems vs dependency argument
+
+12. **SEO Traffic vs. Conversion-Focused Content**
+    - False dichotomy breakdown
+    - Integration framework for both approaches
+
+### Hero Images Generated
+- 14 new hero images via Ideogram API
+- All articles have custom hero images
+
+### SEO Plan Updated
+- Added BOFU-Adjacent section to `/docs/seo/SEO-CONTENT-PLAN.md`
+- Documented all 12 articles with target angles
+
+### Site Totals
+- **Total blog posts:** 328 (314 + 14 new)
+- **Total pages:** 340
+
+---
+
 ## 2025-01-25 (Session 18) - PHASE 1 PROGRAMMATIC COMPLETE: 100 Articles 🎯
 
 ### Programmatic Batch 9 (8 articles)

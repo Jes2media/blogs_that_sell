@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 314 Blog Posts
+## Current Status: 328 Blog Posts
 
-**Total site pages: 326** (314 blog posts + 12 static pages)
+**Total site pages: 340** (328 blog posts + 12 static pages)
 
 ---
 
@@ -159,14 +159,14 @@
 
 ---
 
-## PRIORITY 2: Top 30 SEO Keywords (Now 47% Complete)
+## PRIORITY 2: Top 30 SEO Keywords (Now 53% Complete)
 
 ### Priority Keyword Audit Results
 | Tier | Purpose | Coverage | Status |
 |------|---------|----------|--------|
 | Tier 1 | Fast Wins (high-intent) | 10/10 (100%) | ✅ COMPLETE |
-| Tier 2 | Authority Builders | 2/10 (20%) | 8 posts needed |
-| Tier 3 | Differentiation | 1/10 (10%) | 9 posts needed |
+| Tier 2 | Authority Builders | 3/10 (30%) | 7 posts needed |
+| Tier 3 | Differentiation | 2/10 (20%) | 8 posts needed |
 
 ### Tier 1 - COMPLETE ✅
 - [x] "marketing feels manipulative" → ethical persuasion angle ✅
@@ -184,20 +184,35 @@
 - [ ] "how many CTAs should a page have"
 - [ ] "why urgency doesn't work"
 
-### Remaining Tier 2 (5 more posts)
+### Remaining Tier 2 (4 more posts)
 - [ ] "why headlines don't work"
 - [ ] "copy feels fake"
 - [ ] "decision friction in marketing"
 - [ ] "why people hesitate to buy"
-- [ ] "copywriting psychology explained"
+- [x] "copywriting psychology explained" ✅
 
-### Remaining Tier 3 (6 more posts)
-- [ ] "copywriting plateau"
+### Remaining Tier 3 (5 more posts)
+- [x] "copywriting plateau" ✅
 - [ ] "why clients don't value copy"
 - [ ] "copywriting career plateau"
 - [ ] "why best practices don't convert"
 - [ ] "why marketing advice doesn't work"
 - [ ] "why following formulas hurts copy"
+
+---
+
+## ✅ BOFU-Adjacent Content - COMPLETE
+
+### 12 Long-Form Articles Targeting Near-Conversion Readers
+
+| Cluster | Articles | Status |
+|---------|----------|--------|
+| Problem-Solution | Traffic No Leads, Sales Page Not Converting, Educates vs Sells | ✅ COMPLETE |
+| Transformation/Results | DR Blog Transformation, Expensive Hobbies, 0.3% to 4.2% | ✅ COMPLETE |
+| Objection-Handling | Need a System?, Templates Authentic, Figure It Out Myself | ✅ COMPLETE |
+| Comparison/Alternative | CM vs DR Blogging, Hiring Copywriter, SEO vs Conversion | ✅ COMPLETE |
+
+All 12 articles published with hero images.
 
 ---
 
@@ -349,4 +364,4 @@
 
 ---
 
-*Last updated: 2025-01-25 (Session 18 - Phase 1 Programmatic COMPLETE: 100/100 articles, 314 blog posts)*
+*Last updated: 2025-01-25 (Session 19 - BOFU-Adjacent COMPLETE: 12 articles, 328 blog posts)*
