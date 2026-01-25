@@ -6,20 +6,55 @@
 
 ---
 
-## PRIORITY: SEO Link Health
+## PRIORITY: Top 30 SEO Keywords (Only 30% Complete)
+
+### Priority Keyword Audit Results
+| Tier | Purpose | Coverage | Status |
+|------|---------|----------|--------|
+| Tier 1 | Fast Wins (high-intent) | 6/10 (60%) | 4 posts needed |
+| Tier 2 | Authority Builders | 2/10 (20%) | 8 posts needed |
+| Tier 3 | Differentiation | 1/10 (10%) | 9 posts needed |
+
+### NEXT: Tier 1 Remaining (4 posts) - HIGH PRIORITY
+- [ ] "marketing feels manipulative" → ethical persuasion angle
+- [ ] "why people don't take action on copy" → decision psychology
+- [ ] "low conversion rate copywriting" → benchmarks + fixes
+- [ ] "copywriting mistakes hurting conversions" → audit checklist
+
+### NEXT: AI Copy Content (3 posts) - TRENDING/TIME-SENSITIVE
+- [ ] "why AI copy sounds generic"
+- [ ] "chatgpt copywriting mistakes"
+- [ ] "editing AI written copy"
+
+### NEXT: CTA Psychology Cluster (3 posts)
+- [ ] "soft CTA vs hard CTA"
+- [ ] "how many CTAs should a page have"
+- [ ] "why urgency doesn't work"
+
+### Remaining Tier 2 (5 more posts)
+- [ ] "why headlines don't work"
+- [ ] "copy feels fake"
+- [ ] "decision friction in marketing"
+- [ ] "why people hesitate to buy"
+- [ ] "copywriting psychology explained"
+
+### Remaining Tier 3 (6 more posts)
+- [ ] "copywriting plateau"
+- [ ] "why clients don't value copy"
+- [ ] "copywriting career plateau"
+- [ ] "why best practices don't convert"
+- [ ] "why marketing advice doesn't work"
+- [ ] "why following formulas hurts copy"
+
+---
+
+## Completed: SEO Link Health ✅
 
 ### Broken Links - FIXED ✅
 - Fixed 20 broken internal links (slug mismatches)
 
 ### Orphan Pages - FIXED ✅
-**77 orphan pages fixed** (all posts now have incoming internal links)
-- Fixed pillar page: `what-is-copywriting`
-- Fixed 7 guru posts (Bijay Ray, Kevin McKeand, Jim Kwik, etc.)
-- Fixed 8 blog-post-templates posts
-- Fixed 7 best-tools posts
-- Fixed 20+ orphan niche guides
-- Fixed 6 framework variations (AIDA for SaaS, PAS for Coaches, etc.)
-- Fixed all MOFU/troubleshooting orphans
+- 77 orphan pages fixed (all posts now have incoming internal links)
 
 ### Missing Images - TO DO
 **29 images referenced but not generated**
@@ -161,4 +196,4 @@
 
 ---
 
-*Last updated: 2025-01-24 (Session 15 - 3 More Problem-Solving Posts, 210 blog posts)*
+*Last updated: 2025-01-24 (Session 15 - SEO Keyword Audit, 210 blog posts)*
