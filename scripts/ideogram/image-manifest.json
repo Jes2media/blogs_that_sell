@@ -1439,6 +1439,11 @@
       "slug": "blog-cta-count-hero",
       "concept": "webpage wireframe layout showing strategic button placements at multiple conversion points, visual hierarchy of call-to-action elements, clean UX design visualization, modern workspace",
       "category": "blog"
+    },
+    {
+      "slug": "blog-urgency-hero",
+      "concept": "skeptical consumer looking at countdown timer on screen with questioning expression, fake urgency being doubted, trust versus manipulation concept, dramatic lighting",
+      "category": "blog"
     }
   ]
 }
