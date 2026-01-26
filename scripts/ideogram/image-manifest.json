@@ -1574,6 +1574,11 @@
       "slug": "blog-minimum-viable-hero",
       "concept": "simple streamlined blog system diagram showing only five essential connected components, minimal viable approach to content marketing, clean simplicity versus complexity",
       "category": "blog"
+    },
+    {
+      "slug": "blog-ready-signs-hero",
+      "concept": "checklist assessment with several boxes checked indicating readiness for content system, self-evaluation of timing and preparedness, diagnostic visualization",
+      "category": "blog"
     }
   ]
 }
