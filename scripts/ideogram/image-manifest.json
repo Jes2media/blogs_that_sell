@@ -1544,6 +1544,11 @@
       "slug": "blog-more-content-myth-hero",
       "concept": "towering pile of blog posts and articles stacking higher and higher but results meter gauge stuck at zero, quantity without quality or strategy, volume producing nothing",
       "category": "blog"
+    },
+    {
+      "slug": "blog-content-cost-hero",
+      "concept": "calculator or accounting ledger showing true costs of blog content adding up with time hours and lost revenue and opportunity cost columns totaling surprising high amount, hidden expense revelation",
+      "category": "blog"
     }
   ]
 }
