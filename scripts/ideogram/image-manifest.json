@@ -1569,6 +1569,11 @@
       "slug": "blog-quick-vs-long-hero",
       "concept": "two paths diverging showing quick wins path with immediate small results sprouting versus long-term path with larger results growing over time, strategic choice between speed and sustainability",
       "category": "blog"
+    },
+    {
+      "slug": "blog-minimum-viable-hero",
+      "concept": "simple streamlined blog system diagram showing only five essential connected components, minimal viable approach to content marketing, clean simplicity versus complexity",
+      "category": "blog"
     }
   ]
 }
