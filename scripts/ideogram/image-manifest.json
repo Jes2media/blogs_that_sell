@@ -1919,6 +1919,26 @@
       "slug": "blog-copywriting-consultants-call",
       "concept": "Consultant on video discovery call with prospect, proposal draft and client notes visible on desk, professional sales meeting",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-saas-hero",
+      "concept": "SaaS marketing team reviewing conversion dashboard with trial signups and activation metrics on large screen, modern tech office",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-saas-positioning",
+      "concept": "SaaS marketing team developing positioning and messaging framework on whiteboard with competitor analysis, strategy session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-saas-onboarding",
+      "concept": "SaaS onboarding email sequence mapped out on screen with activation metrics and user journey stages, product marketing",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-saas-landing",
+      "concept": "SaaS landing page A/B test results showing conversion improvements from copy changes, analytics dashboard, marketing optimization",
+      "category": "blog"
     }
   ]
 }
