@@ -1529,6 +1529,11 @@
       "slug": "blog-seo-vs-conversion-hero",
       "concept": "balance scale with SEO traffic metrics and graphs on one side versus conversion funnels and lead magnets on the other side, finding equilibrium between two approaches, strategic content planning",
       "category": "blog"
+    },
+    {
+      "slug": "blog-traffic-vs-conversion-hero",
+      "concept": "wide funnel with massive traffic flowing in but only tiny trickle converting at bottom versus narrow funnel with less traffic but much higher conversion percentage, leaky bucket metaphor, strategic marketing visualization",
+      "category": "blog"
     }
   ]
 }
