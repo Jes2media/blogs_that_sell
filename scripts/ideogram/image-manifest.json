@@ -1769,6 +1769,26 @@
       "slug": "blog-youtube-community-post-hero",
       "concept": "YouTube Community tab interface showing engaging post with high likes comments and poll participation, community engagement success, social platform",
       "category": "blog"
+    },
+    {
+      "slug": "blog-substack-about-page-hero",
+      "concept": "Substack About page being edited with compelling copy and clear value proposition for newsletter subscribers, publication setup, writer workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-newsletter-welcome-email-hero",
+      "concept": "Email welcome message being composed with warm greeting and clear value proposition for new newsletter subscriber, email marketing, friendly onboarding",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-substack-vs-convertkit-hero",
+      "concept": "Side by side comparison of Substack and ConvertKit interfaces showing different newsletter approaches and features, platform comparison, email tools",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-newsletter-ctas-hero",
+      "concept": "Newsletter email with highlighted call-to-action button showing high click-through rate and engagement metrics, email marketing success",
+      "category": "blog"
     }
   ]
 }
