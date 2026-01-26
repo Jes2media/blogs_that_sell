@@ -1899,6 +1899,26 @@
       "slug": "blog-formulas-hurt-copy-hero",
       "concept": "Copywriter trapped inside rigid formula template box trying to break free and be creative, breaking constraints",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-consultants-hero",
+      "concept": "Business consultant at modern desk writing compelling proposal with client logos and engagement metrics visible on screen, professional B2B environment",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-consultants-positioning",
+      "concept": "Consultant developing positioning strategy with ideal client profiles, outcomes, and differentiators mapped on whiteboard, strategic planning",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-consultants-linkedin",
+      "concept": "Consultant writing thought leadership article on LinkedIn with engagement metrics and professional comments visible, content marketing",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-consultants-call",
+      "concept": "Consultant on video discovery call with prospect, proposal draft and client notes visible on desk, professional sales meeting",
+      "category": "blog"
     }
   ]
 }
