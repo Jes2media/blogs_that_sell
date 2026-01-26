@@ -1589,6 +1589,21 @@
       "slug": "blog-payoff-timeline-hero",
       "concept": "investment curve timeline showing initial investment period followed by break-even point and then rising compounding returns, ROI and payoff visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-ai-generic-copy-hero",
+      "concept": "AI-generated text on screen being transformed by human editor adding specific details and personality, generic becoming specific, editing process visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-chatgpt-mistakes-hero",
+      "concept": "laptop showing ChatGPT interface with common copywriting errors being highlighted and marked for correction, editing AI output, mistake identification process",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-editing-ai-copy-hero",
+      "concept": "side-by-side comparison of raw AI draft and polished final copy with editor's marks showing the transformation, before and after editing process, quality improvement visualization",
+      "category": "blog"
     }
   ]
 }
