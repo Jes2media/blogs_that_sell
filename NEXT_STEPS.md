@@ -2,7 +2,7 @@
 
 ## Current Status: 365 Blog Posts
 
-**Total site pages: 380** (265 regular blog + 100 programmatic + 15 static pages)
+**Total site pages: 383** (265 regular blog + 100 programmatic + 18 static/hub pages)
 
 ---
 
@@ -65,13 +65,14 @@ All 13 batches published. Next steps:
 ### Gravitational Hub Architecture
 - [x] `/copywriting-legends/` - Classic DR copywriters (links to 20+ child articles)
 - [x] `/marketing-experts/` - Modern practitioners by specialty (links to 30+ child articles)
-- [x] Navigation updated with Resources dropdown
+- [x] `/copywriting-frameworks/` - AIDA, PAS, PASTOR, HSO, and 15+ frameworks
+- [x] `/email-copywriting-guide/` - All email-related content (18+ posts)
+- [x] Navigation updated with Resources dropdown (4 hubs)
 
 ### Future Hub Opportunities
-- [ ] `/copywriting-frameworks/` - AIDA, PAS, PASTOR, HSO, etc.
 - [ ] `/copywriting-for-healthcare/` - Dentists, chiropractors, therapists
 - [ ] `/copywriting-for-home-services/` - HVAC, plumbers, roofers
-- [ ] `/email-copywriting-guide/` - All email-related content
+- [ ] `/copywriting-for-professional-services/` - Lawyers, accountants, consultants
 
 ---
 
@@ -131,7 +132,33 @@ All 13 batches published. Next steps:
 
 ## Remaining Priorities
 
-### NEXT: Tier 3 SEO Posts (4 posts)
+### NEXT: Platform-Specific Copywriting Content
+New content cluster targeting underserved platform keywords. See SEO Plan Section 15.
+
+**LinkedIn (Priority)**
+- [ ] LinkedIn Post Copywriting That Gets Clients
+- [ ] LinkedIn Headline Formulas That Get Clicks
+- [ ] LinkedIn About Section Copy That Converts
+- [ ] LinkedIn DM Scripts That Get Responses
+
+**YouTube**
+- [ ] YouTube Description Copy That Ranks and Converts
+- [ ] YouTube Title Formulas That Get Clicks
+- [ ] How to Write YouTube Scripts That Keep Viewers Watching
+
+**Twitter/X**
+- [ ] Twitter Thread Copywriting That Goes Viral
+- [ ] Twitter Bio Copy That Gets Followers
+
+**Substack/Newsletters**
+- [ ] Substack About Page Copy That Converts Subscribers
+- [ ] Newsletter Welcome Email Copywriting
+
+**Other Platforms**
+- [ ] Upwork Proposal Copywriting That Wins Jobs
+- [ ] Podcast Show Notes That Drive Downloads
+
+### Tier 3 SEO Posts (4 posts) - Paused
 - [ ] "why clients don't value copy"
 - [ ] "copywriting career plateau"
 - [ ] "why best practices don't convert"
@@ -143,7 +170,6 @@ All 13 batches published. Next steps:
 - [ ] Audit and generate missing images (~29)
 
 ### Additional Hub Pages
-- [ ] Copywriting Frameworks hub
 - [ ] Industry-specific hubs (healthcare, home services, etc.)
 
 ### Conversion Optimization
@@ -162,4 +188,4 @@ All 13 batches published. Next steps:
 
 ---
 
-*Last updated: 2025-01-25 (Session 21 - Hub pages, Guru Batches 9-10, CTA Psychology cluster complete)*
+*Last updated: 2025-01-26 (Session 22 - Added Copywriting Frameworks & Email hubs, Platform-Specific content plan)*

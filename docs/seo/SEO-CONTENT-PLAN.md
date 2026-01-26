@@ -1392,7 +1392,124 @@ conversion-focused writing, audience building, funnels, email, SEO, and monetiza
 
 ---
 
-*Document version: 2.2*
-*Last updated: 2025-01-24*
+## 15) Platform-Specific Copywriting Content
+
+### Purpose
+Platform-specific content targets writers and marketers who need copy tailored to specific channels. These are underserved keywords with high commercial intent—people actively looking to improve their copy on specific platforms.
+
+### Priority Platforms
+
+#### LinkedIn
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| LinkedIn Post Copywriting That Gets Clients | MOFU | High intent for B2B freelancers/consultants |
+| LinkedIn Headline Formulas That Get Clicks | TOFU | Tactical, shareable |
+| LinkedIn About Section Copy That Converts | MOFU | Profile optimization |
+| LinkedIn DM Scripts That Get Responses | MOFU | Cold outreach angle |
+| LinkedIn Article vs Post: When to Use Each | TOFU | Comparison |
+| LinkedIn Carousel Copywriting That Drives Engagement | MOFU | Format-specific |
+
+#### YouTube
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| YouTube Description Copy That Ranks and Converts | MOFU | SEO + conversion angle |
+| YouTube Title Formulas That Get Clicks | TOFU | Hook formulas applied |
+| How to Write YouTube Scripts That Keep Viewers Watching | MOFU | Retention copywriting |
+| YouTube Thumbnail Text That Stops the Scroll | TOFU | Visual copy |
+| YouTube Community Post Copy That Drives Engagement | TOFU | Underserved topic |
+
+#### Twitter/X
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| Twitter Thread Copywriting That Goes Viral | MOFU | Thread structure |
+| Twitter Bio Copy That Gets Followers | TOFU | Profile optimization |
+| Twitter Hook Formulas That Stop the Scroll | TOFU | First-line psychology |
+| How to Write Twitter Threads That Sell | MOFU | Monetization angle |
+
+#### Substack / Newsletters
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| Substack About Page Copy That Converts Subscribers | MOFU | Platform-specific |
+| Newsletter Welcome Email Copywriting | MOFU | Ties to email hub |
+| Substack vs ConvertKit: Copywriting Differences | TOFU | Comparison |
+| How to Write Newsletter CTAs That Convert | MOFU | Monetization |
+
+#### Podcast
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| Podcast Show Notes That Drive Downloads | MOFU | SEO + conversion |
+| Podcast Episode Titles That Get Clicks | TOFU | Headline formulas applied |
+| How to Write Podcast Intros That Hook Listeners | MOFU | Audio copywriting |
+| Podcast Description Copy That Converts | MOFU | Platform optimization |
+
+#### Other Platforms
+| Post Title | Intent | Notes |
+|------------|--------|-------|
+| Amazon Product Description Copywriting | MOFU | E-commerce angle |
+| Etsy Listing Copy That Sells | MOFU | Niche e-commerce |
+| Upwork Proposal Copywriting That Wins Jobs | MOFU | Freelancer audience |
+| Fiverr Gig Description Copy That Converts | MOFU | Freelancer audience |
+| Medium Article Headlines That Get Curated | TOFU | Platform algorithm |
+| TikTok Caption Copywriting That Drives Action | TOFU | Short-form |
+| Instagram Bio Copy That Converts Followers | TOFU | Profile optimization |
+| Instagram Caption Copywriting That Sells | MOFU | Social selling |
+
+### Content Guidelines for Platform Posts
+
+**Structure:**
+1. Platform-specific context (algorithm, audience behavior)
+2. Copywriting principles applied to that format
+3. Templates/formulas specific to the platform
+4. Examples (real or created)
+5. Common mistakes to avoid
+6. CTA to /free-training
+
+**Internal Linking:**
+- Link to relevant framework posts (AIDA, PAS, Hook-Story-Offer)
+- Link to headline/CTA posts where applicable
+- Link to /free-training (end CTA)
+- Link to /blogs-that-sell (contextual)
+
+**Scale Potential:** 40-60 pages
+
+---
+
+## 16) Future Content Angles (Backlog)
+
+These content angles are documented for future consideration:
+
+### Teardowns & Case Studies
+- Analyze real sales pages, emails, and blog posts
+- "I Analyzed 10 SaaS Landing Pages—Here's What Converts"
+- "Why This $100M Sales Letter Still Works"
+- High engagement, shareable content
+
+### Before/After Transformations
+- Show bad copy → good copy with explanations
+- "I Rewrote This Landing Page—Conversions Jumped 47%"
+- Extremely practical, proof-driven
+
+### Business of Copywriting
+- Pricing, finding clients, positioning
+- Appeals to freelancer audience
+- "How to Price Copywriting Services"
+- "Finding High-Paying Copywriting Clients"
+
+### Psychology Deep Dives
+- Go beyond frameworks into underlying principles
+- "The 7 Cognitive Biases Every Copywriter Exploits"
+- "Loss Aversion in Copy: A Complete Guide"
+- Educational, authority-building
+
+### Mega-Pillars by Audience
+- Comprehensive 5,000+ word guides for specific niches
+- "The Complete Copywriting Guide for Coaches"
+- "B2B SaaS Copywriting: The Definitive Guide"
+- High authority, link magnets
+
+---
+
+*Document version: 2.3*
+*Last updated: 2025-01-26*
 *Owner: Content Team*
 *Scale Target: 1,000+ pages*
