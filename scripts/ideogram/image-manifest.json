@@ -1534,6 +1534,11 @@
       "slug": "blog-traffic-vs-conversion-hero",
       "concept": "wide funnel with massive traffic flowing in but only tiny trickle converting at bottom versus narrow funnel with less traffic but much higher conversion percentage, leaky bucket metaphor, strategic marketing visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-consistency-myth-hero",
+      "concept": "calendar filled with checkmarks showing consistent blog publishing schedule but flatline analytics graph beside it showing no results growth, organized failure visualization, consistent effort without strategic direction",
+      "category": "blog"
     }
   ]
 }
