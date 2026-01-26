@@ -1864,6 +1864,21 @@
       "slug": "blog-copy-reduces-refunds-hero",
       "concept": "Happy customer completing onboarding checklist with decreasing refund rate graph and rising customer satisfaction metrics in background",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copy-gets-referrals-hero",
+      "concept": "Network of connected customers sharing referrals with new leads flowing in through word of mouth, business growth visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copy-upsells-hero",
+      "concept": "Checkout page showing upsell offers with increasing order value indicator and add to cart buttons, ecommerce success",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copy-wins-back-hero",
+      "concept": "Customer returning through welcoming door with re-engagement email visible on laptop screen, win-back campaign success",
+      "category": "blog"
     }
   ]
 }
