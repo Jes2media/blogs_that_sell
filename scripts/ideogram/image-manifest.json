@@ -1549,6 +1549,11 @@
       "slug": "blog-content-cost-hero",
       "concept": "calculator or accounting ledger showing true costs of blog content adding up with time hours and lost revenue and opportunity cost columns totaling surprising high amount, hidden expense revelation",
       "category": "blog"
+    },
+    {
+      "slug": "blog-good-enough-price-hero",
+      "concept": "two diverging paths visualization showing good enough path with small steady losses accumulating versus optimized path with compounding gains growing larger, mediocrity tax concept",
+      "category": "blog"
     }
   ]
 }
