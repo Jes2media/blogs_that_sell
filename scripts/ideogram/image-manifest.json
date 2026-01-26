@@ -1559,6 +1559,11 @@
       "slug": "blog-waiting-cost-hero",
       "concept": "hourglass with money and dollar bills flowing out as sand falls, each grain representing lost leads and revenue while waiting to take action, urgency and delay cost visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-fix-first-hero",
+      "concept": "prioritized numbered checklist showing order of blog fixes from most impactful at top to least at bottom, triage approach to optimization, strategic priority visualization",
+      "category": "blog"
     }
   ]
 }
