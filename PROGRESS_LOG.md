@@ -1,5 +1,84 @@
 # Progress Log
 
+## 2025-01-25 (Session 20) - BOFU-Adjacent Clusters Complete: 12 More Articles
+
+### UI Change
+- Removed visible dates from all blog posts and blog listing page
+- Dates preserved in frontmatter (sorting) and JSON-LD (SEO)
+
+### Belief Shift Cluster (3 articles)
+1. **You Don't Need More Traffic (You Need Better Conversion)**
+   - Challenges traffic-first thinking
+   - Math comparison: doubling traffic vs doubling conversion
+   - When traffic IS actually the problem
+
+2. **Why Consistency Alone Won't Save Your Blog**
+   - Consistency is multiplier, not strategy
+   - Math of consistent failure
+   - The strategic foundation needed first
+
+3. **The Myth of 'Just Write More Content'**
+   - Volume illusion and broken assumption chains
+   - True costs of "write more" advice
+   - Volume-to-value mindset shift
+
+### Risk/Cost of Inaction Cluster (3 articles)
+4. **What Non-Converting Content Actually Costs You**
+   - 7 hidden costs (lost revenue, time, opportunity, compounding failure, psychological, brand, technical debt)
+   - Total cost calculation: $71K+/year
+   - Break-even calculation framework
+
+5. **The Hidden Price of 'Good Enough' Blog Posts**
+   - The mediocrity tax (compounding small losses)
+   - 3-year projection: $100K+ gap
+   - 80/20 of content optimization
+
+6. **Why Waiting to Fix Your Blog Is Your Most Expensive Decision**
+   - Delay tax: $3-5K/month
+   - The "after this" fallacy
+   - When waiting actually makes sense
+
+### Quick Wins vs. Systems Cluster (3 articles)
+7. **What to Fix First When Your Blog Isn't Converting**
+   - 6-level priority order for fixes
+   - Anti-priorities (what NOT to fix first)
+   - 80/20 summary
+
+8. **Quick Wins vs. Long-Term Fixes: Where to Start**
+   - Framework: quick wins that enable systems
+   - Sequencing principle
+   - Catalogs of quick wins and long-term fixes
+
+9. **The Minimum Viable Blog System**
+   - 5 essential components
+   - System flow diagram
+   - What NOT to build yet
+
+### Readiness/Timing Cluster (3 articles)
+10. **Signs You're Ready for a Content System**
+    - 8 readiness indicators
+    - Signs you're NOT ready
+    - Scoring assessment (0-16)
+
+11. **When Is the Right Time to Systematize Your Blog?**
+    - Too early vs too late indicators
+    - The optimal window (5 conditions)
+    - Timing by business stage
+
+12. **How Long Before a Content System Pays Off?**
+    - Investment curve (5 phases)
+    - Realistic timeline breakdown
+    - The patience window (weeks 3-8)
+
+### Hero Images Generated
+- 12 new hero images via Ideogram API
+
+### Site Totals
+- **Total blog posts:** 340 (328 + 12 new)
+- **Total pages:** 352
+
+---
+
 ## 2025-01-25 (Session 19) - BOFU-Adjacent Content: 12 Long-Form Articles
 
 ### SEO Tier 2 & 3 Final Posts (2)

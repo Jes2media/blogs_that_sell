@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 328 Blog Posts
+## Current Status: 340 Blog Posts
 
-**Total site pages: 340** (328 blog posts + 12 static pages)
+**Total site pages: 352** (340 blog posts + 12 static pages)
 
 ---
 
@@ -203,7 +203,7 @@
 
 ## ✅ BOFU-Adjacent Content - COMPLETE
 
-### 12 Long-Form Articles Targeting Near-Conversion Readers
+### 24 Long-Form Articles Targeting Near-Conversion Readers
 
 | Cluster | Articles | Status |
 |---------|----------|--------|
@@ -211,8 +211,12 @@
 | Transformation/Results | DR Blog Transformation, Expensive Hobbies, 0.3% to 4.2% | ✅ COMPLETE |
 | Objection-Handling | Need a System?, Templates Authentic, Figure It Out Myself | ✅ COMPLETE |
 | Comparison/Alternative | CM vs DR Blogging, Hiring Copywriter, SEO vs Conversion | ✅ COMPLETE |
+| Belief Shift | Don't Need More Traffic, Consistency Won't Save You, Myth of Write More | ✅ COMPLETE |
+| Risk/Cost of Inaction | Non-Converting Content Costs, Hidden Price of Good Enough, Waiting Is Expensive | ✅ COMPLETE |
+| Quick Wins vs. Systems | What to Fix First, Quick Wins vs Long-Term, Minimum Viable Blog System | ✅ COMPLETE |
+| Readiness/Timing | Signs You're Ready, When to Systematize, How Long Before Payoff | ✅ COMPLETE |
 
-All 12 articles published with hero images.
+All 24 articles published with hero images.
 
 ---
 
@@ -364,4 +368,4 @@ All 12 articles published with hero images.
 
 ---
 
-*Last updated: 2025-01-25 (Session 19 - BOFU-Adjacent COMPLETE: 12 articles, 328 blog posts)*
+*Last updated: 2025-01-25 (Session 20 - BOFU-Adjacent Expanded: 24 articles total, 340 blog posts)*
