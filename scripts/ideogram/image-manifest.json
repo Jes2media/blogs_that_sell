@@ -1564,6 +1564,11 @@
       "slug": "blog-fix-first-hero",
       "concept": "prioritized numbered checklist showing order of blog fixes from most impactful at top to least at bottom, triage approach to optimization, strategic priority visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-quick-vs-long-hero",
+      "concept": "two paths diverging showing quick wins path with immediate small results sprouting versus long-term path with larger results growing over time, strategic choice between speed and sustainability",
+      "category": "blog"
     }
   ]
 }
