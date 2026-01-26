@@ -1584,6 +1584,11 @@
       "slug": "blog-right-time-hero",
       "concept": "timeline showing optimal window zone between too early and too late regions for systematization, timing and decision window visualization, strategic planning",
       "category": "blog"
+    },
+    {
+      "slug": "blog-payoff-timeline-hero",
+      "concept": "investment curve timeline showing initial investment period followed by break-even point and then rising compounding returns, ROI and payoff visualization",
+      "category": "blog"
     }
   ]
 }
