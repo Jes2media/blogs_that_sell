@@ -1939,6 +1939,26 @@
       "slug": "blog-copywriting-saas-landing",
       "concept": "SaaS landing page A/B test results showing conversion improvements from copy changes, analytics dashboard, marketing optimization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-ecommerce-hero",
+      "concept": "E-commerce marketer reviewing product pages and conversion metrics on laptop with shopping cart analytics visible, modern workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-ecommerce-research",
+      "concept": "E-commerce marketer analyzing customer reviews and feedback on screen to inform product copy strategy, research session",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-ecommerce-email",
+      "concept": "E-commerce email marketing dashboard showing abandoned cart recovery rates and email sequence performance metrics",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-ecommerce-voice",
+      "concept": "E-commerce brand developing voice guidelines and tone documentation for consistent copy across channels, brand strategy",
+      "category": "blog"
     }
   ]
 }
