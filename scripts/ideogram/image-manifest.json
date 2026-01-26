@@ -1879,6 +1879,26 @@
       "slug": "blog-copy-wins-back-hero",
       "concept": "Customer returning through welcoming door with re-engagement email visible on laptop screen, win-back campaign success",
       "category": "blog"
+    },
+    {
+      "slug": "blog-clients-dont-value-copy-hero",
+      "concept": "Frustrated copywriter showing results document while client ignores it and focuses on design mockups, undervalued creative work",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-career-plateau-hero",
+      "concept": "Copywriter at desk looking frustrated with growth chart showing flatline then breakthrough arrow pointing up, career growth",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-best-practices-dont-convert-hero",
+      "concept": "Checklist of best practices all checked off but conversion rate dashboard showing zero results, ironic failure",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-formulas-hurt-copy-hero",
+      "concept": "Copywriter trapped inside rigid formula template box trying to break free and be creative, breaking constraints",
+      "category": "blog"
     }
   ]
 }
