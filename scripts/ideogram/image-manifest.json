@@ -1959,6 +1959,26 @@
       "slug": "blog-copywriting-ecommerce-voice",
       "concept": "E-commerce brand developing voice guidelines and tone documentation for consistent copy across channels, brand strategy",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-profservices-hero",
+      "concept": "Professional services partner reviewing client proposal and marketing materials in modern office with credentials and awards visible",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-profservices-positioning",
+      "concept": "Professional services firm developing positioning strategy with ideal client profiles and specialization mapping on whiteboard",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-profservices-proposal",
+      "concept": "Professional services proposal document being reviewed with fee structure and engagement terms visible on desk, business meeting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-profservices-content",
+      "concept": "Professional services team developing website and thought leadership content strategy, marketing planning session",
+      "category": "blog"
     }
   ]
 }
