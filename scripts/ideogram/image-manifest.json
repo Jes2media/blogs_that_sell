@@ -1634,6 +1634,21 @@
       "slug": "blog-stephen-hockman-hero",
       "concept": "complex technical SEO concepts being translated into simple clear explanations, bridge between expert jargon and beginner understanding, accessibility visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-nikolas-vogt-hero",
+      "concept": "sustainable business growth shown as steady upward trajectory compared to volatile spikes and crashes, long-term consistent scaling visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-sally-farrant-hero",
+      "concept": "business dashboard with key performance metrics and growth indicators, data-driven decision making with charts and clear numbers visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-jenna-dancy-hero",
+      "concept": "automated business funnels running on autopilot while entrepreneur enjoys freedom and flexibility, work-life balance and passive income visualization",
+      "category": "blog"
     }
   ]
 }
