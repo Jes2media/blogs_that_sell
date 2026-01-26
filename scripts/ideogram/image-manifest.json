@@ -1579,6 +1579,11 @@
       "slug": "blog-ready-signs-hero",
       "concept": "checklist assessment with several boxes checked indicating readiness for content system, self-evaluation of timing and preparedness, diagnostic visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-right-time-hero",
+      "concept": "timeline showing optimal window zone between too early and too late regions for systematization, timing and decision window visualization, strategic planning",
+      "category": "blog"
     }
   ]
 }
