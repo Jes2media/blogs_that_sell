@@ -1679,6 +1679,21 @@
       "slug": "blog-dickie-bush-hero",
       "concept": "writer publishing consistently with calendar showing daily streak of completed work, atomic essays and compound content creation building over time",
       "category": "blog"
+    },
+    {
+      "slug": "blog-soft-hard-cta-hero",
+      "concept": "two contrasting paths - one gentle winding invitation, one direct bold arrow - representing soft and hard call-to-action approaches in marketing",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cta-quantity-hero",
+      "concept": "web page layout showing strategic CTA button placement at multiple decision points throughout the content, conversion optimization visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-urgency-doesnt-work-hero",
+      "concept": "overused countdown timer being ignored by skeptical consumer scrolling past, fake urgency fatigue and marketing distrust visualization",
+      "category": "blog"
     }
   ]
 }
