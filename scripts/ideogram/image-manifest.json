@@ -1619,6 +1619,21 @@
       "slug": "blog-evan-fisher-hero",
       "concept": "freelancer with sharp focused positioning represented by single arrow hitting target bullseye, lean minimal approach versus scattered unfocused arrows missing targets",
       "category": "blog"
+    },
+    {
+      "slug": "blog-mark-grasse-hero",
+      "concept": "creative content meeting performance metrics, artistic brand elements merging with data dashboards and conversion charts, art and science balance",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-kyle-roof-hero",
+      "concept": "SEO testing laboratory with A/B experiments, data charts comparing control versus test results, scientific method applied to search optimization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-stephen-hockman-hero",
+      "concept": "complex technical SEO concepts being translated into simple clear explanations, bridge between expert jargon and beginner understanding, accessibility visualization",
+      "category": "blog"
     }
   ]
 }
