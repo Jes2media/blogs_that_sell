@@ -1604,6 +1604,21 @@
       "slug": "blog-editing-ai-copy-hero",
       "concept": "side-by-side comparison of raw AI draft and polished final copy with editor's marks showing the transformation, before and after editing process, quality improvement visualization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-bozena-k-hero",
+      "concept": "marketing mentor guiding students through hands-on implementation at whiteboard, collaborative learning environment with active participation, mentorship and practical application",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-lauren-apple-hero",
+      "concept": "interconnected business systems and processes visualized as gears and flowcharts creating efficient automated workflow, systematization for scale",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-evan-fisher-hero",
+      "concept": "freelancer with sharp focused positioning represented by single arrow hitting target bullseye, lean minimal approach versus scattered unfocused arrows missing targets",
+      "category": "blog"
     }
   ]
 }
