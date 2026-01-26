@@ -1809,6 +1809,26 @@
       "slug": "blog-podcast-description-hero",
       "concept": "Podcast show description in Apple Podcasts interface with compelling copy and subscribe button highlighted, app store optimization",
       "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-coaches-hero",
+      "concept": "Life coach at laptop writing compelling copy with client testimonials and booking notifications visible on screen, modern home office, success",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-coaches-research",
+      "concept": "Coach researching ideal clients with notes testimonials and client language mapping spread across desk, strategic planning, warm workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-coaches-email",
+      "concept": "Coach writing email sequence on laptop with email marketing dashboard showing high open rates, professional workspace, marketing success",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-copywriting-coaches-session",
+      "concept": "Coach in session with engaged client, transformation results and success metrics visible in background, warm professional setting",
+      "category": "blog"
     }
   ]
 }
