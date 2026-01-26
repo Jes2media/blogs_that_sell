@@ -1539,6 +1539,11 @@
       "slug": "blog-consistency-myth-hero",
       "concept": "calendar filled with checkmarks showing consistent blog publishing schedule but flatline analytics graph beside it showing no results growth, organized failure visualization, consistent effort without strategic direction",
       "category": "blog"
+    },
+    {
+      "slug": "blog-more-content-myth-hero",
+      "concept": "towering pile of blog posts and articles stacking higher and higher but results meter gauge stuck at zero, quantity without quality or strategy, volume producing nothing",
+      "category": "blog"
     }
   ]
 }
