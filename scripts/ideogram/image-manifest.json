@@ -1554,6 +1554,11 @@
       "slug": "blog-good-enough-price-hero",
       "concept": "two diverging paths visualization showing good enough path with small steady losses accumulating versus optimized path with compounding gains growing larger, mediocrity tax concept",
       "category": "blog"
+    },
+    {
+      "slug": "blog-waiting-cost-hero",
+      "concept": "hourglass with money and dollar bills flowing out as sand falls, each grain representing lost leads and revenue while waiting to take action, urgency and delay cost visualization",
+      "category": "blog"
     }
   ]
 }
