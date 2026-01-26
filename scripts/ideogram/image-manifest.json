@@ -1744,6 +1744,31 @@
       "slug": "blog-linkedin-carousel-copywriting-hero",
       "concept": "LinkedIn carousel document with engaging slide design showing high engagement metrics save notifications and shares, visual content marketing success",
       "category": "blog"
+    },
+    {
+      "slug": "blog-youtube-description-copy-hero",
+      "concept": "YouTube video description being edited with SEO keywords highlighted and call-to-action links visible, video marketing optimization, content creator workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtube-title-formulas-hero",
+      "concept": "YouTube video title being edited with high CTR metrics displayed showing successful headline formula, video marketing success, analytics dashboard",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtube-script-writing-hero",
+      "concept": "Screenwriter working on YouTube video script with retention graph showing high engagement throughout, content creation process, professional workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtube-thumbnail-text-hero",
+      "concept": "YouTube thumbnail being designed with bold readable text and high contrast colors, graphic design for video marketing, creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-youtube-community-post-hero",
+      "concept": "YouTube Community tab interface showing engaging post with high likes comments and poll participation, community engagement success, social platform",
+      "category": "blog"
     }
   ]
 }
