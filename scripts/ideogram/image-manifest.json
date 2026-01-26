@@ -1664,6 +1664,21 @@
       "slug": "blog-nora-schlesinger-hero",
       "concept": "content marketing strategy with organic traffic growth charts climbing steadily over time, SEO-driven content compounding and building sustainable traffic",
       "category": "blog"
+    },
+    {
+      "slug": "blog-chris-orzechowski-hero",
+      "concept": "email marketing sequences showing customer journey from first purchase to repeat buyer, retention revenue and customer lifetime value visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-amanda-natividad-hero",
+      "concept": "audience research dashboard with demographic insights and content preferences, understanding your readers through data and behavioral analysis",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-dickie-bush-hero",
+      "concept": "writer publishing consistently with calendar showing daily streak of completed work, atomic essays and compound content creation building over time",
+      "category": "blog"
     }
   ]
 }
