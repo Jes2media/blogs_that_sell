@@ -1789,6 +1789,26 @@
       "slug": "blog-newsletter-ctas-hero",
       "concept": "Newsletter email with highlighted call-to-action button showing high click-through rate and engagement metrics, email marketing success",
       "category": "blog"
+    },
+    {
+      "slug": "blog-podcast-show-notes-hero",
+      "concept": "Podcast show notes page with timestamps key takeaways and resource links driving listener engagement, content organization, podcasting workflow",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-podcast-episode-titles-hero",
+      "concept": "Podcast episode list showing compelling titles with high download counts and play button engagement, podcast app interface, content discovery",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-podcast-intros-hero",
+      "concept": "Podcast recording session with script showing compelling intro hook and listener retention graph trending upward, professional studio",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-podcast-description-hero",
+      "concept": "Podcast show description in Apple Podcasts interface with compelling copy and subscribe button highlighted, app store optimization",
+      "category": "blog"
     }
   ]
 }
