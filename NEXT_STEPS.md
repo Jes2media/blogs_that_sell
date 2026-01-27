@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 519 Pages
+## Current Status: 532 Pages
 
-**Total site pages: 519** (306 regular blog + 192 programmatic + 21 static/hub pages)
+**Total site pages: 532** (319 regular blog + 192 programmatic + 21 static/hub pages)
 
 ---
 
@@ -48,14 +48,27 @@ All differentiation/contrarian content complete:
 
 ---
 
-## ✅ Copy by Goal Content - COMPLETE (6 posts)
+## ✅ Copy by Goal Content - COMPLETE (16 posts)
 
+**Original 6:**
 - [x] Copy That Books Calls
 - [x] Copy That Gets Replies
 - [x] Copy That Reduces Refunds
 - [x] Copy That Gets Referrals
 - [x] Copy That Upsells
 - [x] Copy That Wins Back Customers
+
+**Expanded 10 (Session 27):**
+- [x] Copy That Qualifies Leads
+- [x] Copy That Builds Trust
+- [x] Copy That Handles Objections
+- [x] Copy That Creates Urgency
+- [x] Copy That Justifies Premium Prices
+- [x] Copy That Differentiates
+- [x] Copy That Nurtures
+- [x] Copy That Pre-Sells
+- [x] Copy That Retains Customers
+- [x] Copy That Gets Shared
 
 ---
 
@@ -93,6 +106,24 @@ All differentiation/contrarian content complete:
 
 ---
 
+## 🔄 Mistakes/Myths Cluster - IN PROGRESS (3 of 10)
+
+**Industry-Specific Mistakes (3 of 5 done):**
+- [x] SaaS Copywriting Mistakes
+- [x] Coach Copywriting Mistakes
+- [x] Consultant Copywriting Mistakes
+- [ ] E-commerce Copywriting Mistakes
+- [ ] Service Business Copywriting Mistakes
+
+**Format/Channel Myths (0 of 5 done):**
+- [ ] Homepage Copywriting Myths
+- [ ] Email Copywriting Myths
+- [ ] Landing Page Myths
+- [ ] Headline Myths
+- [ ] Blog Copywriting Myths
+
+---
+
 ## Remaining Priorities
 
 ### 1. Content Optimization
@@ -117,7 +148,7 @@ All differentiation/contrarian content complete:
 | Guru Posts | 50 | ✅ Complete |
 | BOFU-Adjacent | 24 | ✅ Complete |
 | Platform-Specific | 19 | ✅ Complete |
-| Copy by Goal | 6 | ✅ Complete |
+| Copy by Goal | 16 | ✅ Complete |
 | Mega Pillars | 6 | ✅ Complete |
 | Psychology Deep Dives | 6 | ✅ Complete |
 | Industry Hub Pages | 3 | ✅ Complete |
@@ -125,6 +156,7 @@ All differentiation/contrarian content complete:
 | Cold Email Cluster | 4 | ✅ Complete |
 | CTA Psychology | 3 | ✅ Complete |
 | AI Copy Content | 3 | ✅ Complete |
+| Mistakes/Myths Cluster | 3 | 🔄 In Progress (3/10) |
 
 ---
 
@@ -135,4 +167,4 @@ All differentiation/contrarian content complete:
 
 ---
 
-*Last updated: 2025-01-26 (Session 26 - 52 new programmatic pages, 10 new niches, 519 pages)*
+*Last updated: 2025-01-27 (Session 27 - 10 "Copy That [Goal]" posts + 3 Mistakes posts, 532 pages)*

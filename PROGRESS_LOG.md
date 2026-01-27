@@ -1,5 +1,85 @@
 # Progress Log
 
+## 2025-01-27 (Session 27) - Copy by Goal Cluster Expansion: 10 New Posts
+
+### "Copy That [Goal]" Cluster (10 articles)
+
+Expanded the Copy by Goal cluster from 6 to 16 posts. Each post is ~3,000 words MOFU content with templates, formulas, and patterns.
+
+**Batch 1:**
+1. **Copy That Qualifies Leads**
+   - 7 qualification mechanisms
+   - Copy patterns for pre-qualifying
+   - "This Is For/Not For" templates
+
+2. **Copy That Builds Trust**
+   - 9 trust signals
+   - Trust-building page structure
+   - What kills trust instantly
+
+3. **Copy That Handles Objections**
+   - 5 universal objections
+   - 6 objection-handling copy patterns
+   - Objection hierarchy (weak to strong)
+
+**Batch 2:**
+4. **Copy That Creates Urgency**
+   - 7 types of legitimate urgency
+   - Ethical urgency vs fake scarcity
+   - Ethical urgency checklist
+
+5. **Copy That Justifies Premium Prices**
+   - 8 value-justification techniques
+   - Price anchoring strategies
+   - ROI and cost-of-problem framing
+
+6. **Copy That Differentiates**
+   - 4 levels of differentiation
+   - 7 differentiation strategies
+   - Unique mechanism creation
+
+**Batch 3:**
+7. **Copy That Nurtures**
+   - 5 nurture stages
+   - 6 nurture email patterns
+   - Content engine for nurture
+
+8. **Copy That Pre-Sells**
+   - 5 pre-sell beliefs
+   - Indoctrination principle
+   - Pre-sell content types
+
+9. **Copy That Retains Customers**
+   - 4 retention phases
+   - Onboarding sequences
+   - Re-engagement templates
+
+**Batch 4:**
+10. **Copy That Gets Shared**
+    - 7 shareable copy elements
+    - Share trigger formula
+    - Referral triggers
+
+### Mistakes/Myths Cluster (3 of 10 articles - in progress)
+
+**Industry-Specific Mistakes:**
+1. **SaaS Copywriting Mistakes**
+   - 7 mistakes: features vs outcomes, jargon, feature dumps, no urgency, weak CTAs, writing for everyone, no humanity
+
+2. **Coach Copywriting Mistakes**
+   - 7 mistakes: vague positioning, credential-heavy, process over transformation, weak social proof, no clear CTA, self-focused, no specificity
+
+3. **Consultant Copywriting Mistakes**
+   - 7 mistakes: process over outcomes, no differentiation, self-focused, hidden pricing, generic testimonials, no POV, generic language
+
+### Site Totals
+- **Total blog posts:** 532 (519 + 13 new)
+- **Total pages:** 532
+- **Copy by Goal posts:** 16 (6 original + 10 new)
+- **Mistakes/Myths posts:** 3 (of 10 planned)
+
+---
+
 ## 2025-01-25 (Session 20) - BOFU-Adjacent Clusters Complete: 12 More Articles
 
 ### UI Change
