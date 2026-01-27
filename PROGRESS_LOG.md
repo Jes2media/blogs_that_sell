@@ -1,5 +1,50 @@
 # Progress Log
 
+## 2025-01-27 (Session 28) - Mistakes/Myths Cluster Complete: 7 New Posts
+
+### Completed Mistakes/Myths Cluster
+
+Finished the remaining 7 posts to complete the 10-post Mistakes/Myths cluster. Each post is ~2,500-3,000 words with 7 myths/mistakes, explanations of why they're wrong, and what actually works.
+
+**Industry-Specific Mistakes (2 posts):**
+
+1. **E-commerce Copywriting Mistakes**
+   - 7 mistakes: features vs benefits, "we" focus, generic descriptions, weak urgency, ignoring objections, buried social proof, treating all products the same
+   - Product page optimization focus
+
+2. **Service Business Copywriting Mistakes**
+   - 7 mistakes: process over outcome, vague descriptions, hidden pricing, no proof, jargon, missing trust signals, no clear next step
+   - Local/service business focus
+
+**Format/Channel Myths (5 posts):**
+
+3. **Homepage Copywriting Myths**
+   - 7 myths: explain everything, above the fold obsession, appeal to everyone, professional means formal, more features, generic testimonials, "wow" design
+   - Clarity over cleverness theme
+
+4. **Email Copywriting Myths**
+   - 7 myths: short subject lines, never sell, perfect send time, first name personalization, unsubscribes are failures, HTML vs plain text, long emails don't get read
+   - Relationship over rules theme
+
+5. **Landing Page Myths**
+   - 7 myths: longer always wins, remove all navigation, social proof always good, A/B test everything, benefits beat features, one CTA, copy over offer
+   - Context over rules theme
+
+6. **Headline Myths**
+   - 7 myths: numbers always win, curiosity gaps, 60 character limit, formula worship, clever over clear, keyword required, always A/B test
+   - Clarity and specificity theme
+
+7. **Blog Copywriting Myths**
+   - 7 myths: just provide value, longer ranks better, SEO-first, consistency is key, educational not salesy, magic frequency, content speaks for itself
+   - Strategy over tactics theme
+
+### Site Totals
+- **Total blog posts:** 539 (532 + 7 new)
+- **Mistakes/Myths cluster:** 10/10 complete
+- **All major content clusters now complete**
+
+---
+
 ## 2025-01-27 (Session 27) - Copy by Goal Cluster Expansion: 10 New Posts
 
 ### "Copy That [Goal]" Cluster (10 articles)
