@@ -1,8 +1,8 @@
 # Next Steps
 
-## Current Status: 461 Pages
+## Current Status: 519 Pages
 
-**Total site pages: 461** (323 regular blog + 117 programmatic + static/hub pages)
+**Total site pages: 519** (306 regular blog + 192 programmatic + 21 static/hub pages)
 
 ---
 
@@ -11,20 +11,21 @@
 ### Phase 1 Target: 100 Programmatic Pages ✅ COMPLETE
 ### Phase 2: Expanded Coverage ✅ COMPLETE
 
-**Current: 117 programmatic pages**
+**Current: 192 programmatic pages across 30 niches**
 
-Coverage by type:
-| Type | Pages |
-|------|-------|
-| Website copywriting tips | 20 |
-| Email copywriting tips | 20 |
-| Blog copywriting tips | 20 |
-| Ad copywriting tips | 13 |
-| Landing page tips | 13 |
-| Sales letter tips | 20 |
-| Sales page tips | 11 |
+Original 20 niches plus 10 new:
+- HVAC contractors
+- Electricians
+- Roofers
+- Real estate agents
+- Veterinarians
+- Wedding planners
+- Insurance agents
+- Auto repair shops
+- Pest control
+- Moving companies
 
-**Next:** Monitor Search Console, expand sales page tips if data supports.
+**Total: 192 programmatic pages** - expanded niche coverage complete.
 
 ---
 
@@ -64,12 +65,14 @@ All differentiation/contrarian content complete:
 - [x] `/marketing-experts/` - Modern practitioners
 - [x] `/copywriting-frameworks/` - AIDA, PAS, PASTOR, HSO, etc.
 - [x] `/email-copywriting-guide/` - All email-related content
+- [x] `/copywriting-for-healthcare/` - Dentists, chiropractors, therapists
+- [x] `/copywriting-for-home-services/` - HVAC, plumbers, roofers
+- [x] `/copywriting-for-professional-services/` - Lawyers, accountants, consultants
 
 ---
 
 ## ✅ Mega Pillars - COMPLETE
 
-### Completed
 - [x] Copywriting Guide for Coaches (~5,200 words + 4 images)
 - [x] Copywriting Guide for Course Creators (~5,500 words + 4 images)
 - [x] Copywriting Guide for Consultants (~5,500 words + 4 images)
@@ -79,30 +82,27 @@ All differentiation/contrarian content complete:
 
 ---
 
+## ✅ Psychology Deep Dives - COMPLETE
+
+- [x] Psychology of Storytelling in Copy (~3,200 words + 4 images)
+- [x] Cognitive Biases That Drive Buying (~3,000 words + 4 images)
+- [x] Psychology of Trust in Content (~3,200 words + 4 images)
+- [x] Psychology of Price Perception (~3,000 words + 4 images)
+- [x] Psychology of Resistance to Change (~3,000 words + 3 images)
+- [x] Emotional Triggers in Copywriting (~3,100 words + 3 images)
+
+---
+
 ## Remaining Priorities
 
-### 1. More Mega Pillars
-Create comprehensive guides for additional audiences (consultants, SaaS, ecommerce)
-
-### 2. More Programmatic Pages (optional)
-- Sales page tips: 11 → 20 pages (9 more)
-- Ad copywriting tips: 13 → 20 pages (7 more)
-- Landing page tips: 13 → 20 pages (7 more)
-
-### 3. Industry Hub Pages ✅ COMPLETE
-- [x] `/copywriting-for-healthcare/` - Dentists, chiropractors, therapists
-- [x] `/copywriting-for-home-services/` - HVAC, plumbers, roofers
-- [x] `/copywriting-for-professional-services/` - Lawyers, accountants, consultants
-
-### 4. Content Optimization
+### 1. Content Optimization
 - [ ] Add content upgrades (lead magnets) to top 10 traffic posts
 - [ ] Create downloadable templates for framework posts
 - [ ] A/B test landing page headlines
 
-### 5. Future Content Angles (Backlog)
+### 2. Future Content Angles (Backlog)
 - Teardowns & Case Studies
 - Before/After Transformations
-- Psychology Deep Dives
 - Industry-specific deep dives
 
 ---
@@ -112,13 +112,15 @@ Create comprehensive guides for additional audiences (consultants, SaaS, ecommer
 | Category | Count | Status |
 |----------|-------|--------|
 | Niche Copywriting Guides | 71 | ✅ Complete |
-| Programmatic Tips | 117 | ✅ Phase 2 Complete |
+| Programmatic Tips | 192 | ✅ Complete (30 niches × 7 types) |
 | Framework Posts | 15+ | ✅ Complete |
 | Guru Posts | 50 | ✅ Complete |
 | BOFU-Adjacent | 24 | ✅ Complete |
 | Platform-Specific | 19 | ✅ Complete |
 | Copy by Goal | 6 | ✅ Complete |
 | Mega Pillars | 6 | ✅ Complete |
+| Psychology Deep Dives | 6 | ✅ Complete |
+| Industry Hub Pages | 3 | ✅ Complete |
 | Tier 3 SEO | 4 | ✅ Complete |
 | Cold Email Cluster | 4 | ✅ Complete |
 | CTA Psychology | 3 | ✅ Complete |
@@ -133,4 +135,4 @@ Create comprehensive guides for additional audiences (consultants, SaaS, ecommer
 
 ---
 
-*Last updated: 2025-01-26 (Session 24 - Tier 3 complete, programmatic expansion, 6 mega pillars complete, 442 pages)*
+*Last updated: 2025-01-26 (Session 26 - 52 new programmatic pages, 10 new niches, 519 pages)*
