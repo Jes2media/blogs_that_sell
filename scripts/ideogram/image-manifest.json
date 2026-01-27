@@ -1979,6 +1979,116 @@
       "slug": "blog-copywriting-profservices-content",
       "concept": "Professional services team developing website and thought leadership content strategy, marketing planning session",
       "category": "blog"
+    },
+    {
+      "slug": "blog-storytelling-psychology-hero",
+      "concept": "Human brain illuminated with glowing narrative pathways connecting story elements to emotion and memory centers, neuroscience visualization, dramatic lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-storytelling-neural-coupling",
+      "concept": "Two human brains shown side by side with synchronized glowing neural activity patterns, mirroring connection between storyteller and listener, scientific visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-storytelling-transformation-arc",
+      "concept": "Visual journey diagram showing before state through struggle valley to breakthrough peak and transformed after state, story arc visualization, clean modern design",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-storytelling-tension-hooks",
+      "concept": "Writer at desk with glowing hooks pulling reader forward through narrative, open loops and curiosity gaps visualized as connecting threads, creative workspace",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cognitive-biases-hero",
+      "concept": "Human brain cross-section showing interconnected mental shortcut pathways lighting up during decision making, cognitive science visualization, professional style",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cognitive-biases-confirmation",
+      "concept": "Person viewing information through tinted filter lens that colors incoming data, confirmation bias visualization showing selective perception, conceptual illustration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cognitive-biases-loss-aversion",
+      "concept": "Balance scale showing loss weighing heavier than equivalent gain, with emotional impact visualization showing pain of losing versus pleasure of gaining, conceptual",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-cognitive-biases-framing",
+      "concept": "Same object shown in two different picture frames with dramatically different presentations and emotional impact, framing effect visualization, split comparison",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-trust-psychology-hero",
+      "concept": "Bridge forming between writer and reader through layered credibility signals and trust elements, connection visualization, warm professional lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-trust-first-impression",
+      "concept": "Reader's mind rapidly forming trust judgment within seconds of seeing content, first impression neural activity, stopwatch showing milliseconds, conceptual visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-trust-reader-focus",
+      "concept": "Balance scale comparing reader-focused content versus self-promotional content, with reader side weighing positively, trust measurement visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-trust-ladder",
+      "concept": "Ladder showing progression from attention trust at bottom through content trust and relationship trust to transaction trust at top, ascending levels visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-price-psychology-hero",
+      "concept": "Price tags with different psychological impacts showing how framing changes perception, $997 versus $1000 comparison, buyer psychology visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-price-anchoring",
+      "concept": "Heavy anchor weight pulling price perception toward initial reference point, anchoring effect visualization, numbers floating around anchor, conceptual illustration",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-price-framing",
+      "concept": "Same price displayed three different ways with different emotional impact, daily versus monthly versus yearly framing, split comparison visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-price-quality-signal",
+      "concept": "Price tag positioned as quality signal in buyer's mind, premium price creating perception of premium quality, psychology visualization, professional style",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-resistance-psychology-hero",
+      "concept": "Person standing at crossroads between comfort zone bubble and growth path, with invisible psychological barriers represented as glass walls, conceptual visualization",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-resistance-status-quo",
+      "concept": "Person comfortable inside protective status quo bubble while better opportunities float outside, comfort versus growth visualization, warm lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-resistance-past-failure",
+      "concept": "Person with wall of past failed attempts behind them, now seeing new approach illuminated differently, learning from failure visualization, hopeful mood",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-emotional-triggers-hero",
+      "concept": "Human brain with four distinct emotional pathways lighting up representing fear desire pride and guilt as decision drivers, neuroscience visualization, dramatic lighting",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-emotional-triggers-pathways",
+      "concept": "Four arrows pointing different directions labeled with emotional motivations, fear pointing away desire pointing toward pride pointing up guilt pointing to correction, conceptual diagram",
+      "category": "blog"
+    },
+    {
+      "slug": "blog-emotional-triggers-desire-bridge",
+      "concept": "Glowing bridge of desire connecting current state island to aspirational future island, motivation visualization, warm hopeful lighting, conceptual illustration",
+      "category": "blog"
     }
   ]
 }
