@@ -13,6 +13,11 @@ const blog = defineCollection({
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
     programmatic: z.boolean().default(false),
+    // Extended fields for generated content (from /teardown and /operator-post commands)
+    post_type: z.enum(['teardown', 'operator']).optional(),
+    audience: z.enum(['copywriter', 'operator']).optional(),
+    batch: z.string().optional(),         // Format: YYYY-MM
+    prompt_version: z.string().optional(), // Command version used
   }),
 });
 
