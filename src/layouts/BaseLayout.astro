@@ -12,10 +12,13 @@ interface Props {
   jsonLd?: object;
 }
 
+// Strip trailing slashes from canonical URL to prevent duplicate indexing
+const normalizePathname = (pathname: string) => pathname.replace(/\/+$/, '') || '/';
+
 const {
   title,
   description,
-  canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
+  canonicalURL = new URL(normalizePathname(Astro.url.pathname), Astro.site).href,
   ogImage = '/og-default.png',
   noindex = false,
   jsonLd,

@@ -1,0 +1,3 @@
+# Redirect trailing slashes to non-trailing slash (301 permanent)
+# This prevents duplicate URL indexing in Google Search Console
+/*/ /:splat 301!
