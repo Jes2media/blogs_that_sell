@@ -41,9 +41,11 @@ Show a complete example applying the framework. This means:
 
 If you cannot write a concrete, realistic example, insert:
 ```
-<!-- JOHN: worked example needed -->
+{/* JOHN: worked example needed */}
 ```
 And stop. Do not write placeholder descriptions.
+
+**MDX syntax note:** Use `{/* comment */}` not `<!-- comment -->` for comments in MDX files. Also avoid `<` and `>` symbols in table cells (use "Under" and "Over" instead).
 
 ### 5. When NOT to Use This
 **CRITICAL: This section is the single differentiator from competing pages. Never omit it.**

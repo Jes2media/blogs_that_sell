@@ -55,10 +55,12 @@ Where benchmarks are known, state them clearly:
 
 **If a benchmark is needed but you don't have reliable data, insert:**
 ```
-<!-- JOHN: benchmark needed - [what benchmark is missing] -->
+{/* JOHN: benchmark needed - [what benchmark is missing] */}
 ```
 
 Do not invent numbers. Stop and mark what's needed.
+
+**MDX syntax note:** Use `{/* comment */}` not `<!-- comment -->` for comments in MDX files. Also avoid `<` and `>` symbols in table cells (use "Under" and "Over" instead).
 
 ### 4. The Fix (Prioritized)
 Give operators a prioritized action plan:
