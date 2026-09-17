@@ -1,5 +1,149 @@
 # Progress Log
 
+## 2026-09-17 (Session 30) - Operator Email Marketing Cluster: 5 Posts
+
+### New Content Production System
+
+Set up `.claude/` infrastructure for content production:
+- Updated `CLAUDE.md` with site context, audiences, and quality rules
+- Created `/teardown` command for copywriter framework teardowns
+- Created `/operator-post` command for operator diagnostic posts
+- Created `/cohort-report` command for GSC analysis
+- Installed blog-post-writer skill (5-stage pipeline)
+
+### Operator Email Marketing Posts (5)
+
+Created 5 long-form diagnostic posts targeting coaches/operators with info products and large email lists:
+
+1. **What's Your Email List Actually Worth? Revenue Per Subscriber Benchmarks**
+   - Revenue attribution framework
+   - Benchmarks: $1-3/month for active lists (cited from BS&Co, GetResponse, Omnisend)
+   - Diagnostic for underperforming lists
+
+2. **Your Welcome Sequence Converts at 2%. Here's the Diagnostic.**
+   - 5 failure modes: no offer, wrong offer, too short, deliverability, lead magnet mismatch
+   - Industry benchmark: 5-8% welcome conversion
+   - Step-by-step diagnostic process
+
+3. **When Reactivating Dead Subscribers Makes Money (And When It's a Waste)**
+   - Cost-benefit framework for reactivation campaigns
+   - ROI math: 10-20% reactivation rates, 7:1 potential ROI
+   - Decision framework by inactivity duration and source quality
+
+4. **The Point of Diminishing Returns: How Many Launch Emails Is Too Many**
+   - Diminishing returns curve for launch sequences
+   - 7-email framework: 2 pre-launch, 3 launch window, 2 close
+   - Metrics: unsubscribe rate, open rate trajectory, revenue per email
+
+5. **Your Open Rates Dropped 30%. Here's What Actually Happened.**
+   - 2025-2026 Gmail/Yahoo changes (algorithmic Promotions tab, reduced prefetching)
+   - 5-step diagnostic: check clicks, segment by provider, Postmaster Tools, sending patterns, inbox placement
+   - Five root causes: engagement dilution, suppression failure, volume creep, deliverability degradation, lifecycle misalignment
+
+6. **What's Your Email List Actually Worth? The Valuation Framework for Exits**
+   - Exit valuation framework for email lists
+   - Per-subscriber valuations: $1-10 depending on engagement
+   - Revenue multiples: 2.5-4x SDE (B2C), 4-6.5x (B2B)
+   - What buyers look for: engagement quality, revenue per subscriber, acquisition sources, historical data
+
+### Technical Fixes
+
+- Fixed trailing-slash URL duplication causing split rankings in GSC
+- Updated `BaseLayout.astro` canonical URL generation
+- Added `public/_redirects` for Netlify 301 redirects
+- Fixed MDX syntax errors (HTML comments, `<`/`>` in tables)
+
+### Site Totals
+- **New posts this session:** 6
+- **Total blog posts:** ~552
+
+---
+
+## 2026-04-03 (Session 29) - Analytics Review & Content Strategy Pivot
+
+### Google Analytics Review (Jan 1 - Apr 3, 2026)
+
+Analyzed 4 months of GA4 data to identify top-performing content and inform strategy.
+
+**Key Findings:**
+
+| Content Type | Performance | Signal |
+|--------------|-------------|--------|
+| YouTube Copywriting | 46+ views, 28 min avg engagement | **Clear winner** |
+| Marketing Expert Posts | High engagement (45-72 min avg) | Strong |
+| SaaS Content | 40 min engagement, 4.25 views/user | High intent |
+| Framework Explainers | 45-218 min engagement | Deep reading |
+| Programmatic Niche Tips | 0-1 views each | Not ranking yet |
+
+**Top Performers:**
+1. YouTube Title Formulas (46 views, 28 min engagement)
+2. Blog Post Templates for SaaS (17 views, 40 min engagement)
+3. Frank Kern Mass Control (15 views)
+4. SLAP Framework (12 views, 218 min engagement)
+5. YouTube Scripts (12 views)
+6. Eugene Schwartz Awareness Levels (5 views, 72 min engagement)
+
+### Strategy Pivot
+
+Based on data, shifting from broad programmatic content to doubling down on proven winners:
+
+**New Priority Order:**
+1. YouTube Copywriting Cluster (7 posts)
+2. Modern Marketing Expert Deep Dives (6 posts)
+3. SaaS Content Expansion (5 posts)
+4. Framework Explainers (4 posts)
+
+**Deprioritized:**
+- New programmatic niche tips (192 existing, minimal traction)
+- New niche guides (71 existing, few getting traffic)
+- More "Copy That [Goal]" posts
+
+### Content Created This Session
+
+**YouTube Copywriting Cluster (7 posts):**
+
+1. **YouTube End Screen Copy That Drives Subscribes**
+   - 10 end screen copy formulas
+   - Subscribe hook templates
+   - Technical timing and placement tips
+
+2. **YouTube Pinned Comment Strategy: The Underused Conversion Tool**
+   - 8 pinned comment strategies (CTA, engagement, value-add, polls, etc.)
+   - Rotating comment strategy for evergreen videos
+   - Common mistakes to avoid
+
+3. **YouTube Shorts Scripts: Hook Viewers in 3 Seconds**
+   - 10 Shorts hook formulas
+   - Loop script structure
+   - Shorts-to-long-form pipeline
+
+4. **YouTube Video Hook Formulas: The First 5 Seconds**
+   - 12 hook formulas for long-form videos
+   - Hook-to-content bridge structure
+   - The preview problem (don't give away the answer)
+
+5. **YouTube Channel About Section That Converts Visitors**
+   - 5 elements of converting About sections
+   - 8 About section templates
+   - SEO optimization layer
+
+6. **YouTube Playlist Titles and Descriptions That Get Clicks**
+   - 8 playlist title templates
+   - Description formulas for SEO
+   - Playlist organization strategy
+
+7. **YouTube Video Tags: Do They Still Matter?**
+   - Data on current tag impact
+   - When tags actually help
+   - 5-minute pragmatic tag strategy
+
+### Site Totals
+- **Total blog posts:** 546 (539 + 7 new)
+- **YouTube cluster:** 7/7 complete
+- **Next priority:** Modern Marketing Expert Deep Dives (6 posts)
+
+---
+
 ## 2025-01-27 (Session 28) - Mistakes/Myths Cluster Complete: 7 New Posts
 
 ### Completed Mistakes/Myths Cluster
