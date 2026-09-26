@@ -1,3 +1,4 @@
 # Redirect trailing slashes to non-trailing slash (301 permanent)
 # This prevents duplicate URL indexing in Google Search Console
-/*/ /:splat 301!
+# Note: No force flag (!) so static files like index.html are served normally
+/*/ /:splat 301
